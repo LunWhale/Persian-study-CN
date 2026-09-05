@@ -1,0 +1,63 @@
+{"fa": "کمک!", "roman": "komak", "cn": "救命！", "sound": "科马克", "note": "紧急呼救；声调提高，重复喊 komak komak。", "syl": "ko·mak", "stress": "2"}
+{"fa": "کمکم کن", "roman": "komakam kon", "cn": "帮帮我", "sound": "科马卡姆-孔", "note": "komak-am 我＋kon 做；向人求助。", "syl": "ko·ma·kam·kon", "stress": "1"}
+{"fa": "آتش!", "roman": "ātaš", "cn": "着火了！", "sound": "阿塔什", "note": "火 ātaš；报警电话 125（伊朗火警）。", "syl": "ā·taš", "stress": "2"}
+{"fa": "دزد!", "roman": "dozd", "cn": "抓小偷！", "sound": "多兹德", "note": "dozd 小偷；报警 110。", "syl": "dozd", "stress": "1"}
+{"fa": "پلیس", "roman": "polis", "cn": "警察", "sound": "波利斯", "note": "报警电话 110；叫警察 polis rā ṣadā kon（正式）。", "syl": "po·lis", "stress": "2"}
+{"fa": "آمبولانس", "roman": "āmbulāns", "cn": "救护车", "sound": "安布兰斯", "note": "救护电话 115；ā 拖长开头。", "syl": "ā·mbu·lāns", "stress": "3"}
+{"fa": "بیمارستان", "roman": "bīmārestān", "cn": "医院", "sound": "比马雷斯坦", "note": "bīmār＝病人＋ستان 场所；重音在 tān。", "syl": "bī·mā·re·stān", "stress": "4"}
+{"fa": "داروخانه", "roman": "dārū-ḵāne", "cn": "药房", "sound": "达鲁-哈内", "note": "买药、问药剂师；也可说 داروخانه。", "syl": "dā·rū·-ḵā·ne", "stress": "4"}
+{"fa": "مریض", "roman": "marīz", "cn": "生病、病人", "sound": "马里兹", "note": "我病了 marīz hastam；也指病人。", "syl": "ma·rīz", "stress": "2"}
+{"fa": "حالم خوب نیست", "roman": "hālam ḵūb nīst", "cn": "我不舒服", "sound": "哈拉姆-胡布-尼斯特", "note": "直译“我的状态不好”；去看病开场白。", "syl": "hā·lam·ḵūb·nīst", "stress": "1"}
+{"fa": "درد", "roman": "dard", "cn": "疼痛", "sound": "达尔德", "note": "哪里疼：in jā dard mīkonad（这里疼）。", "syl": "dard", "stress": "1"}
+{"fa": "درد میکنه", "roman": "dard mīkone", "cn": "疼", "sound": "达尔德-米科内", "note": "口语 mīkone；指部位：سرم درد میکنه 我头疼。", "syl": "dard·mī·ko·ne", "stress": "3"}
+{"fa": "سرم درد میکنه", "roman": "saram dard mīkone", "cn": "我头疼", "sound": "萨拉姆-达尔德-米科内", "note": "sar 头＋-am 我的；告诉医生哪里疼就用这个句式。", "syl": "sa·ram·dard·mī·ko·ne", "stress": "3"}
+{"fa": "دلم درد میکنه", "roman": "delam dard mīkone", "cn": "我肚子疼", "sound": "德拉姆-达尔德-米科内", "note": "del 心/腹；胃疼、肚子疼都用它。", "syl": "de·lam·dard·mī·ko·ne", "stress": "3"}
+{"fa": "گلویم درد میکنه", "roman": "galuyam dard mīkone", "cn": "我喉咙疼", "sound": "加卢亚姆-达尔德-米科内", "note": "galu 喉咙；口语常说 گلوم。", "syl": "ga·lu·yam·dard·mī·ko·ne", "stress": "3"}
+{"fa": "گوشم درد میکنه", "roman": "gūšam dard mīkone", "cn": "我耳朵疼", "sound": "古沙姆-达尔德-米科内", "note": "gūš 耳朵＋-am。", "syl": "gū·šam·dard·mī·ko·ne", "stress": "3"}
+{"fa": "پشتم درد میکنه", "roman": "poštam dard mīkone", "cn": "我背疼", "sound": "波什塔姆-达尔德-米科内", "note": "pošt 背；š 后接 t 顺读。", "syl": "po·štam·dard·mī·ko·ne", "stress": "3"}
+{"fa": "تب", "roman": "tab", "cn": "发烧", "sound": "塔卜", "note": "我发烧 tab dāram（直译“我有烧”）。", "syl": "tab", "stress": "1"}
+{"fa": "تب دارم", "roman": "tab dāram", "cn": "我发烧了", "sound": "塔卜-达拉姆", "note": "量体温 تب دارم 是“发烧中”。", "syl": "tab·dā·ram", "stress": "2"}
+{"fa": "سرفه", "roman": "sorfe", "cn": "咳嗽", "sound": "索尔费", "note": "我咳嗽 sorfe mīkonam。", "syl": "so·rfe", "stress": "2"}
+{"fa": "آبریزش بینی", "roman": "ābrīzeš-e bīnī", "cn": "流鼻涕", "sound": "阿布里泽什-埃-比尼", "note": "感冒症状；bīnī 鼻子。", "syl": "ā·brī·ze·š-e·bī·nī", "stress": "2"}
+{"fa": "سرماخوردم", "roman": "sarmā-ḵordam", "cn": "我感冒了", "sound": "萨尔马-霍尔达姆", "note": "字面“我吃了凉”；感冒最常见说法。", "syl": "sa·rmā·-ḵo·rdam", "stress": "4"}
+{"fa": "آنفولانزا", "roman": "ānfolānzā", "cn": "流感", "sound": "安福朗扎", "note": "重感冒/流感；比 sarmāḵorī 严重。", "syl": "ā·nfo·lā·nzā", "stress": "4"}
+{"fa": "کرونا", "roman": "koronā", "cn": "新冠", "sound": "科罗纳", "note": "近年常用；注意发音 koronā 重音在词尾。", "syl": "ko·ro·nā", "stress": "3"}
+{"fa": "سردرد", "roman": "sardard", "cn": "头痛", "sound": "萨尔达尔德", "note": "ser 头＋dard 痛合成词。", "syl": "sa·rdard", "stress": "2"}
+{"fa": "تب و لرز", "roman": "tab-o-larz", "cn": "发烧打冷战", "sound": "塔博-拉尔兹", "note": "o 是“和”的连接；larz 发抖。", "syl": "ta·b-o·-larz", "stress": "3"}
+{"fa": "تهوع", "roman": "tahavvo'", "cn": "恶心", "sound": "塔哈武", "note": "想吐的感觉；ع 收喉轻音。", "syl": "ta·ha·vvo'", "stress": "3"}
+{"fa": "اسهال", "roman": "eshāl", "cn": "腹泻", "sound": "埃沙尔", "note": "旅行者常问药：داروی اسهال＝止泻药。", "syl": "e·shāl", "stress": "2"}
+{"fa": "یبوست", "roman": "yobūs", "cn": "便秘", "sound": "尤布斯", "note": "ū 拖长；词尾 t 轻。", "syl": "yo·būs", "stress": "2"}
+{"fa": "ضعف", "roman": "zo'f", "cn": "虚弱、无力", "sound": "佐夫", "note": "感觉没劲：zo'f dāram；ع 收喉。", "syl": "zo'f", "stress": "1"}
+{"fa": "سرگیجه", "roman": "sargīje", "cn": "头晕", "sound": "萨尔吉杰", "note": "gī 拖长；j 浊音。", "syl": "sa·rgī·je", "stress": "3"}
+{"fa": "حساسیت", "roman": "hassāsīyat", "cn": "过敏", "sound": "哈萨西亚特", "note": "对…过敏：be X hassāsīyat dāram。", "syl": "ha·ssā·sī·yat", "stress": "4"}
+{"fa": "آلرژی دارم", "roman": "ālerzhī dāram", "cn": "我过敏", "sound": "阿勒日伊-达拉姆", "note": "ālerzhī 外来词；可跟 alergī 也通。", "syl": "ā·le·rzhī·dā·ram", "stress": "2"}
+{"fa": "شکستم", "roman": "šekastam", "cn": "我骨折了/摔断了", "sound": "谢卡斯塔姆", "note": "过去时“我断了（骨）”；也说 dastam šekast 我手折了。", "syl": "še·ka·stam", "stress": "3"}
+{"fa": "بریدگی", "roman": "borīdagī", "cn": "割伤、伤口", "sound": "博里达吉", "note": "被割到 borīdagī dāram。", "syl": "bo·rī·da·gī", "stress": "4"}
+{"fa": "سوختگی", "roman": "sūḵtagī", "cn": "烧伤、烫伤", "sound": "苏赫塔吉", "note": "sūḵ 哈气音；被烫了 sūḵtam。", "syl": "sū·ḵta·gī", "stress": "3"}
+{"fa": "تصادف", "roman": "tasādof", "cn": "事故、撞车", "sound": "塔萨多夫", "note": "出车祸 tasādof kardam；报警用语。", "syl": "ta·sā·dof", "stress": "3"}
+{"fa": "مصدوم", "roman": "masdūm", "cn": "受伤的人", "sound": "马斯杜姆", "note": "伤者；我受伤了 masdūm šodam。", "syl": "ma·sdūm", "stress": "2"}
+{"fa": "دارو", "roman": "dārū", "cn": "药", "sound": "达鲁", "note": "买药 darū；吃药 dārū mīḵoram。", "syl": "dā·rū", "stress": "2"}
+{"fa": "مسکن", "roman": "mosakkan", "cn": "止痛药", "sound": "莫萨坎", "note": "药店说 mosakkan-e dard 止痛片。", "syl": "mo·sa·kkan", "stress": "3"}
+{"fa": "آنتی‌بیوتیک", "roman": "āntī-bīotīk", "cn": "抗生素", "sound": "安提-比奥提克", "note": "需处方常见词；药店问药名用。", "syl": "ā·ntī·-bī·o·tīk", "stress": "5"}
+{"fa": "نسخه", "roman": "noshḵe", "cn": "处方", "sound": "诺什赫", "note": "医生开的单子；noshḵe dārī؟ 有处方吗。", "syl": "no·shḵe", "stress": "2"}
+{"fa": "دکتر لازم دارم", "roman": "doktor lāzem dāram", "cn": "我需要医生", "sound": "多克托尔-拉泽姆-达拉姆", "note": "lāzem 需要/必要。", "syl": "do·ktor·lā·zem·dā·ram", "stress": "2"}
+{"fa": "به پزشک نیاز دارم", "roman": "be pezešk nīāz dāram", "cn": "我需要看医生", "sound": "贝-佩泽什克-尼亚兹-达拉姆", "note": "pezešk 医生（正式）；nīāz 需要。", "syl": "be·pe·zešk·nī·āz·dā·ram", "stress": "2"}
+{"fa": "کجا می‌تونم دکتر پیدا کنم؟", "roman": "kojā mītūnam doktor peydā konam", "cn": "我上哪儿找医生", "sound": "科加-米图纳姆-多克托尔-佩达-科纳姆", "note": "旅行应急问句；找牙医也说 peydā konam。", "syl": "ko·jā·mī·tū·nam·do·ktor·pe·ydā·ko·nam", "stress": "2"}
+{"fa": "دندانپزشک", "roman": "dandān-pezešk", "cn": "牙医", "sound": "丹当-佩泽什克", "note": "牙疼 dandānam dard mīkone。", "syl": "da·ndā·n-pe·zešk", "stress": "4"}
+{"fa": "دندونم درد میکنه", "roman": "dandūnam dard mīkone", "cn": "我牙疼", "sound": "丹杜纳姆-达尔德-米科内", "note": "dandūn 是 دندان 的口语读法。", "syl": "da·ndū·nam·dard·mī·ko·ne", "stress": "3"}
+{"fa": "چشمم درد میکنه", "roman": "čašmam dard mīkone", "cn": "我眼睛疼", "sound": "切什马姆-达尔德-米科内", "note": "čašm 眼睛＋-am；也说 čašmam nīst 我看不见。", "syl": "ča·šmam·dard·mī·ko·ne", "stress": "3"}
+{"fa": "افتادم", "roman": "oftādam", "cn": "我摔倒了", "sound": "奥夫塔达姆", "note": "摔倒动词 افتادن 的过去时第一人称。", "syl": "o·ftā·dam", "stress": "3"}
+{"fa": "کیفم گم شده", "roman": "kīfam gom šode", "cn": "我的包丢了", "sound": "基法姆-戈姆-肖德", "note": "gom šodan＝丢失（被动“没了”）。", "syl": "kī·fam·gom·šo·de", "stress": "2"}
+{"fa": "گم شدم", "roman": "gom šodam", "cn": "我迷路了", "sound": "戈姆-肖达姆", "note": "求助路人；也说 جاده رو گم کردم（迷路找路）。", "syl": "gom·šo·dam", "stress": "2"}
+{"fa": "گذرنامه‌ام گم شده", "roman": "gozarnāme-am gom šode", "cn": "我的护照丢了", "sound": "戈扎尔纳梅阿姆-戈姆-肖德", "note": "报警/使馆必备句；gozarnāme 护照。", "syl": "go·za·rnā·me·-am·gom·šo·de", "stress": "2"}
+{"fa": "موبایلم گم شده", "roman": "mūbāyilam gom šode", "cn": "我的手机丢了", "sound": "穆巴伊拉姆-戈姆-肖德", "note": "报警时描述失物：موبایل＋م。", "syl": "mū·bā·yi·lam·gom·šo·de", "stress": "2"}
+{"fa": "جیب‌بر", "roman": "jīb-bor", "cn": "扒手", "sound": "吉卜-博尔", "note": "公共场所防贼提示；小心 jīb-bor！", "syl": "jī·b-bor", "stress": "2"}
+{"fa": "تلفنم را دزدیدند", "roman": "telefonam rā dozdīdand", "cn": "我的手机被偷了", "sound": "泰莱福纳姆-拉-多兹迪丹德", "note": "被动“他们偷了我的手机”；报警用。", "syl": "te·le·fo·nam·rā·do·zdī·dand", "stress": "3"}
+{"fa": "به پلیس زنگ بزن", "roman": "be polis zang bezan", "cn": "打电话报警", "sound": "贝-波利斯-藏-贝赞", "note": "zang bezan 打电话（字面“敲铃”）。", "syl": "be·po·lis·zang·be·zan", "stress": "2"}
+{"fa": "زنگ بزن ۱۱۰", "roman": "zang bezan yek yek sefr", "cn": "打110", "sound": "藏-贝赞-耶克-耶克-塞夫尔", "note": "伊朗报警电话 110；数字也可写阿拉伯数字。", "syl": "zang·be·zan·yek·yek·sefr", "stress": "1"}
+{"fa": "سفارت چین کجاست؟", "roman": "sefārat-e čīn kojā-st", "cn": "中国大使馆在哪儿", "sound": "塞法拉特-埃-钦-科加斯特", "note": "旅行证件出问题找使馆；سفارت＝大使馆。", "syl": "se·fā·ra·t-e·čīn·ko·jā-st", "stress": "2"}
+{"fa": "کنسولگری", "roman": "konsūlgarī", "cn": "领事馆", "sound": "孔苏尔加里", "note": "较小城市设领事馆；ū 拖长。", "syl": "ko·nsū·lga·rī", "stress": "4"}
+{"fa": "بیمه", "roman": "bīme", "cn": "保险", "sound": "比梅", "note": "旅行保险 bīme-ye safar；就医问保险。", "syl": "bī·me", "stress": "2"}
+{"fa": "راحت باش", "roman": "rāhat bāš", "cn": "别紧张、放宽心", "sound": "拉哈特-巴什", "note": "安慰病人/受惊者；rā 拖长。", "syl": "rā·hat·bāš", "stress": "1"}
+{"fa": "نگران نباش", "roman": "negarān nabāš", "cn": "别担心", "sound": "内加朗-纳巴什", "note": "安慰对方金句；nabāš 否定命令。", "syl": "ne·ga·rān·na·bāš", "stress": "2"}
+{"fa": "الان بهتر میشم", "roman": "alān behtar mīšam", "cn": "我马上会好起来", "sound": "阿朗-贝赫塔尔-米沙姆", "note": "behtar 更好；就医后宽慰话。", "syl": "a·lān·be·htar·mī·šam", "stress": "2"}

@@ -1,0 +1,74 @@
+{"fa": "من", "roman": "man", "cn": "我", "sound": "曼", "note": "第一人称主语，波斯语常省略，靠动词词尾看出“我”。", "syl": "man", "stress": "1"}
+{"fa": "تو", "roman": "to", "cn": "你（亲昵/平辈）", "sound": "托", "note": "对朋友用；对长辈或陌生人要用 شما（您）。", "syl": "to", "stress": "1"}
+{"fa": "او", "roman": "ū", "cn": "他/她", "sound": "乌", "note": "波斯语不分男女的他/她，都写作 او，读长音 ū。", "syl": "ū", "stress": "1"}
+{"fa": "شما", "roman": "šomā", "cn": "您、你们", "sound": "肖玛", "note": "尊称“您”也是复数“你们”，问长辈一律用 شما。", "syl": "šo·mā", "stress": "2"}
+{"fa": "ما", "roman": "mā", "cn": "我们", "sound": "马——", "note": "ā 拖长；我们做…要说 mā + 动词第一人称复数。", "syl": "mā", "stress": "1"}
+{"fa": "آنها", "roman": "ānhā", "cn": "他们/她们", "sound": "阿恩哈", "note": "指人指物都行，重音在 hā 上。", "syl": "ā·nhā", "stress": "2"}
+{"fa": "اسم", "roman": "esm", "cn": "名字", "sound": "埃斯姆", "note": "问名字 اسمت چیه（你的名字是啥）。", "syl": "esm", "stress": "1"}
+{"fa": "اسمت چیه؟", "roman": "esmet čī-ye", "cn": "你叫什么名字", "sound": "埃斯梅特-奇耶", "note": "ت 尾＝“你的”；چیه 是 چیست 的口语，重音在 čī。", "syl": "e·smet·čī·-ye", "stress": "2"}
+{"fa": "اسم من ... است", "roman": "esm-e man ast", "cn": "我的名字是…", "sound": "埃斯梅-曼-…-阿斯特", "note": "... 处放名字；است 书面读 ast，口语常吞成 e。", "syl": "e·sm-e·man·ast", "stress": "1"}
+{"fa": "اسم شما چیه؟", "roman": "esm-e šomā čī-ye", "cn": "您贵姓", "sound": "埃斯梅-肖玛-奇耶", "note": "正式问姓名；回答也回同样句式。", "syl": "e·sm-e·šo·mā·čī·-ye", "stress": "2"}
+{"fa": "خوشبختم", "roman": "ḵošbaḵtam", "cn": "幸会", "sound": "霍什巴赫塔姆", "note": "初次见面“很高兴认识你”，认识后双方都说。", "syl": "ḵo·šba·ḵtam", "stress": "3"}
+{"fa": "آشنایی با شما باعث خوشبختیه", "roman": "āšenāyī bā šomā bā'es-e ḵošbaḵtī-ye", "cn": "认识您很荣幸", "sound": "阿谢纳伊-巴-肖玛-巴埃塞-霍什巴赫提耶", "note": "正式场合的客套；باعث 的 ع 在喉咙轻收。", "syl": "ā·še·nā·yī·bā·šo·mā·bā·'e·s-e·ḵo·šba·ḵtī·-ye", "stress": "4"}
+{"fa": "اهل کجایی؟", "roman": "ahl-e kojā-yī", "cn": "你是哪里人", "sound": "阿赫勒-科加伊", "note": "问籍贯家乡；اهل 意为“属于…的人”。", "syl": "a·hl-e·ko·jā·-yī", "stress": "3"}
+{"fa": "اهل کجایید؟", "roman": "ahl-e kojā-yīd", "cn": "您是哪里人", "sound": "阿赫勒-科加伊德", "note": "对长辈问籍贯用 -īd 敬称词尾。", "syl": "a·hl-e·ko·jā·-yīd", "stress": "3"}
+{"fa": "من اهل چین هستم", "roman": "man ahl-e čīn hastam", "cn": "我是中国人", "sound": "曼-阿赫勒-钦-哈斯塔姆", "note": "چین 读“钦”不是“琴”；هستم＝我是。", "syl": "man·a·hl-e·čīn·ha·stam", "stress": "2"}
+{"fa": "ایران", "roman": "īrān", "cn": "伊朗", "sound": "伊朗", "note": "伊朗人自称 ايران（波斯），外界曾称波斯。", "syl": "ī·rān", "stress": "2"}
+{"fa": "چین", "roman": "čīn", "cn": "中国", "sound": "钦", "note": "国名；چ 读“奇”开头再收短。", "syl": "čīn", "stress": "1"}
+{"fa": "تهران", "roman": "tehrān", "cn": "德黑兰", "sound": "泰赫朗", "note": "首都；h 轻送气，别读成“特兰”。", "syl": "te·hrān", "stress": "2"}
+{"fa": "پکن", "roman": "pekan", "cn": "北京", "sound": "佩坎", "note": "波斯语里北京读 Pekan，结尾 n 轻。", "syl": "pe·kan", "stress": "2"}
+{"fa": "شیراز", "roman": "šīrāz", "cn": "设拉子", "sound": "希拉兹", "note": "诗人之城；ī 拖长，z 轻。", "syl": "šī·rāz", "stress": "2"}
+{"fa": "اصفهان", "roman": "esfahān", "cn": "伊斯法罕", "sound": "埃斯法罕", "note": "“伊斯法罕半天下”指其古建筑之美。", "syl": "e·sfa·hān", "stress": "3"}
+{"fa": "پایتخت", "roman": "pāyetaḵt", "cn": "首都", "sound": "帕耶塔赫特", "note": "字面“王座之脚”；ḵ 喉咙哈气音。", "syl": "pā·ye·taḵt", "stress": "3"}
+{"fa": "شهر", "roman": "šahr", "cn": "城市", "sound": "沙赫尔", "note": "r 是弹舌；中国城可说 šahr-e Čīn。", "syl": "šahr", "stress": "1"}
+{"fa": "کشور", "roman": "kešvar", "cn": "国家", "sound": "凯什瓦尔", "note": "kešvar-e man＝我的祖国。", "syl": "ke·švar", "stress": "2"}
+{"fa": "ملیت", "roman": "mellīyat", "cn": "国籍", "sound": "梅利亚特", "note": "问国籍 ملیتت چیه？", "syl": "me·llī·yat", "stress": "3"}
+{"fa": "ایرانی", "roman": "īrānī", "cn": "伊朗人；伊朗的", "sound": "伊拉尼", "note": "结尾 ī 变形容词/人，如 čāy-e īrānī 伊朗茶。", "syl": "ī·rā·nī", "stress": "3"}
+{"fa": "چینی", "roman": "čīnī", "cn": "中国人；中文", "sound": "奇尼", "note": "既是中国人也是汉语；注意 č 开头。", "syl": "čī·nī", "stress": "2"}
+{"fa": "خارجی", "roman": "ḵārejī", "cn": "外国人；外国的", "sound": "哈雷吉", "note": "ḵā 拖长；伊朗人说的“外国人”常指欧美客。", "syl": "ḵā·re·jī", "stress": "3"}
+{"fa": "زبان", "roman": "zabān", "cn": "语言；舌头", "sound": "扎班", "note": "زبون 是口语读音（bān→būn）。", "syl": "za·bān", "stress": "2"}
+{"fa": "فارسی", "roman": "fārsī", "cn": "波斯语", "sound": "法尔西", "note": "即伊朗官方语言；也有人叫 پارسی（古称）。", "syl": "fā·rsī", "stress": "2"}
+{"fa": "زبان چینی", "roman": "zabān-e čīnī", "cn": "中文", "sound": "扎班-埃-奇尼", "note": "正式说法；口语直接说 چینی 也懂。", "syl": "za·bā·n-e·čī·nī", "stress": "2"}
+{"fa": "انگلیسی", "roman": "englīsī", "cn": "英语", "sound": "恩格利西", "note": "词首 e 短促；重音在 lī。", "syl": "e·nglī·sī", "stress": "3"}
+{"fa": "عربی", "roman": "arabī", "cn": "阿拉伯语", "sound": "阿拉比", "note": "伊朗官方语言是波斯语，阿拉伯语用于宗教文本。", "syl": "a·ra·bī", "stress": "3"}
+{"fa": "چیزی نمی‌فهمم", "roman": "čīzī nemīfahmam", "cn": "我什么都听不懂", "sound": "奇齐-内米法赫马姆", "note": "چیزی＝任何东西；نمی 前缀拉重音。", "syl": "čī·zī·ne·mī·fa·hmam", "stress": "4"}
+{"fa": "فارسی بلد نیستم", "roman": "fārsī balad nīstam", "cn": "我不会波斯语", "sound": "法尔西-巴拉德-尼斯塔姆", "note": "بلد＝会、熟；问“你会吗”= بلد هستی؟", "syl": "fā·rsī·ba·lad·nī·stam", "stress": "2"}
+{"fa": "یک کم", "roman": "yek kam", "cn": "一点点", "sound": "耶克-卡姆", "note": "口语常叠成 کم کم（一点点地）；kam 短促。", "syl": "yek·kam", "stress": "1"}
+{"fa": "دارم یاد می‌گیرم", "roman": "dāram yād mīgīram", "cn": "我正在学", "sound": "达拉姆-亚德-米吉拉姆", "note": "“正在做…”的结构：دارم＋动词现在时。", "syl": "dā·ram·yād·mī·gī·ram", "stress": "3"}
+{"fa": "درس می‌خوانم", "roman": "dars mīḵānam", "cn": "我在读书/上学", "sound": "达尔斯-米哈纳姆", "note": "字面“读课”；大学生说自己在 dars mīḵānam。", "syl": "dars·mī·ḵā·nam", "stress": "3"}
+{"fa": "کار", "roman": "kār", "cn": "工作", "sound": "卡尔", "note": "“我工作”= kār mīkonam，字面“做工作”。", "syl": "kār", "stress": "1"}
+{"fa": "شغل", "roman": "šoḡl", "cn": "职业", "sound": "肖格勒", "note": "ḡ 是喉咙含漱音，词尾 l 轻。", "syl": "šoḡl", "stress": "1"}
+{"fa": "کارمند", "roman": "kārmand", "cn": "职员、员工", "sound": "卡尔曼德", "note": "组合词 kār＋mand；常用于“上班族”。", "syl": "kā·rmand", "stress": "2"}
+{"fa": "معلم", "roman": "mo'allem", "cn": "老师", "sound": "莫阿莱姆", "note": "ع 在喉咙轻收一下；女性老师也可叫 معلم。", "syl": "mo·'a·llem", "stress": "3"}
+{"fa": "دکتر", "roman": "doktor", "cn": "医生；博士", "sound": "多克托尔", "note": "既是学位也是大夫；问诊喊 doktor。", "syl": "do·ktor", "stress": "2"}
+{"fa": "مهندس", "roman": "mohandes", "cn": "工程师", "sound": "莫汉德斯", "note": "伊朗常见职业；h 轻送气。", "syl": "mo·ha·ndes", "stress": "3"}
+{"fa": "دانشجو", "roman": "dānešjū", "cn": "大学生", "sound": "达内什朱", "note": "ū 拖长；女大学生也同词。", "syl": "dā·ne·šjū", "stress": "3"}
+{"fa": "دانش‌آموز", "roman": "dāneš-āmūz", "cn": "中小学生", "sound": "达内什-阿穆兹", "note": "字面“学知识的”；与 dānešjū 不同。", "syl": "dā·ne·š-ā·mūz", "stress": "4"}
+{"fa": "بازاری", "roman": "bāzārī", "cn": "生意人、巴扎老板", "sound": "巴扎里", "note": "伊朗巴扎既是市场也是商圈；bāzārī 指那里的人。", "syl": "bā·zā·rī", "stress": "3"}
+{"fa": "خانه‌دار", "roman": "ḵāne-dār", "cn": "家庭主妇", "sound": "哈内-达尔", "note": "字面“管家的人”；也指主内的主妇。", "syl": "ḵā·ne·-dār", "stress": "3"}
+{"fa": "خانواده", "roman": "ḵānevāde", "cn": "家庭", "sound": "哈内瓦德", "note": "词中 vā 拖长；“家人”= ahl-e ḵānevāde。", "syl": "ḵā·ne·vā·de", "stress": "4"}
+{"fa": "پدر", "roman": "pedar", "cn": "父亲", "sound": "佩达尔", "note": "口语叫 بابا（爸爸）；pedar 稍正式。", "syl": "pe·dar", "stress": "2"}
+{"fa": "مادر", "roman": "mādar", "cn": "母亲", "sound": "马达尔", "note": "口语叫 مامان（妈妈）；mādar 稍正式。", "syl": "mā·dar", "stress": "2"}
+{"fa": "برادر", "roman": "barādar", "cn": "兄弟", "sound": "巴拉达尔", "note": "口语简称 برادر 或 داداش（哥）。", "syl": "ba·rā·dar", "stress": "3"}
+{"fa": "خواهر", "roman": "ḵāhar", "cn": "姐妹", "sound": "哈赫尔", "note": "ḵā 拖长再哈气；口语叫 آبجی（姐）。", "syl": "ḵā·har", "stress": "2"}
+{"fa": "پسر", "roman": "pesar", "cn": "儿子；男孩", "sound": "佩萨尔", "note": "重音在 sar；对男孩喊“孩子”也可用。", "syl": "pe·sar", "stress": "2"}
+{"fa": "دختر", "roman": "doḵtar", "cn": "女儿；女孩", "sound": "多赫塔尔", "note": "ḵ 是喉咙哈气音，不是 k。", "syl": "do·ḵtar", "stress": "2"}
+{"fa": "زن", "roman": "zan", "cn": "妻子；女人", "sound": "赞", "note": "语境区分：我的 zan＝我老婆；泛指女性也可。", "syl": "zan", "stress": "1"}
+{"fa": "شوهر", "roman": "šowhar", "cn": "丈夫", "sound": "肖赫尔", "note": "词中 ow 是 o＋v 连读，口型要圆。", "syl": "šo·whar", "stress": "2"}
+{"fa": "همسر", "roman": "hamsar", "cn": "配偶（中性正式）", "sound": "哈姆萨尔", "note": "介绍另一半时最得体，不分男女。", "syl": "ha·msar", "stress": "2"}
+{"fa": "بچه", "roman": "bačče", "cn": "小孩；孩子", "sound": "巴切", "note": "口语管自己娃也叫 bačče；č 读“奇”。", "syl": "ba·čče", "stress": "2"}
+{"fa": "پدر بزرگ", "roman": "pedar bozorg", "cn": "爷爷、姥爷", "sound": "佩达尔-博佐尔格", "note": "伊朗不细分爷爷姥爷，统称 pedar bozorg。", "syl": "pe·dar·bo·zorg", "stress": "2"}
+{"fa": "مادر بزرگ", "roman": "mādar bozorg", "cn": "奶奶、姥姥", "sound": "马达尔-博佐尔格", "note": "mādar bozorg 统指祖母辈；bozorg 意为“大”。", "syl": "mā·dar·bo·zorg", "stress": "2"}
+{"fa": "عمو", "roman": "amū", "cn": "伯父、叔父", "sound": "阿穆", "note": "父亲的兄弟都叫 عمو；ū 拖长。", "syl": "a·mū", "stress": "2"}
+{"fa": "عمه", "roman": "amme", "cn": "姑姑", "sound": "阿梅", "note": "父亲的姐妹；双 m 略停顿。", "syl": "a·mme", "stress": "2"}
+{"fa": "دایی", "roman": "dāyī", "cn": "舅舅", "sound": "达伊", "note": "母亲的兄弟；ā 拖长。", "syl": "dā·yī", "stress": "2"}
+{"fa": "خاله", "roman": "ḵāle", "cn": "姨妈", "sound": "哈莱", "note": "母亲的姐妹；呼女性长辈也可称 ḵānom。", "syl": "ḵā·le", "stress": "2"}
+{"fa": "پسرعمو", "roman": "pesar-amū", "cn": "堂兄弟（父系）", "sound": "佩萨尔-阿穆", "note": "字面“叔叔的儿子”；类似的还有 دخترعمو 堂姐妹。", "syl": "pe·sa·r-a·mū", "stress": "4"}
+{"fa": "بستگان", "roman": "bastegān", "cn": "亲戚", "sound": "巴斯特甘", "note": "泛指亲属关系；家庭聚会常说 فامیل（家人亲戚）。", "syl": "ba·ste·gān", "stress": "3"}
+{"fa": "فامیل", "roman": "fāmīl", "cn": "亲戚；家族", "sound": "法米尔", "note": "口语高频词；“我亲戚”= fāmīlam。", "syl": "fā·mīl", "stress": "2"}
+{"fa": "مجرد", "roman": "mojarrad", "cn": "单身", "sound": "莫贾拉德", "note": "ج 读浊“基”；问婚否 ازدواج کردی؟ 是否已婚。", "syl": "mo·ja·rrad", "stress": "3"}
+{"fa": "متاهل", "roman": "mota'ahhel", "cn": "已婚", "sound": "莫塔阿赫尔", "note": "正式词；口语“我已婚”= zan dāram/šowhar dāram（有老婆/老公）。", "syl": "mo·ta·'a·hhel", "stress": "4"}
+{"fa": "ازدواج", "roman": "ezdevāj", "cn": "结婚", "sound": "埃兹德瓦吉", "note": "“我结婚了”= ezdevāj kardam。", "syl": "e·zde·vāj", "stress": "3"}
+{"fa": "چه کاره هستی؟", "roman": "če kāre hastī", "cn": "你是做什么的", "sound": "切-卡雷-哈斯蒂", "note": "问职业的口语句；回答说自己是 kārmand/مهندس…", "syl": "če·kā·re·ha·stī", "stress": "2"}
+{"fa": "کجا کار می‌کنی؟", "roman": "kojā kār mīkonī", "cn": "你在哪儿上班", "sound": "科加-卡尔-米科尼", "note": "kojā 重音在 jā。", "syl": "ko·jā·kār·mī·ko·nī", "stress": "3"}
+{"fa": "بازنشسته", "roman": "bāznešaste", "cn": "退休的", "sound": "巴兹内沙斯特", "note": "“我退休了”= bāznešaste hastam。", "syl": "bā·zne·ša·ste", "stress": "4"}

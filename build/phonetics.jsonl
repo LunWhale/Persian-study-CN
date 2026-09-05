@@ -1,0 +1,50 @@
+{"kind": "letter", "no": 1, "glyph": "ا", "name_fa": "الف", "name_roman": "alef", "name_cn": "阿莱夫", "how": "长音开头读“阿——”（ā）；单词开头如 āb。", "ex_fa": "آب", "ex_roman": "āb", "ex_cn": "水", "ex_snd": "阿卜"}
+{"kind": "letter", "no": 2, "glyph": "ب", "name_fa": "ب", "name_roman": "be", "name_cn": "贝", "how": "双唇轻闭爆破，像普通话 b，但不送气。", "ex_fa": "بابا", "ex_roman": "bābā", "ex_cn": "爸爸", "ex_snd": "巴巴"}
+{"kind": "letter", "no": 3, "glyph": "پ", "name_fa": "پ", "name_roman": "pe", "name_cn": "佩", "how": "b 的送气版，像普通话 p（拼音 p）。", "ex_fa": "پدر", "ex_roman": "pedar", "ex_cn": "父亲", "ex_snd": "佩达尔"}
+{"kind": "letter", "no": 4, "glyph": "ت", "name_fa": "ت", "name_roman": "te", "name_cn": "泰", "how": "舌尖顶齿龈，像普通话 d 但不送气。", "ex_fa": "تو", "ex_roman": "to", "ex_cn": "你", "ex_snd": "托"}
+{"kind": "letter", "no": 5, "glyph": "ث", "name_fa": "ث", "name_roman": "se", "name_cn": "塞", "how": "读 s（舌尖），和 س 同音；多见于阿拉伯借词。", "ex_fa": "ثانیه", "ex_roman": "sānīye", "ex_cn": "秒", "ex_snd": "萨尼耶"}
+{"kind": "letter", "no": 6, "glyph": "ج", "name_fa": "ج", "name_roman": "jim", "name_cn": "吉姆", "how": "浊音“基/知”，声带振动，普通话无；接近英语 j。", "ex_fa": "جان", "ex_roman": "jān", "ex_cn": "亲爱的；生命", "ex_snd": "姜"}
+{"kind": "letter", "no": 7, "glyph": "چ", "name_fa": "چ", "name_roman": "če", "name_cn": "切", "how": "读“奇”，像英语 ch；普通话 q（拼音 q）。", "ex_fa": "چای", "ex_roman": "čāy", "ex_cn": "茶", "ex_snd": "恰伊"}
+{"kind": "letter", "no": 8, "glyph": "ح", "name_fa": "ح", "name_roman": "he", "name_cn": "哈", "how": "清音 h，但比 ه 更用力、靠喉咙；像用力哈气。", "ex_fa": "حال", "ex_roman": "hāl", "ex_cn": "状态、状况", "ex_snd": "哈勒"}
+{"kind": "letter", "no": 9, "glyph": "خ", "name_fa": "خ", "name_roman": "ḵe", "name_cn": "赫埃", "how": "喉咙哈气音“赫——”，像冬天哈手；不是 k！", "ex_fa": "خوب", "ex_roman": "ḵūb", "ex_cn": "好", "ex_snd": "胡卜"}
+{"kind": "letter", "no": 10, "glyph": "د", "name_fa": "د", "name_roman": "dāl", "name_cn": "达勒", "how": "舌尖顶齿龈浊音，像普通话 d。", "ex_fa": "دو", "ex_roman": "do", "ex_cn": "二", "ex_snd": "多"}
+{"kind": "letter", "no": 11, "glyph": "ذ", "name_fa": "ذ", "name_roman": "zāl", "name_cn": "扎勒", "how": "读 z（浊），和 ز 同音；阿拉伯借词里常见。", "ex_fa": "ذهن", "ex_roman": "zehn", "ex_cn": "头脑、思维", "ex_snd": "泽赫恩"}
+{"kind": "letter", "no": 12, "glyph": "ر", "name_fa": "ر", "name_roman": "re", "name_cn": "雷", "how": "弹舌 r！舌尖在齿龈快速颤动 1-2 下，先练“德拉拉”。", "ex_fa": "رنگ", "ex_roman": "rang", "ex_cn": "颜色", "ex_snd": "朗格"}
+{"kind": "letter", "no": 13, "glyph": "ز", "name_fa": "ز", "name_roman": "ze", "name_cn": "泽", "how": "浊擦音，像普通话 z（资）拉长；声带振动。", "ex_fa": "زبان", "ex_roman": "zabān", "ex_cn": "舌头；语言", "ex_snd": "扎邦"}
+{"kind": "letter", "no": 14, "glyph": "ژ", "name_fa": "ژ", "name_roman": "že", "name_cn": "热", "how": "浊音“日”，像普通话 r（日）但更卷；英语 measure 的 s。", "ex_fa": "ژاله", "ex_roman": "žāle", "ex_cn": "露珠", "ex_snd": "日阿莱"}
+{"kind": "letter", "no": 15, "glyph": "س", "name_fa": "س", "name_roman": "sīn", "name_cn": "辛", "how": "清音 s，像普通话 s（思）。", "ex_fa": "سر", "ex_roman": "sar", "ex_cn": "头", "ex_snd": "萨尔"}
+{"kind": "letter", "no": 16, "glyph": "ش", "name_fa": "ش", "name_roman": "šīn", "name_cn": "欣", "how": "读“什”，像普通话 sh（诗）；英语 sh。", "ex_fa": "شب", "ex_roman": "šab", "ex_cn": "夜晚", "ex_snd": "沙卜"}
+{"kind": "letter", "no": 17, "glyph": "ص", "name_fa": "ص", "name_roman": "sād", "name_cn": "萨德", "how": "读 s，和 س 同音；阿拉伯借词中偏“饱满”。", "ex_fa": "صبح", "ex_roman": "sobh", "ex_cn": "早晨", "ex_snd": "索卜"}
+{"kind": "letter", "no": 18, "glyph": "ض", "name_fa": "ض", "name_roman": "zād", "name_cn": "扎德", "how": "读 z，和 ز 同音。", "ex_fa": "ضعیف", "ex_roman": "za'īf", "ex_cn": "虚弱的", "ex_snd": "扎伊夫"}
+{"kind": "letter", "no": 19, "glyph": "ط", "name_fa": "ط", "name_roman": "tā", "name_cn": "塔", "how": "读 t，和 ت 同音。", "ex_fa": "طلا", "ex_roman": "talā", "ex_cn": "黄金", "ex_snd": "塔拉"}
+{"kind": "letter", "no": 20, "glyph": "ظ", "name_fa": "ظ", "name_roman": "zā", "name_cn": "扎", "how": "读 z，和 ز 同音。", "ex_fa": "ظهر", "ex_roman": "zohr", "ex_cn": "中午", "ex_snd": "佐赫尔"}
+{"kind": "letter", "no": 21, "glyph": "ع", "name_fa": "ع", "name_roman": "eyn", "name_cn": "埃因", "how": "喉部收窄音：先做“呕吐感”再发声，普通话无；词首读得像短“啊”。", "ex_fa": "عصر", "ex_roman": "asr", "ex_cn": "下午", "ex_snd": "阿斯尔"}
+{"kind": "letter", "no": 22, "glyph": "غ", "name_fa": "غ", "name_roman": "ḡeyn", "name_cn": "赫因", "how": "浊喉音“额——”，像含漱口水；与 خ 是清浊一对。", "ex_fa": "غذا", "ex_roman": "ḡazā", "ex_cn": "食物", "ex_snd": "哈扎"}
+{"kind": "letter", "no": 23, "glyph": "ف", "name_fa": "ف", "name_roman": "fe", "name_cn": "费", "how": "上齿碰下唇的清音 f，像普通话 f。", "ex_fa": "فکر", "ex_roman": "fekr", "ex_cn": "想法", "ex_snd": "费克尔"}
+{"kind": "letter", "no": 24, "glyph": "ق", "name_fa": "ق", "name_roman": "qāf", "name_cn": "戈夫", "how": "小舌音“戈”，喉咙深处爆破，不送气；像法语 r 的清版。", "ex_fa": "قلم", "ex_roman": "qalam", "ex_cn": "笔", "ex_snd": "戈拉姆"}
+{"kind": "letter", "no": 25, "glyph": "ک", "name_fa": "ک", "name_roman": "kāf", "name_cn": "卡夫", "how": "读 k：舌根顶软腭，清音不送气（像拼音 g）。注意是波斯字母 ک，不是阿拉伯 ك。", "ex_fa": "کتاب", "ex_roman": "ketāb", "ex_cn": "书", "ex_snd": "凯塔卜"}
+{"kind": "letter", "no": 26, "glyph": "گ", "name_fa": "گ", "name_roman": "gāf", "name_cn": "戈夫", "how": "读 g：k 的浊音（像拼音 g 但要振动），普通话“哥”去掉送气。", "ex_fa": "گوشت", "ex_roman": "gūšt", "ex_cn": "肉", "ex_snd": "古什特"}
+{"kind": "letter", "no": 27, "glyph": "ل", "name_fa": "ل", "name_roman": "lām", "name_cn": "拉姆", "how": "舌尖顶齿龈浊音 l，像普通话 l。", "ex_fa": "لب", "ex_roman": "lab", "ex_cn": "嘴唇", "ex_snd": "拉卜"}
+{"kind": "letter", "no": 28, "glyph": "م", "name_fa": "م", "name_roman": "mīm", "name_cn": "米姆", "how": "双唇鼻音 m，像普通话 m。", "ex_fa": "من", "ex_roman": "man", "ex_cn": "我", "ex_snd": "曼"}
+{"kind": "letter", "no": 29, "glyph": "ن", "name_fa": "ن", "name_roman": "nūn", "name_cn": "努恩", "how": "舌尖鼻音 n，像普通话 n。", "ex_fa": "نان", "ex_roman": "nān", "ex_cn": "馕（面包）", "ex_snd": "南"}
+{"kind": "letter", "no": 30, "glyph": "و", "name_fa": "و", "name_roman": "vāv", "name_cn": "瓦夫", "how": "两种读法：辅音读 v（上齿碰下唇）；元音读 ū/o。", "ex_fa": "وقت", "ex_roman": "vaqt", "ex_cn": "时间", "ex_snd": "瓦格特"}
+{"kind": "letter", "no": 31, "glyph": "ه", "name_fa": "ه", "name_roman": "he", "name_cn": "赫埃", "how": "轻 h：像轻轻呼气；词尾常不发音（-e 尾）。与 ح 的清喉音不同。", "ex_fa": "هفت", "ex_roman": "haft", "ex_cn": "七", "ex_snd": "哈福特"}
+{"kind": "letter", "no": 32, "glyph": "ی", "name_fa": "ی", "name_roman": "ye", "name_cn": "耶", "how": "两种读法：辅音读 y（亚）；词尾常是长元音 ī。注意是波斯字母 ی，不是阿拉伯 ي。", "ex_fa": "یار", "ex_roman": "yār", "ex_cn": "伙伴、爱人", "ex_snd": "亚尔"}
+{"kind": "vowel", "no": 1, "sym": "a", "name": "短 a", "name_cn": "短“啊”", "how": "嘴张大、短促干脆，不拖；像普通话“啊”说一半。", "ex_fa": "از", "ex_roman": "az", "ex_cn": "从", "ex_snd": "阿兹", "sound_fa": "ا"}
+{"kind": "vowel", "no": 2, "sym": "ā", "name": "长 ā", "name_cn": "长“啊——”", "how": "同样口型，拖长一倍；ā 拖长是波斯语灵魂。", "ex_fa": "نان", "ex_roman": "nān", "ex_cn": "馕", "ex_snd": "那——恩", "sound_fa": "آ"}
+{"kind": "vowel", "no": 3, "sym": "e", "name": "短 e", "name_cn": "短“诶”", "how": "嘴微张、嘴角略展，短促“诶”；像英语 set 的 e。", "ex_fa": "که", "ex_roman": "ke", "ex_cn": "（连词）那个/因为", "ex_snd": "凯", "sound_fa": "ه"}
+{"kind": "vowel", "no": 4, "sym": "ī", "name": "长 ī", "name_cn": "长“衣——”", "how": "咧嘴微笑状，拖长“衣——”；英语 see。", "ex_fa": "شیر", "ex_roman": "šīr", "ex_cn": "牛奶；狮子", "ex_snd": "希——尔", "sound_fa": "ی"}
+{"kind": "vowel", "no": 5, "sym": "o", "name": "短 o", "name_cn": "短“哦”", "how": "圆唇短促“哦”，像英语 hot 的 o。", "ex_fa": "تو", "ex_roman": "to", "ex_cn": "你", "ex_snd": "托", "sound_fa": "و"}
+{"kind": "vowel", "no": 6, "sym": "ū", "name": "长 ū", "name_cn": "长“乌——”", "how": "撮圆嘴唇，拖长“乌——”；英语 too。", "ex_fa": "دور", "ex_roman": "dūr", "ex_cn": "远", "ex_snd": "杜——尔", "sound_fa": "و"}
+{"kind": "tricky", "no": 1, "sym": "ḵ", "glyph": "خ", "name_cn": "赫埃", "how": "清喉擦音：喉咙收紧哈气，像冬天哈手“赫——”。普通话没有，多听示范。", "ex_fa": "خوب", "ex_roman": "ḵūb", "ex_cn": "好", "ex_snd": "胡卜"}
+{"kind": "tricky", "no": 2, "sym": "ḡ", "glyph": "غ", "name_cn": "赫因", "how": "浊喉擦音：像含漱口水发出的“额——”，声带振动；与 ḵ 清浊相对。", "ex_fa": "غذا", "ex_roman": "ḡazā", "ex_cn": "食物", "ex_snd": "哈扎"}
+{"kind": "tricky", "no": 3, "sym": "q", "glyph": "ق", "name_cn": "戈夫", "how": "小舌爆破“戈”：喉咙深处，不送气；练“嘎”但发音点退到小舌。", "ex_fa": "قلم", "ex_roman": "qalam", "ex_cn": "笔", "ex_snd": "戈拉姆"}
+{"kind": "tricky", "no": 4, "sym": "š", "glyph": "ش", "name_cn": "欣", "how": "清音“什”：舌尖翘向硬腭，像普通话 sh。", "ex_fa": "شما", "ex_roman": "šomā", "ex_cn": "您", "ex_snd": "肖玛"}
+{"kind": "tricky", "no": 5, "sym": "ž", "glyph": "ژ", "name_cn": "热", "how": "浊音“日”：š 振动声带；普通话 r 近似但更卷。", "ex_fa": "ژاله", "ex_roman": "žāle", "ex_cn": "露珠", "ex_snd": "日阿莱"}
+{"kind": "tricky", "no": 6, "sym": "č", "glyph": "چ", "name_cn": "切", "how": "清音“奇”：像普通话 q（拼音 qī）。", "ex_fa": "چای", "ex_roman": "čāy", "ex_cn": "茶", "ex_snd": "恰伊"}
+{"kind": "tricky", "no": 7, "sym": "j", "glyph": "ج", "name_cn": "吉姆", "how": "浊音“基”：č 振动声带，像英语 j。", "ex_fa": "جان", "ex_roman": "jān", "ex_cn": "亲爱的", "ex_snd": "姜"}
+{"kind": "tricky", "no": 8, "sym": "h 轻", "glyph": "ه", "name_cn": "赫埃", "how": "轻声 h：松弛呼气；词尾 -e 是它的弱化（不读 h）。", "ex_fa": "هفت", "ex_roman": "haft", "ex_cn": "七", "ex_snd": "哈福特"}
+{"kind": "tricky", "no": 9, "sym": "h 重", "glyph": "ح", "name_cn": "哈", "how": "用力 h：喉咙收紧再放开，比 ه 明显；像用力哈气。", "ex_fa": "حال", "ex_roman": "hāl", "ex_cn": "状态", "ex_snd": "哈勒"}
+{"kind": "tricky", "no": 10, "sym": "r 弹舌", "glyph": "ر", "name_cn": "雷", "how": "弹舌：舌尖在齿龈快速颤动。先练“德-德-德”连发找感觉。", "ex_fa": "رنگ", "ex_roman": "rang", "ex_cn": "颜色", "ex_snd": "朗格"}
+{"kind": "tricky", "no": 11, "sym": "v / ū", "glyph": "و", "name_cn": "瓦夫", "how": "辅音 v：上齿碰下唇（普通话无 v，用 w 会错）；元音 ū：圆唇长乌。", "ex_fa": "وقت", "ex_roman": "vaqt", "ex_cn": "时间", "ex_snd": "瓦格特"}
+{"kind": "tricky", "no": 12, "sym": "y / ī", "glyph": "ی", "name_cn": "耶", "how": "辅音 y：读“亚”；词尾长 ī：读“衣——”。看它在音节里当辅音还是元音。", "ex_fa": "یار", "ex_roman": "yār", "ex_cn": "伙伴", "ex_snd": "亚尔"}
