@@ -50,6 +50,8 @@ def norm_key(fa): return re.sub(r"[\u200c\s]+", "", fa)
 def fa_hash(fa):
     return hashlib.sha1(fa.encode("utf-8")).hexdigest()[:16]
 
+RATE = "-15%"  # 慢速：让 r 弹舌、音节个数都听得清
+
 def synthesize_many(texts, out_root=AUDIO, voice=VOICE_F, concurrency=3):
     """Return {fa: mp3_path} for successfully synthesized texts."""
     out_root.mkdir(parents=True, exist_ok=True)
@@ -61,7 +63,7 @@ def synthesize_many(texts, out_root=AUDIO, voice=VOICE_F, concurrency=3):
         if mp3.exists() and mp3.stat().st_size > 500:
             results[fa] = mp3; return
         proc = await asyncio.create_subprocess_exec(
-            str(EDGE), "--voice", voice, "--text", fa, "--write-media", str(mp3),
+            str(EDGE), "--voice", voice, f"--rate={RATE}", "--text", fa, "--write-media", str(mp3),
             stdout=asyncio.subprocess.PIPE, stderr=asyncio.subprocess.PIPE)
         out, err = await proc.communicate()
         if proc.returncode == 0 and mp3.exists() and mp3.stat().st_size > 500:
@@ -150,14 +152,36 @@ def demo_rows():
     return phonetics_blocks()  # backward compatibility no-op
 
 # ---------------- cards ----------------
-def syllable_html(syl):
-    """syl e.g. 'sobh·be-ḵeyr' → spans with · and hyphen preserved, stress digits stripped."""
+def syl_stress_map(syl, stress):
+    """Return dict idx->level for syllables: 1=主重音(红), 2=次重音(蓝).
+    stress = 1-based index of primary stressed syllable in the ·-split list.
+    Secondary = last syllable of each word (words separated by space in syl?).
+    Our syl is ·-joined across whole phrase; word boundaries are lost, so we
+    derive secondary stress only when roman is passed. Keep simple: primary only,
+    plus rule 'each word's last syllable' handled via roman words below."""
+    if not syl: return {}
+    parts = [p for p in syl.split("·") if p]
+    m = {}
+    try:
+        primary = int(stress)
+        if 1 <= primary <= len(parts):
+            m[primary] = 1
+    except Exception:
+        pass
+    return m, parts
+
+def syllable_html(syl, stress=""):
+    """syl 'sobh·be·heyr' → spans; stressed syllable highlighted."""
     if not syl: return ""
+    stress_map, parts = syl_stress_map(syl, stress)
     out = []
-    for chunk in re.split(r"([·\-])", syl):
-        if chunk == "·": out.append('<span class="sdot">·</span>')
-        elif chunk == "-": out.append('<span class="shyph">-</span>')
-        elif chunk: out.append(f'<span class="syl">{esc(chunk)}</span>')
+    for i, p in enumerate(parts, 1):
+        cls = "syl"
+        if stress_map.get(i) == 1: cls += " st1"
+        elif stress_map.get(i) == 2: cls += " st2"
+        out.append(f'<span class="{cls}">{esc(p)}</span>')
+        if i < len(parts):
+            out.append('<span class="sdot">·</span>')
     return "".join(out)
 
 def load_rows():
@@ -234,9 +258,18 @@ def render_cards(rows):
             syl, stress = r.get("syl", ""), r.get("stress", "")
             pron_parts = []
             if syl:
-                pron_parts.append(f'<span class="pronsyl">逐音节 {syllable_html(syl)}</span>')
+                pron_parts.append(f'<span class="pronsyl">逐音节 {syllable_html(syl, stress)}</span>')
             if stress:
-                pron_parts.append(f'<span class="prstress">重音<span class="st">{esc(stress)}</span></span>')
+                # 人类可读的重音说明：指出重读音节
+                parts = [p for p in syl.split("·") if p] if syl else []
+                st_txt = stress
+                try:
+                    idx = int(stress)
+                    if 1 <= idx <= len(parts):
+                        st_txt = f"最后一个音节「{parts[idx-1]}」" if idx == len(parts) else f"第{idx}个音节「{parts[idx-1]}」"
+                except Exception:
+                    pass
+                pron_parts.append(f'<span class="prstress">重音 <span class="st">{esc(st_txt)}</span></span>')
             pron_html = f'<div class="row-pron">{"".join(pron_parts)}</div>' if pron_parts else ""
             note = note_enhance(r["note"])
             cards_html.append(

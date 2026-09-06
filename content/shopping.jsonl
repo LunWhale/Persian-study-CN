@@ -1,80 +1,80 @@
-{"fa": "فروشگاه", "roman": "forūšgāh", "cn": "商店", "sound": "福鲁什加赫", "note": "ū 拖长；词尾 gāh 场所后缀。", "syl": "fo·rū·šgāh", "stress": "3"}
-{"fa": "مغازه", "roman": "maḡāze", "cn": "小店、铺子", "sound": "马哈泽", "note": "ḡ 喉音“额”；街边小店常用。", "syl": "ma·ḡā·ze", "stress": "3"}
+{"fa": "فروشگاه", "roman": "forūshgāh", "cn": "商店", "sound": "福鲁什加赫", "note": "ū 拖长；词尾 gāh 场所后缀。", "syl": "fo·rū·shgāh", "stress": "3"}
+{"fa": "مغازه", "roman": "magāze", "cn": "小店、铺子", "sound": "马哈泽", "note": "g 喉音“额”；街边小店常用。", "syl": "ma·gā·ze", "stress": "3"}
 {"fa": "بازار", "roman": "bāzār", "cn": "巴扎（集市）", "sound": "巴扎尔", "note": "ā 拖长；伊朗传统市场，逛 bāzār 是文化体验。", "syl": "bā·zār", "stress": "2"}
-{"fa": "مرکز خرید", "roman": "markaz-e ḵarīd", "cn": "购物中心", "sound": "马尔卡泽-哈里德", "note": "现代化商场叫 مرکز خرید 或 مال。", "syl": "ma·rka·z-e·ḵa·rīd", "stress": "2"}
-{"fa": "پاساژ", "roman": "pāsāž", "cn": "商业街楼（购物廊）", "sound": "帕萨日", "note": "ž 读“日”；城市里成排小店楼。", "syl": "pā·sāž", "stress": "2"}
+{"fa": "مرکز خرید", "roman": "markaz-e harīd", "cn": "购物中心", "sound": "马尔卡泽-哈里德", "note": "现代化商场叫 مرکز خرید 或 مال。", "syl": "ma·rkaz·e·ha·rīd", "stress": "5"}
+{"fa": "پاساژ", "roman": "pāsāzh", "cn": "商业街楼（购物廊）", "sound": "帕萨日", "note": "zh 读“日”；城市里成排小店楼。", "syl": "pā·sāzh", "stress": "2"}
 {"fa": "سوپرمارکت", "roman": "supermārket", "cn": "超市", "sound": "苏佩尔马凯特", "note": "外来词；买日用品去 سوپرمارکت。", "syl": "su·pe·rmā·rket", "stress": "4"}
 {"fa": "هایپرمارکت", "roman": "hāypermārket", "cn": "大型超市", "sound": "哈伊佩尔马凯特", "note": "郊区大卖场；ā 拖长开头。", "syl": "hā·ype·rmā·rket", "stress": "4"}
 {"fa": "نانوایی", "roman": "nānvāyī", "cn": "面包房", "sound": "南瓦伊", "note": "买新鲜 nān 的地方；vā 拖长。", "syl": "nā·nvā·yī", "stress": "3"}
-{"fa": "قصابی", "roman": "qassābī", "cn": "肉铺", "sound": "加萨比", "note": "q 喉音＋双 s；买 gūšt 肉。", "syl": "qa·ssā·bī", "stress": "3"}
-{"fa": "میوه فروشی", "roman": "mīve-forūšī", "cn": "水果店", "sound": "米韦-福鲁希", "note": "forūš 卖；街头水果摊同称。", "syl": "mī·ve·-fo·rū·šī", "stress": "5"}
-{"fa": "سبزی فروشی", "roman": "sabzī-forūšī", "cn": "菜摊、菜店", "sound": "萨布齐-福鲁希", "note": "卖蔬菜香草的铺子。", "syl": "sa·bzī·-fo·rū·šī", "stress": "5"}
-{"fa": "کتاب فروشی", "roman": "ketāb-forūšī", "cn": "书店", "sound": "凯塔卜-福鲁希", "note": "ketāb 书；德黑兰有书市一条街。", "syl": "ke·tā·b-fo·rū·šī", "stress": "5"}
-{"fa": "داروخانه", "roman": "dārū-ḵāne", "cn": "药房", "sound": "达鲁-哈内", "note": "买药认绿十字标志；dārū 药。", "syl": "dā·rū·-ḵā·ne", "stress": "4"}
-{"fa": "لباس فروشی", "roman": "lebās-forūšī", "cn": "服装店", "sound": "莱巴斯-福鲁希", "note": "lebās 衣服；买衣服。", "syl": "le·bā·s-fo·rū·šī", "stress": "5"}
-{"fa": "کفش فروشی", "roman": "kafš-forūšī", "cn": "鞋店", "sound": "卡夫什-福鲁希", "note": "kafš 鞋；词首 k 清音。", "syl": "ka·fš-fo·rū·šī", "stress": "4"}
-{"fa": "طلا فروشی", "roman": "talā-forūšī", "cn": "金店", "sound": "塔拉-福鲁希", "note": "巴扎里金店成排；talā 黄金。", "syl": "ta·lā·-fo·rū·šī", "stress": "5"}
-{"fa": "بازار بزرگ", "roman": "bāzār-e bozorg", "cn": "大巴扎", "sound": "巴扎雷-博佐尔格", "note": "德黑兰/大马士革式大市集总称。", "syl": "bā·zā·r-e·bo·zorg", "stress": "2"}
-{"fa": "قیمت", "roman": "qeymat", "cn": "价格", "sound": "盖马特", "note": "ey 读“诶衣”非“伊”；问价必用。", "syl": "qe·ymat", "stress": "2"}
+{"fa": "قصابی", "roman": "kassābī", "cn": "肉铺", "sound": "加萨比", "note": "k 喉音＋双 s；买 gūsht 肉。", "syl": "ka·ssā·bī", "stress": "3"}
+{"fa": "میوه فروشی", "roman": "mīve-forūshī", "cn": "水果店", "sound": "米韦-福鲁希", "note": "forūsh 卖；街头水果摊同称。", "syl": "mī·ve·fo·rū·shī", "stress": "5"}
+{"fa": "سبزی فروشی", "roman": "sabzī-forūshī", "cn": "菜摊、菜店", "sound": "萨布齐-福鲁希", "note": "卖蔬菜香草的铺子。", "syl": "sa·bzī·fo·rū·shī", "stress": "5"}
+{"fa": "کتاب فروشی", "roman": "ketāb-forūshī", "cn": "书店", "sound": "凯塔卜-福鲁希", "note": "ketāb 书；德黑兰有书市一条街。", "syl": "ke·tāb·fo·rū·shī", "stress": "5"}
+{"fa": "داروخانه", "roman": "dārū-hāne", "cn": "药房", "sound": "达鲁-哈内", "note": "买药认绿十字标志；dārū 药。", "syl": "dā·rū·hā·ne", "stress": "4"}
+{"fa": "لباس فروشی", "roman": "lebās-forūshī", "cn": "服装店", "sound": "莱巴斯-福鲁希", "note": "lebās 衣服；买衣服。", "syl": "le·bās·fo·rū·shī", "stress": "5"}
+{"fa": "کفش فروشی", "roman": "kafsh-forūshī", "cn": "鞋店", "sound": "卡夫什-福鲁希", "note": "kafsh 鞋；词首 k 清音。", "syl": "kafsh·fo·rū·shī", "stress": "4"}
+{"fa": "طلا فروشی", "roman": "talā-forūshī", "cn": "金店", "sound": "塔拉-福鲁希", "note": "巴扎里金店成排；talā 黄金。", "syl": "ta·lā·fo·rū·shī", "stress": "5"}
+{"fa": "بازار بزرگ", "roman": "bāzār-e bozorg", "cn": "大巴扎", "sound": "巴扎雷-博佐尔格", "note": "德黑兰/大马士革式大市集总称。", "syl": "bā·zār·e·bo·zorg", "stress": "5"}
+{"fa": "قیمت", "roman": "keymat", "cn": "价格", "sound": "盖马特", "note": "ey 读“诶衣”非“伊”；问价必用。", "syl": "ke·ymat", "stress": "2"}
 {"fa": "ارزان", "roman": "arzān", "cn": "便宜", "sound": "阿尔赞", "note": "砍价神器；ارزانتر 更便宜。", "syl": "a·rzān", "stress": "2"}
 {"fa": "گران", "roman": "gerān", "cn": "贵", "sound": "格兰", "note": "太贵了 gerūn-e（口语）；gr 弹舌连读。", "syl": "ge·rān", "stress": "2"}
-{"fa": "تخفیف", "roman": "taḵfīf", "cn": "折扣", "sound": "塔赫菲夫", "note": "ḵ 哈气；有折扣 taḵfīf dārīd؟", "syl": "ta·ḵfīf", "stress": "2"}
+{"fa": "تخفیف", "roman": "tahfīf", "cn": "折扣", "sound": "塔赫菲夫", "note": "h 哈气；有折扣 tahfīf dārīd؟", "syl": "ta·hfīf", "stress": "2"}
 {"fa": "حراج", "roman": "harāj", "cn": "大甩卖", "sound": "哈拉吉", "note": "ā 拖长；j 浊音；看到 harāj 就冲。", "syl": "ha·rāj", "stress": "2"}
-{"fa": "چانه زدن", "roman": "čāne zadan", "cn": "讨价还价", "sound": "恰内-扎丹", "note": "巴扎传统；砍价一半开始：čand mīdī？", "syl": "čā·ne·za·dan", "stress": "2"}
+{"fa": "چانه زدن", "roman": "chāne zadan", "cn": "讨价还价", "sound": "恰内-扎丹", "note": "巴扎传统；砍价一半开始：chand mīdī？", "syl": "chā·ne·za·dan", "stress": "4"}
 {"fa": "پول", "roman": "pūl", "cn": "钱", "sound": "普尔", "note": "ū 拖长；没带钱 pūl nadāram。", "syl": "pūl", "stress": "1"}
 {"fa": "تومان", "roman": "tūmān", "cn": "托曼（伊朗货币单位）", "sound": "图曼", "note": "口语报价单位；一万托曼=十千里亚尔（实际 1 تومان=10 ریال，民间以 تومان 计价）。", "syl": "tū·mān", "stress": "2"}
 {"fa": "ریال", "roman": "riyāl", "cn": "里亚尔（官方货币）", "sound": "里亚尔", "note": "官方单位；但老百姓和价签多用 تومان。", "syl": "ri·yāl", "stress": "2"}
-{"fa": "قران", "roman": "qerān", "cn": "戈兰（=10托曼，旧单位）", "sound": "戈兰", "note": "老人偶尔用；年轻人基本只用 تومان。", "syl": "qe·rān", "stress": "2"}
-{"fa": "پول خرد", "roman": "pūl-e ḵord", "cn": "零钱", "sound": "普莱-霍尔德", "note": "需要零钱 pūl-e ḵord dārī؟；ḵord 哈气。", "syl": "pū·l-e·ḵord", "stress": "1"}
-{"fa": "بقیه", "roman": "baqīye", "cn": "找零、剩下的", "sound": "巴基耶", "note": "买完问找零 baqīye-aš rā bedeh 找我钱。", "syl": "ba·qī·ye", "stress": "3"}
-{"fa": "حساب کردن", "roman": "hesāb kardan", "cn": "算账、结账", "sound": "赫萨卜-卡尔丹", "note": "买卖后算钱；hesāb 账。", "syl": "he·sāb·ka·rdan", "stress": "2"}
-{"fa": "نقدی", "roman": "naqdī", "cn": "现金", "sound": "纳格迪", "note": "q 喉音；现金支付 naqdī mīdaham。", "syl": "na·qdī", "stress": "2"}
-{"fa": "کارت", "roman": "kārt", "cn": "银行卡、卡", "sound": "卡尔特", "note": "刷卡 kārt mīkešam（字面“拉卡”）。", "syl": "kārt", "stress": "1"}
-{"fa": "کارت خوان", "roman": "kārt-ḵān", "cn": "刷卡机（POS）", "sound": "卡尔特-罕", "note": "街边店都备；问能刷卡吗 kārt mīpazīrīd؟", "syl": "kā·rt-ḵān", "stress": "2"}
-{"fa": "کارت اعتباری", "roman": "kārt-e e'tebārī", "cn": "信用卡", "sound": "卡尔特-埃-埃泰巴里", "note": "游客常用；e'tebār 信用。", "syl": "kā·rt-e·e·'te·bā·rī", "stress": "4"}
-{"fa": "پرداخت", "roman": "pardāḵt", "cn": "支付", "sound": "帕尔达赫特", "note": "ḵ 哈气；支付方式 pardāḵt-e naqdī。", "syl": "pa·rdāḵt", "stress": "2"}
-{"fa": "رسید", "roman": "rasīd", "cn": "收据", "sound": "拉西德", "note": "索要收据 rasīd mīḵām；ī 拖长。", "syl": "ra·sīd", "stress": "2"}
+{"fa": "قران", "roman": "kerān", "cn": "戈兰（=10托曼，旧单位）", "sound": "戈兰", "note": "老人偶尔用；年轻人基本只用 تومان。", "syl": "ke·rān", "stress": "2"}
+{"fa": "پول خرد", "roman": "pūl-e hord", "cn": "零钱", "sound": "普莱-霍尔德", "note": "需要零钱 pūl-e hord dārī؟；hord 哈气。", "syl": "pūl·e·hord", "stress": "3"}
+{"fa": "بقیه", "roman": "bakīye", "cn": "找零、剩下的", "sound": "巴基耶", "note": "买完问找零 bakīye-ash rā bedeh 找我钱。", "syl": "ba·kī·ye", "stress": "3"}
+{"fa": "حساب کردن", "roman": "hesāb kardan", "cn": "算账、结账", "sound": "赫萨卜-卡尔丹", "note": "买卖后算钱；hesāb 账。", "syl": "he·sāb·ka·rdan", "stress": "4"}
+{"fa": "نقدی", "roman": "nakdī", "cn": "现金", "sound": "纳格迪", "note": "k 喉音；现金支付 nakdī mīdaham。", "syl": "na·kdī", "stress": "2"}
+{"fa": "کارت", "roman": "kārt", "cn": "银行卡、卡", "sound": "卡尔特", "note": "刷卡 kārt mīkesham（字面“拉卡”）。", "syl": "kārt", "stress": "1"}
+{"fa": "کارت خوان", "roman": "kārt-hān", "cn": "刷卡机（POS）", "sound": "卡尔特-罕", "note": "街边店都备；问能刷卡吗 kārt mīpazīrīd؟", "syl": "kārt·hān", "stress": "2"}
+{"fa": "کارت اعتباری", "roman": "kārt-e e'tebārī", "cn": "信用卡", "sound": "卡尔特-埃-埃泰巴里", "note": "游客常用；e'tebār 信用。", "syl": "kārt·e·e·te·bā·rī", "stress": "6"}
+{"fa": "پرداخت", "roman": "pardāht", "cn": "支付", "sound": "帕尔达赫特", "note": "h 哈气；支付方式 pardāht-e nakdī。", "syl": "pa·rdāht", "stress": "2"}
+{"fa": "رسید", "roman": "rasīd", "cn": "收据", "sound": "拉西德", "note": "索要收据 rasīd mīhām；ī 拖长。", "syl": "ra·sīd", "stress": "2"}
 {"fa": "فاکتور", "roman": "fāktūr", "cn": "发票", "sound": "法克图尔", "note": "购物凭证；买大件要 fāktūr。", "syl": "fā·ktūr", "stress": "2"}
 {"fa": "گرونی", "roman": "gerūnī", "cn": "贵（口语）", "sound": "格鲁尼", "note": "同 gerān 的街头说法；涨物价也说 گرونی。", "syl": "ge·rū·nī", "stress": "3"}
-{"fa": "بزن بریم", "roman": "bezan berīm", "cn": "砍价成交话（字面：拍板走人）", "sound": "贝赞-贝里姆", "note": "开玩笑式成交语；实际多用 خداحافظ 离场施压。", "syl": "be·zan·be·rīm", "stress": "2"}
-{"fa": "اندازه", "roman": "andāze", "cn": "尺寸、大小", "sound": "安达泽", "note": "问尺码和āze čand-e？你的码多大。", "syl": "a·ndā·ze", "stress": "3"}
+{"fa": "بزن بریم", "roman": "bezan berīm", "cn": "砍价成交话（字面：拍板走人）", "sound": "贝赞-贝里姆", "note": "开玩笑式成交语；实际多用 خداحافظ 离场施压。", "syl": "be·zan·be·rīm", "stress": "4"}
+{"fa": "اندازه", "roman": "andāze", "cn": "尺寸、大小", "sound": "安达泽", "note": "问尺码和āze chand-e？你的码多大。", "syl": "a·ndā·ze", "stress": "3"}
 {"fa": "سایز", "roman": "sāyz", "cn": "尺码（外来词）", "sound": "萨伊兹", "note": "衣服鞋码通用；大码 سایز بزرگ。", "syl": "sāyz", "stress": "1"}
-{"fa": "کوچک", "roman": "kūček", "cn": "小", "sound": "库切克", "note": "ū 拖长；č 读“奇”。", "syl": "kū·ček", "stress": "2"}
+{"fa": "کوچک", "roman": "kūchek", "cn": "小", "sound": "库切克", "note": "ū 拖长；ch 读“奇”。", "syl": "kū·chek", "stress": "2"}
 {"fa": "بزرگ", "roman": "bozorg", "cn": "大", "sound": "博佐尔格", "note": "词尾 g 浊音；要大一码 bozorg-tar。", "syl": "bo·zorg", "stress": "2"}
-{"fa": "گشاد", "roman": "gošād", "cn": "宽松", "sound": "戈沙德", "note": "试衣说太松 gošād-e；š 顺读。", "syl": "go·šād", "stress": "2"}
+{"fa": "گشاد", "roman": "goshād", "cn": "宽松", "sound": "戈沙德", "note": "试衣说太松 goshād-e；sh 顺读。", "syl": "go·shād", "stress": "2"}
 {"fa": "تنگ", "roman": "tang", "cn": "紧", "sound": "唐格", "note": "太紧 tang-e；ng 后 g 轻。", "syl": "tang", "stress": "1"}
 {"fa": "بلند", "roman": "boland", "cn": "长、高", "sound": "博兰德", "note": "衣裤长度；بلندتر 更长。", "syl": "bo·land", "stress": "2"}
 {"fa": "کوتاه", "roman": "kūtāh", "cn": "短", "sound": "库塔赫", "note": "ū 拖长开头；太短 kūtāh-e。", "syl": "kū·tāh", "stress": "2"}
 {"fa": "رنگ", "roman": "rang", "cn": "颜色", "sound": "朗格", "note": "问颜色 چه رنگی؟；rang 后 g 轻。", "syl": "rang", "stress": "1"}
-{"fa": "قرمز", "roman": "qermez", "cn": "红色", "sound": "盖尔梅兹", "note": "q 喉音；波斯红地毯色。", "syl": "qe·rmez", "stress": "2"}
+{"fa": "قرمز", "roman": "kermez", "cn": "红色", "sound": "盖尔梅兹", "note": "k 喉音；波斯红地毯色。", "syl": "ke·rmez", "stress": "2"}
 {"fa": "آبی", "roman": "ābī", "cn": "蓝色", "sound": "阿比", "note": "天空色；ā 拖长。", "syl": "ā·bī", "stress": "2"}
 {"fa": "سبز", "roman": "sabz", "cn": "绿色", "sound": "萨布兹", "note": "伊朗国旗色；sabz 也指“绿灯”。", "syl": "sabz", "stress": "1"}
 {"fa": "زرد", "roman": "zard", "cn": "黄色", "sound": "扎尔德", "note": "藏红花色；zard 尾 d 轻。", "syl": "zard", "stress": "1"}
 {"fa": "سفید", "roman": "sefīd", "cn": "白色", "sound": "塞菲德", "note": "ī 拖长；婚纱白 sefīd。", "syl": "se·fīd", "stress": "2"}
-{"fa": "سیاه", "roman": "sīyāh", "cn": "黑色", "sound": "西亚赫", "note": "ī 拖长；黑茶 čāy-e sīyāh。", "syl": "sī·yāh", "stress": "2"}
+{"fa": "سیاه", "roman": "sīyāh", "cn": "黑色", "sound": "西亚赫", "note": "ī 拖长；黑茶 chāy-e sīyāh。", "syl": "sī·yāh", "stress": "2"}
 {"fa": "نارنجی", "roman": "nārenjī", "cn": "橙色", "sound": "纳伦吉", "note": "读 nārenjī（依据设拉子 Narenjestan 的通行读法）；不读 nāranjī。", "syl": "nā·re·njī", "stress": "3"}
-{"fa": "بنفش", "roman": "banafš", "cn": "紫色", "sound": "巴纳夫什", "note": "尾 š 轻送；banafš 也指紫罗兰。", "syl": "ba·nafš", "stress": "2"}
+{"fa": "بنفش", "roman": "banafsh", "cn": "紫色", "sound": "巴纳夫什", "note": "尾 sh 轻送；banafsh 也指紫罗兰。", "syl": "ba·nafsh", "stress": "2"}
 {"fa": "صورتی", "roman": "sūratī", "cn": "粉色", "sound": "苏拉提", "note": "ū 拖长；字面“脸色的”。", "syl": "sū·ra·tī", "stress": "3"}
-{"fa": "قهوه‌ای", "roman": "qahve-ī", "cn": "棕色、咖啡色", "sound": "加赫维", "note": "由 قهوه 加后缀；拼写注意中间带 ا。", "syl": "qa·hve·-ī", "stress": "3"}
+{"fa": "قهوه‌ای", "roman": "kahve-ī", "cn": "棕色、咖啡色", "sound": "加赫维", "note": "由 قهوه 加后缀；拼写注意中间带 ا。", "syl": "ka·hve·ī", "stress": "3"}
 {"fa": "طلایی", "roman": "talāyī", "cn": "金色", "sound": "塔拉伊", "note": "talā 金＋-ī；y 辅音读“亚”。", "syl": "ta·lā·yī", "stress": "3"}
-{"fa": "نقره‌ای", "roman": "noqre-ī", "cn": "银色", "sound": "诺格雷伊", "note": "noqre 银；q 喉音。", "syl": "no·qre·-ī", "stress": "3"}
-{"fa": "پارچه", "roman": "pārče", "cn": "布料", "sound": "帕尔切", "note": "买布做衣；问材质 čī-ye？", "syl": "pā·rče", "stress": "2"}
+{"fa": "نقره‌ای", "roman": "nokre-ī", "cn": "银色", "sound": "诺格雷伊", "note": "nokre 银；k 喉音。", "syl": "no·kre·ī", "stress": "3"}
+{"fa": "پارچه", "roman": "pārche", "cn": "布料", "sound": "帕尔切", "note": "买布做衣；问材质 chī-ye？", "syl": "pā·rche", "stress": "2"}
 {"fa": "پنبه", "roman": "panbe", "cn": "棉花、棉质", "sound": "潘贝", "note": "口语 pambe（nb→mb）；纯棉 panbe-ye xāles。", "syl": "pa·nbe", "stress": "2"}
-{"fa": "ابریشم", "roman": "abrīšam", "cn": "丝绸", "sound": "阿布里沙姆", "note": "波斯丝绸自古有名；ī 拖长。", "syl": "a·brī·šam", "stress": "3"}
-{"fa": "چرم", "roman": "čarm", "cn": "皮革", "sound": "恰尔姆", "note": "č 读“奇”；真皮 čarm-e tabī'ī。", "syl": "čarm", "stress": "1"}
+{"fa": "ابریشم", "roman": "abrīsham", "cn": "丝绸", "sound": "阿布里沙姆", "note": "波斯丝绸自古有名；ī 拖长。", "syl": "a·brī·sham", "stress": "3"}
+{"fa": "چرم", "roman": "charm", "cn": "皮革", "sound": "恰尔姆", "note": "ch 读“奇”；真皮 charm-e tabī'ī。", "syl": "charm", "stress": "1"}
 {"fa": "کتان", "roman": "katān", "cn": "亚麻", "sound": "卡坦", "note": "夏天衬衫料；ā 拖长。", "syl": "ka·tān", "stress": "2"}
-{"fa": "پشمی", "roman": "pašmī", "cn": "羊毛的", "sound": "帕什米", "note": "伊朗羊毛地毯 pašm；毛衣 پشمی。", "syl": "pa·šmī", "stress": "2"}
-{"fa": "کشمیر", "roman": "kašmīr", "cn": "羊绒", "sound": "卡什米尔", "note": "克什米尔羊绒；ī 拖长。", "syl": "ka·šmīr", "stress": "2"}
+{"fa": "پشمی", "roman": "pashmī", "cn": "羊毛的", "sound": "帕什米", "note": "伊朗羊毛地毯 pashm；毛衣 پشمی。", "syl": "pa·shmī", "stress": "2"}
+{"fa": "کشمیر", "roman": "kashmīr", "cn": "羊绒", "sound": "卡什米尔", "note": "克什米尔羊绒；ī 拖长。", "syl": "ka·shmīr", "stress": "2"}
 {"fa": "پلی‌استر", "roman": "polīester", "cn": "涤纶", "sound": "波利埃斯特尔", "note": "合成纤维；买衣看水洗标。", "syl": "po·lī·e·ster", "stress": "4"}
-{"fa": "مصنوعی", "roman": "masnū'ī", "cn": "人造的、合成的", "sound": "马斯努伊", "note": "ū 拖长；问是否天然时说。", "syl": "ma·snū·'ī", "stress": "3"}
-{"fa": "دست‌ساز", "roman": "dast-sāz", "cn": "手工制作", "sound": "达斯特-萨兹", "note": "工艺品卖点：dast-sāz-e Īrān 伊朗手工。", "syl": "da·st-sāz", "stress": "2"}
+{"fa": "مصنوعی", "roman": "masnū'ī", "cn": "人造的、合成的", "sound": "马斯努伊", "note": "ū 拖长；问是否天然时说。", "syl": "ma·snū·ī", "stress": "3"}
+{"fa": "دست‌ساز", "roman": "dast-sāz", "cn": "手工制作", "sound": "达斯特-萨兹", "note": "工艺品卖点：dast-sāz-e Īrān 伊朗手工。", "syl": "dast·sāz", "stress": "2"}
 {"fa": "اصیل", "roman": "asīl", "cn": "正宗、纯正", "sound": "阿西尔", "note": "买地毯/特产问 is this asīl？正品。", "syl": "a·sīl", "stress": "2"}
 {"fa": "کپی", "roman": "kopī", "cn": "仿品、复制", "sound": "科皮", "note": "市场提醒：kopī-ye 是仿的。", "syl": "ko·pī", "stress": "2"}
-{"fa": "ساخت کجاست؟", "roman": "sāḵt-e kojā-st", "cn": "哪里制造的", "sound": "萨赫特-埃-科加斯特", "note": "sāḵt 制造；问产地。", "syl": "sā·ḵt-e·ko·jā-st", "stress": "2"}
-{"fa": "این چند؟", "roman": "īn čand", "cn": "这个多少钱（口语）", "sound": "因-钱德", "note": "市场指物问价最简说法。", "syl": "īn·čand", "stress": "1"}
-{"fa": "اینو می‌گیرم", "roman": "īno mīgīram", "cn": "我买这个", "sound": "伊诺-米吉拉姆", "note": "īn-o 是“这个（宾语）”；定下来买。", "syl": "ī·no·mī·gī·ram", "stress": "3"}
-{"fa": "فقط دارم نگاه می‌کنم", "roman": "faqat dāram negāh mīkonam", "cn": "我只是看看", "sound": "法加特-达拉姆-内加赫-米科纳姆", "note": "店家常问要什么，这句礼貌婉拒。", "syl": "fa·qat·dā·ram·ne·gāh·mī·ko·nam", "stress": "3"}
-{"fa": "دستم پر است", "roman": "dastam por ast", "cn": "我拿不下了（婉拒）", "sound": "达斯塔姆-波尔-阿斯特", "note": "字面“我手满了”；笑着回绝推销。", "syl": "da·stam·por·ast", "stress": "1"}
-{"fa": "بعدا می‌آیم", "roman": "ba'dan mīyām", "cn": "我回头再来", "sound": "巴丹-米亚姆", "note": "口语 badan（بعداً 的口语读音）＋mīyām 我来。", "syl": "ba·'dan·mī·yām", "stress": "2"}
-{"fa": "دستت درد نکنه", "roman": "dastet dard nakone", "cn": "谢谢（字面：愿你的手不疼）", "sound": "达斯特特-达尔德-纳科内", "note": "对劳动/服务者的致谢俗语；常见于市场、理发等。", "syl": "da·stet·dard·na·ko·ne", "stress": "3"}
-{"fa": "راست می‌گم", "roman": "rāst mīgam", "cn": "我说真的（砍价语气）", "sound": "拉斯特-米加姆", "note": "强调没虚报；rā 拖长。", "syl": "rāst·mī·gam", "stress": "2"}
+{"fa": "ساخت کجاست؟", "roman": "sāht-e kojā-st", "cn": "哪里制造的", "sound": "萨赫特-埃-科加斯特", "note": "sāht 制造；问产地。", "syl": "sāht·e·ko·jā·st", "stress": "5"}
+{"fa": "این چند؟", "roman": "īn chand", "cn": "这个多少钱（口语）", "sound": "因-钱德", "note": "市场指物问价最简说法。", "syl": "īn·chand", "stress": "2"}
+{"fa": "اینو می‌گیرم", "roman": "īno mīgīram", "cn": "我买这个", "sound": "伊诺-米吉拉姆", "note": "īn-o 是“这个（宾语）”；定下来买。", "syl": "ī·no·mī·gī·ram", "stress": "5"}
+{"fa": "فقط دارم نگاه می‌کنم", "roman": "fakat dāram negāh mīkonam", "cn": "我只是看看", "sound": "法加特-达拉姆-内加赫-米科纳姆", "note": "店家常问要什么，这句礼貌婉拒。", "syl": "fa·kat·dā·ram·ne·gāh·mī·ko·nam", "stress": "9"}
+{"fa": "دستم پر است", "roman": "dastam por ast", "cn": "我拿不下了（婉拒）", "sound": "达斯塔姆-波尔-阿斯特", "note": "字面“我手满了”；笑着回绝推销。", "syl": "da·stam·por·ast", "stress": "4"}
+{"fa": "بعدا می‌آیم", "roman": "ba'dan mīyām", "cn": "我回头再来", "sound": "巴丹-米亚姆", "note": "口语 badan（بعداً 的口语读音）＋mīyām 我来。", "syl": "ba·dan·mī·yām", "stress": "4"}
+{"fa": "دستت درد نکنه", "roman": "dastet dard nakone", "cn": "谢谢（字面：愿你的手不疼）", "sound": "达斯特特-达尔德-纳科内", "note": "对劳动/服务者的致谢俗语；常见于市场、理发等。", "syl": "da·stet·dard·na·ko·ne", "stress": "6"}
+{"fa": "راست می‌گم", "roman": "rāst mīgam", "cn": "我说真的（砍价语气）", "sound": "拉斯特-米加姆", "note": "强调没虚报；rā 拖长。", "syl": "rāst·mī·gam", "stress": "3"}

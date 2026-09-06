@@ -1,16 +1,16 @@
 {"fa": "اسلام", "roman": "eslām", "cn": "伊斯兰教", "sound": "埃斯拉姆", "note": "ā 长音；伊朗官方宗教，字面“顺从”。", "syl": "e·slām", "stress": "2"}
 {"fa": "مسلمان", "roman": "mosalmān", "cn": "穆斯林", "sound": "莫萨尔曼", "note": "ā 长音；我朋友是穆斯林 dūstam mosalmān-e。", "syl": "mo·sa·lmān", "stress": "3"}
-{"fa": "خدا", "roman": "ḵodā", "cn": "真主、神", "sound": "霍达", "note": "ḵ 哈气；ā 长音。日常感叹也提：yā ḵodā！", "syl": "ḵo·dā", "stress": "2"}
+{"fa": "خدا", "roman": "hodā", "cn": "真主、神", "sound": "霍达", "note": "h 哈气；ā 长音。日常感叹也提：yā hodā！", "syl": "ho·dā", "stress": "2"}
 {"fa": "الله", "roman": "allāh", "cn": "安拉", "sound": "阿拉", "note": "双 l；礼拜赞词与日常感叹都用。", "syl": "a·llāh", "stress": "2"}
 {"fa": "پیامبر", "roman": "payāmbar", "cn": "先知", "sound": "帕亚姆巴尔", "note": "伊斯兰教先知穆罕默德 payāmbar-e Eslām。", "syl": "pa·yā·mbar", "stress": "3"}
 {"fa": "محمد", "roman": "mohammad", "cn": "穆罕默德", "sound": "莫哈马德", "note": "先知名；也是伊朗最常见男名。", "syl": "mo·ha·mmad", "stress": "3"}
-{"fa": "قرآن", "roman": "qor'ān", "cn": "古兰经", "sound": "戈兰", "note": "q 喉音开头；圣典 qor'ān-e majīd。", "syl": "qo·r'ān", "stress": "2"}
+{"fa": "قرآن", "roman": "kor'ān", "cn": "古兰经", "sound": "戈兰", "note": "k 喉音开头；圣典 kor'ān-e majīd。", "syl": "ko·rān", "stress": "2"}
 {"fa": "آیه", "roman": "āye", "cn": "（古兰经）经文", "sound": "阿耶", "note": "ā 长音；一节经文 yek āye。", "syl": "ā·ye", "stress": "2"}
 {"fa": "سوره", "roman": "sūre", "cn": "章（古兰经章）", "sound": "苏雷", "note": "ū 长音；古兰经分 114 章。", "syl": "sū·re", "stress": "2"}
 {"fa": "حدیث", "roman": "hadīs", "cn": "圣训", "sound": "哈迪斯", "note": "ī 长音；先知的言行记录。", "syl": "ha·dīs", "stress": "2"}
-{"fa": "دین", "roman": "dīn", "cn": "宗教", "sound": "丁", "note": "ī 长音；你的宗教 dīn-e to čī-ye؟", "syl": "dīn", "stress": "1"}
-{"fa": "مذهب", "roman": "mazhab", "cn": "教派", "sound": "马扎卜", "note": "教派 mazhab-e šī'e 什叶派。", "syl": "ma·zhab", "stress": "2"}
-{"fa": "شیعه", "roman": "šī'e", "cn": "什叶派", "sound": "希埃", "note": "šī 长音；伊朗多数穆斯林属什叶派。", "syl": "šī·'e", "stress": "2"}
+{"fa": "دین", "roman": "dīn", "cn": "宗教", "sound": "丁", "note": "ī 长音；你的宗教 dīn-e to chī-ye؟", "syl": "dīn", "stress": "1"}
+{"fa": "مذهب", "roman": "mazhab", "cn": "教派", "sound": "马扎卜", "note": "教派 mazhab-e shī'e 什叶派。", "syl": "ma·zhab", "stress": "2"}
+{"fa": "شیعه", "roman": "shī'e", "cn": "什叶派", "sound": "希埃", "note": "shī 长音；伊朗多数穆斯林属什叶派。", "syl": "shī·e", "stress": "2"}
 {"fa": "سنی", "roman": "sonnī", "cn": "逊尼派", "sound": "索尼", "note": "双 n；ī 长音；多数伊斯兰国家为逊尼。", "syl": "so·nnī", "stress": "2"}
 {"fa": "امام", "roman": "emām", "cn": "伊玛目（教长）", "sound": "埃马姆", "note": "ā 长音；什叶派尊称十二位伊玛目。", "syl": "e·mām", "stress": "2"}
 {"fa": "آیت‌الله", "roman": "āyatollāh", "cn": "阿亚图拉（高级教职称谓）", "sound": "阿亚托拉", "note": "字面“安拉之迹”；伊朗政治宗教领袖称号。", "syl": "ā·ya·to·llāh", "stress": "4"}
@@ -20,51 +20,51 @@
 {"fa": "مناره", "roman": "menāre", "cn": "宣礼塔", "sound": "梅纳雷", "note": "清真寺尖塔；ā 长音。", "syl": "me·nā·re", "stress": "3"}
 {"fa": "گنبد", "roman": "gonbad", "cn": "穹顶、圆顶", "sound": "贡巴德", "note": "清真寺常见波斯式圆顶。", "syl": "go·nbad", "stress": "2"}
 {"fa": "اذان", "roman": "azān", "cn": "宣礼（唤拜）", "sound": "阿赞", "note": "ā 长音；每日五次唤拜。", "syl": "a·zān", "stress": "2"}
-{"fa": "موذن", "roman": "mo'azzan", "cn": "宣礼员", "sound": "莫阿赞", "note": "双 z；在宣礼塔念唤拜的人。", "syl": "mo·'a·zzan", "stress": "3"}
+{"fa": "موذن", "roman": "mo'azzan", "cn": "宣礼员", "sound": "莫阿赞", "note": "双 z；在宣礼塔念唤拜的人。", "syl": "mo·a·zzan", "stress": "3"}
 {"fa": "نماز", "roman": "namāz", "cn": "礼拜（乃玛孜）", "sound": "纳马兹", "note": "ā 长音；每天五次礼拜 namāz-e panj-gāne。", "syl": "na·māz", "stress": "2"}
-{"fa": "نماز خواندن", "roman": "namāz ḵāndan", "cn": "做礼拜", "sound": "纳马兹-汉丹", "note": "ḵ 哈气；礼拜时间 vaqt-e namāz。", "syl": "na·māz·ḵā·ndan", "stress": "2"}
+{"fa": "نماز خواندن", "roman": "namāz hāndan", "cn": "做礼拜", "sound": "纳马兹-汉丹", "note": "h 哈气；礼拜时间 vakt-e namāz。", "syl": "na·māz·hā·ndan", "stress": "4"}
 {"fa": "وضو", "roman": "vozū", "cn": "小净（礼拜前净礼）", "sound": "沃祖", "note": "ū 长音；礼拜前洗小净 vozū gereftan。", "syl": "vo·zū", "stress": "2"}
 {"fa": "سجده", "roman": "sajde", "cn": "叩头", "sound": "萨吉德", "note": "礼拜中的叩拜动作。", "syl": "sa·jde", "stress": "2"}
-{"fa": "رکوع", "roman": "rokū'", "cn": "鞠躬（礼拜动作）", "sound": "罗库", "note": "ū 长音；礼拜中站立-鞠躬-叩头。", "syl": "ro·kū'", "stress": "2"}
-{"fa": "قبله", "roman": "qebla", "cn": "朝向（麦加方向）", "sound": "盖卜莱", "note": "q 喉音；礼拜朝向克尔白。", "syl": "qe·bla", "stress": "2"}
+{"fa": "رکوع", "roman": "rokū'", "cn": "鞠躬（礼拜动作）", "sound": "罗库", "note": "ū 长音；礼拜中站立-鞠躬-叩头。", "syl": "ro·kū", "stress": "2"}
+{"fa": "قبله", "roman": "kebla", "cn": "朝向（麦加方向）", "sound": "盖卜莱", "note": "k 喉音；礼拜朝向克尔白。", "syl": "ke·bla", "stress": "2"}
 {"fa": "روزه", "roman": "rūze", "cn": "斋戒", "sound": "鲁泽", "note": "ū 长音；斋月白天禁食。", "syl": "rū·ze", "stress": "2"}
-{"fa": "روزه گرفتن", "roman": "rūze gereftan", "cn": "封斋", "sound": "鲁泽-格雷夫坦", "note": "在封斋 rūze hastam。", "syl": "rū·ze·ge·re·ftan", "stress": "3"}
+{"fa": "روزه گرفتن", "roman": "rūze gereftan", "cn": "封斋", "sound": "鲁泽-格雷夫坦", "note": "在封斋 rūze hastam。", "syl": "rū·ze·ge·re·ftan", "stress": "5"}
 {"fa": "افطار", "roman": "eftār", "cn": "开斋（傍晚进食）", "sound": "埃夫塔尔", "note": "ā 长音；开斋饭 efṭārī。", "syl": "e·ftār", "stress": "2"}
 {"fa": "رمضان", "roman": "ramazān", "cn": "斋月（拉马丹）", "sound": "拉马赞", "note": "ā 长音；伊斯兰历九月。", "syl": "ra·ma·zān", "stress": "3"}
-{"fa": "عید فطر", "roman": "eyd-e fetr", "cn": "开斋节", "sound": "埃德-费特勒", "note": "斋月结束的节日；eyd 节日。", "syl": "e·yd-e·fetr", "stress": "1"}
+{"fa": "عید فطر", "roman": "eyd-e fetr", "cn": "开斋节", "sound": "埃德-费特勒", "note": "斋月结束的节日；eyd 节日。", "syl": "eyd·e·fetr", "stress": "3"}
 {"fa": "حج", "roman": "hajj", "cn": "朝觐（麦加）", "sound": "哈吉", "note": "双 j；每个有条件穆斯林一生一次。", "syl": "hajj", "stress": "1"}
 {"fa": "زکات", "roman": "zakāt", "cn": "天课（施舍）", "sound": "扎卡特", "note": "ā 长音；每年按规定施舍。", "syl": "za·kāt", "stress": "2"}
-{"fa": "خمس", "roman": "ḵoms", "cn": "五分之一税（什叶派）", "sound": "霍姆斯", "note": "ḵ 哈气；年盈余的五分之一。", "syl": "ḵoms", "stress": "1"}
-{"fa": "صدقه", "roman": "sadaqe", "cn": "施舍（自愿）", "sound": "萨达盖", "note": "q 喉音；给乞丐一点施舍。", "syl": "sa·da·qe", "stress": "3"}
-{"fa": "حلال", "roman": "halāl", "cn": "清真合法的", "sound": "哈拉勒", "note": "ā 长音；清真食品 ḡazā-ye halāl。", "syl": "ha·lāl", "stress": "2"}
+{"fa": "خمس", "roman": "homs", "cn": "五分之一税（什叶派）", "sound": "霍姆斯", "note": "h 哈气；年盈余的五分之一。", "syl": "homs", "stress": "1"}
+{"fa": "صدقه", "roman": "sadake", "cn": "施舍（自愿）", "sound": "萨达盖", "note": "k 喉音；给乞丐一点施舍。", "syl": "sa·da·ke", "stress": "3"}
+{"fa": "حلال", "roman": "halāl", "cn": "清真合法的", "sound": "哈拉勒", "note": "ā 长音；清真食品 gazā-ye halāl。", "syl": "ha·lāl", "stress": "2"}
 {"fa": "حرام", "roman": "harām", "cn": "禁忌的、非法的", "sound": "哈拉姆", "note": "ā 长音；猪肉 harām-e。", "syl": "ha·rām", "stress": "2"}
-{"fa": "دعا", "roman": "do'ā", "cn": "祈祷（个人）", "sound": "多阿", "note": "ā 长音；为你祈祷 do'ā kardam barāyat。", "syl": "do·'ā", "stress": "2"}
-{"fa": "دعا کردن", "roman": "do'ā kardan", "cn": "祈福", "sound": "多阿-卡尔丹", "note": "向真主祈祷 do'ā-ye ḵeyr 祝福。", "syl": "do·'ā·ka·rdan", "stress": "2"}
+{"fa": "دعا", "roman": "do'ā", "cn": "祈祷（个人）", "sound": "多阿", "note": "ā 长音；为你祈祷 do'ā kardam barāyat。", "syl": "do·ā", "stress": "2"}
+{"fa": "دعا کردن", "roman": "do'ā kardan", "cn": "祈福", "sound": "多阿-卡尔丹", "note": "向真主祈祷 do'ā-ye heyr 祝福。", "syl": "do·ā·ka·rdan", "stress": "4"}
 {"fa": "تسبیح", "roman": "tasbīh", "cn": "赞珠（念珠）", "sound": "塔斯比赫", "note": "ī 长音；数赞词用，常见 99 颗。", "syl": "ta·sbīh", "stress": "2"}
 {"fa": "سجاده", "roman": "sajjāde", "cn": "礼拜毯", "sound": "萨贾德", "note": "双 j；随身小毯做礼拜。", "syl": "sa·jjā·de", "stress": "3"}
 {"fa": "حجاب", "roman": "hejāb", "cn": "头巾（盖头）", "sound": "赫贾卜", "note": "伊朗女性公共场合戴头巾；也指“遮拦”。", "syl": "he·jāb", "stress": "2"}
-{"fa": "چادر", "roman": "čādor", "cn": "长罩袍（黑罩袍）", "sound": "恰多尔", "note": "伊朗传统女性罩袍；ā 长音。", "syl": "čā·dor", "stress": "2"}
+{"fa": "چادر", "roman": "chādor", "cn": "长罩袍（黑罩袍）", "sound": "恰多尔", "note": "伊朗传统女性罩袍；ā 长音。", "syl": "chā·dor", "stress": "2"}
 {"fa": "روسری", "roman": "rūsarī", "cn": "头巾（围巾式）", "sound": "鲁萨里", "note": "ū 长音；日常更常用 rūsarī。", "syl": "rū·sa·rī", "stress": "3"}
-{"fa": "مقنعه", "roman": "maqna'e", "cn": "女学生头巾", "sound": "马格纳埃", "note": "q 喉音；学校女生的标准头巾。", "syl": "ma·qna·'e", "stress": "3"}
+{"fa": "مقنعه", "roman": "makna'e", "cn": "女学生头巾", "sound": "马格纳埃", "note": "k 喉音；学校女生的标准头巾。", "syl": "ma·kna·e", "stress": "3"}
 {"fa": "حرم", "roman": "haram", "cn": "圣陵、圣地", "sound": "哈拉姆", "note": "圣陵建筑群；حرم امام رضا 礼萨圣陵。", "syl": "ha·ram", "stress": "2"}
 {"fa": "زیارت", "roman": "zīārat", "cn": "朝圣（谒陵）", "sound": "齐亚拉特", "note": "ī 长音；去圣城朝圣 zīārat raftan。", "syl": "zī·ā·rat", "stress": "3"}
 {"fa": "امامزاده", "roman": "emāmzāde", "cn": "伊玛目后裔圣祠", "sound": "埃马姆扎德", "note": "ā 长音；伊朗各地常见小圣祠。", "syl": "e·mā·mzā·de", "stress": "4"}
-{"fa": "مشهد", "roman": "mašhad", "cn": "马什哈德（圣城）", "sound": "马什哈德", "note": "第八伊玛目礼萨圣陵所在地。", "syl": "ma·šhad", "stress": "2"}
-{"fa": "قم", "roman": "qom", "cn": "库姆（圣城）", "sound": "戈姆", "note": "q 喉音；伊朗宗教教育中心。", "syl": "qom", "stress": "1"}
+{"fa": "مشهد", "roman": "mashhad", "cn": "马什哈德（圣城）", "sound": "马什哈德", "note": "第八伊玛目礼萨圣陵所在地。", "syl": "ma·shhad", "stress": "2"}
+{"fa": "قم", "roman": "kom", "cn": "库姆（圣城）", "sound": "戈姆", "note": "k 喉音；伊朗宗教教育中心。", "syl": "kom", "stress": "1"}
 {"fa": "کربلا", "roman": "karbalā", "cn": "卡尔巴拉（圣城）", "sound": "卡尔巴拉", "note": "ā 长音；侯赛因殉难地，在伊拉克。", "syl": "ka·rba·lā", "stress": "3"}
 {"fa": "نجف", "roman": "najaf", "cn": "纳杰夫（圣城）", "sound": "纳贾夫", "note": "阿里陵墓所在地，在伊拉克。", "syl": "na·jaf", "stress": "2"}
-{"fa": "عاشورا", "roman": "āšūrā", "cn": "阿舒拉日", "sound": "阿舒拉", "note": "ā、ū、ā 长音；悼念侯赛因之日。", "syl": "ā·šū·rā", "stress": "3"}
+{"fa": "عاشورا", "roman": "āshūrā", "cn": "阿舒拉日", "sound": "阿舒拉", "note": "ā、ū、ā 长音；悼念侯赛因之日。", "syl": "ā·shū·rā", "stress": "3"}
 {"fa": "محرم", "roman": "moharram", "cn": "穆哈兰姆月", "sound": "莫哈拉姆", "note": "伊斯兰历正月；阿舒拉在该月十日。", "syl": "mo·ha·rram", "stress": "3"}
-{"fa": "سینه زدن", "roman": "sīne zadan", "cn": "拍胸悼念（阿舒拉仪式）", "sound": "西内-扎丹", "note": "ī 长音；悼念队伍中的仪式动作。", "syl": "sī·ne·za·dan", "stress": "2"}
+{"fa": "سینه زدن", "roman": "sīne zadan", "cn": "拍胸悼念（阿舒拉仪式）", "sound": "西内-扎丹", "note": "ī 长音；悼念队伍中的仪式动作。", "syl": "sī·ne·za·dan", "stress": "4"}
 {"fa": "نذری", "roman": "nazrī", "cn": "许愿施食（还愿供品）", "sound": "纳兹里", "note": "免费分发的还愿食物；吃 nzrī 是常见民俗。", "syl": "na·zrī", "stress": "2"}
 {"fa": "بسم الله", "roman": "besmellāh", "cn": "奉真主之名（开头语）", "sound": "贝斯梅拉", "note": "开始做事前念；بسم الله الرحمن الرحيم 全句。", "syl": "be·sme·llāh", "stress": "3"}
 {"fa": "الحمدلله", "roman": "alhamdolellāh", "cn": "感赞真主", "sound": "阿勒哈姆多莱拉", "note": "答“你好吗”也常用：خوبم الحمدلله。", "syl": "a·lha·mdo·le·llāh", "stress": "5"}
-{"fa": "ان‌شاءالله", "roman": "enšā'allāh", "cn": "若主意欲（但愿）", "sound": "恩沙阿拉", "note": "谈未来计划加这句；fardā enšā'allāh 明天（但愿）。", "syl": "e·nšā·'a·llāh", "stress": "4"}
-{"fa": "ما‌شاءالله", "roman": "māšā'allāh", "cn": "真主所愿（夸赞语）", "sound": "马沙阿拉", "note": "夸孩子/成果漂亮时感叹。", "syl": "mā·šā·'a·llāh", "stress": "4"}
-{"fa": "الله اکبر", "roman": "allāho akbar", "cn": "真主至大", "sound": "阿拉霍-阿克巴尔", "note": "礼拜与唤拜的核心赞词。", "syl": "a·llā·ho·a·kbar", "stress": "2"}
-{"fa": "لا اله الا الله", "roman": "lā elāha ellallāh", "cn": "万物非主，唯有真主", "sound": "拉-埃拉哈-埃拉-拉", "note": "伊斯兰信仰宣言（清真言）首句。", "syl": "lā·e·lā·ha·e·lla·llāh", "stress": "3"}
-{"fa": "شهادتین", "roman": "šahādatayn", "cn": "作证词（清真言）", "sound": "沙哈达泰因", "note": "入教念的信仰宣言。", "syl": "ša·hā·da·tayn", "stress": "4"}
+{"fa": "ان‌شاءالله", "roman": "enshā'allāh", "cn": "若主意欲（但愿）", "sound": "恩沙阿拉", "note": "谈未来计划加这句；fardā enshā'allāh 明天（但愿）。", "syl": "e·nshā·a·llāh", "stress": "4"}
+{"fa": "ما‌شاءالله", "roman": "māshā'allāh", "cn": "真主所愿（夸赞语）", "sound": "马沙阿拉", "note": "夸孩子/成果漂亮时感叹。", "syl": "mā·shā·a·llāh", "stress": "4"}
+{"fa": "الله اکبر", "roman": "allāho akbar", "cn": "真主至大", "sound": "阿拉霍-阿克巴尔", "note": "礼拜与唤拜的核心赞词。", "syl": "a·llā·ho·a·kbar", "stress": "5"}
+{"fa": "لا اله الا الله", "roman": "lā elāha ellallāh", "cn": "万物非主，唯有真主", "sound": "拉-埃拉哈-埃拉-拉", "note": "伊斯兰信仰宣言（清真言）首句。", "syl": "lā·e·lā·ha·e·lla·llāh", "stress": "7"}
+{"fa": "شهادتین", "roman": "shahādatayn", "cn": "作证词（清真言）", "sound": "沙哈达泰因", "note": "入教念的信仰宣言。", "syl": "sha·hā·da·tayn", "stress": "4"}
 {"fa": "الله‌یار", "roman": "allāhyār", "cn": "真主保佑（离别语）", "sound": "阿拉亚尔", "note": "yār 同伴；送别时说，含宗教色彩。", "syl": "a·llā·hyār", "stress": "3"}
-{"fa": "خدا حافظ", "roman": "ḵodā hāfez", "cn": "再见（真主护佑你）", "sound": "霍达-哈费兹", "note": "告别最常用语；回应 ḵodāhāfez。", "syl": "ḵo·dā·hā·fez", "stress": "2"}
+{"fa": "خدا حافظ", "roman": "hodā hāfez", "cn": "再见（真主护佑你）", "sound": "霍达-哈费兹", "note": "告别最常用语；回应 hodāhāfez。", "syl": "ho·dā·hā·fez", "stress": "4"}
 {"fa": "سلام", "roman": "salām", "cn": "你好（愿平安）", "sound": "萨拉姆", "note": "源自“平安”；回应 salām 或 salām alaykom。", "syl": "sa·lām", "stress": "2"}
 {"fa": "صلوات", "roman": "salawāt", "cn": "赞圣（祝福先知）", "sound": "萨拉瓦特", "note": "提到先知名字后念；也用于庆贺。", "syl": "sa·la·wāt", "stress": "3"}

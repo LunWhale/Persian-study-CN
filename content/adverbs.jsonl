@@ -1,80 +1,80 @@
-{"fa": "خیلی", "roman": "ḵeylī", "cn": "很、非常", "sound": "海利", "note": "ḵ 哈气；ey 读“诶衣”。خیلی خوب 很好。", "syl": "ḵe·ylī", "stress": "2"}
+{"fa": "خیلی", "roman": "heylī", "cn": "很、非常", "sound": "海利", "note": "h 哈气；ey 读“诶衣”。خیلی خوب 很好。", "syl": "he·ylī", "stress": "2"}
 {"fa": "کمی", "roman": "kamī", "cn": "一点、稍微", "sound": "卡米", "note": "ī 长音；kame 口语。请稍等 kamī sabr kon。", "syl": "ka·mī", "stress": "2"}
-{"fa": "خیلی کم", "roman": "ḵeylī kam", "cn": "很少", "sound": "海利-卡姆", "note": "kam 少；很少见 ḵeylī kam dīde mīšam。", "syl": "ḵe·ylī·kam", "stress": "1"}
-{"fa": "بیشتر", "roman": "bīštar", "cn": "更多、更", "sound": "比什塔尔", "note": "ī 长音；再多一点 kamī bīštar。", "syl": "bī·štar", "stress": "2"}
+{"fa": "خیلی کم", "roman": "heylī kam", "cn": "很少", "sound": "海利-卡姆", "note": "kam 少；很少见 heylī kam dīde mīsham。", "syl": "he·ylī·kam", "stress": "3"}
+{"fa": "بیشتر", "roman": "bīshtar", "cn": "更多、更", "sound": "比什塔尔", "note": "ī 长音；再多一点 kamī bīshtar。", "syl": "bī·shtar", "stress": "2"}
 {"fa": "کمتر", "roman": "kamtar", "cn": "更少", "sound": "卡姆塔尔", "note": "少说话 kammtar harf bezan。", "syl": "ka·mtar", "stress": "2"}
 {"fa": "زیاد", "roman": "zīād", "cn": "多、大量", "sound": "齐亚德", "note": "ī 长音；太多 zīād-e。谢谢你太多了。", "syl": "zī·ād", "stress": "2"}
 {"fa": "کافی", "roman": "kāfī", "cn": "足够", "sound": "卡菲", "note": "ā、ī 长音；够了 kāfī-e！", "syl": "kā·fī", "stress": "2"}
-{"fa": "فقط", "roman": "faqat", "cn": "只、仅仅", "sound": "法加特", "note": "q 喉音；只要这个 faqat īn。", "syl": "fa·qat", "stress": "2"}
+{"fa": "فقط", "roman": "fakat", "cn": "只、仅仅", "sound": "法加特", "note": "k 喉音；只要这个 fakat īn。", "syl": "fa·kat", "stress": "2"}
 {"fa": "هم", "roman": "ham", "cn": "也、同样", "sound": "哈姆", "note": "我也去 man ham mīram。", "syl": "ham", "stress": "1"}
 {"fa": "حتی", "roman": "hattā", "cn": "甚至", "sound": "哈塔", "note": "双 t；ā 长音。他甚至不知道 hatā nemīdāne。", "syl": "ha·ttā", "stress": "2"}
 {"fa": "همه", "roman": "hame", "cn": "全部、大家", "sound": "哈梅", "note": "所有人 hame；都来了 hame āmadand。", "syl": "ha·me", "stress": "2"}
 {"fa": "هر", "roman": "har", "cn": "每", "sound": "哈尔", "note": "每天 har rūz；每次 har daf'e。", "syl": "har", "stress": "1"}
-{"fa": "بعضی", "roman": "ba'zī", "cn": "一些", "sound": "巴齐", "note": "一些人 ba'żīhā；有些事 ba'żī čīzhā。", "syl": "ba·'zī", "stress": "2"}
-{"fa": "دیگر", "roman": "dīgar", "cn": "别的、再", "sound": "迪加尔", "note": "ī 长音；还要别的？dīgar čīzī mīḵāhī؟", "syl": "dī·gar", "stress": "2"}
+{"fa": "بعضی", "roman": "ba'zī", "cn": "一些", "sound": "巴齐", "note": "一些人 ba'żīhā；有些事 ba'żī chīzhā。", "syl": "ba·zī", "stress": "2"}
+{"fa": "دیگر", "roman": "dīgar", "cn": "别的、再", "sound": "迪加尔", "note": "ī 长音；还要别的？dīgar chīzī mīhāhī؟", "syl": "dī·gar", "stress": "2"}
 {"fa": "باز", "roman": "bāz", "cn": "又、再", "sound": "巴兹", "note": "ā 长音；又来了 bāz āmad。", "syl": "bāz", "stress": "1"}
 {"fa": "دوباره", "roman": "dobāre", "cn": "重新、再来一次", "sound": "多巴雷", "note": "ā 长音；再说一遍 dobāre bego。", "syl": "do·bā·re", "stress": "3"}
 {"fa": "الان", "roman": "alān", "cn": "现在", "sound": "阿朗", "note": "口语 alān alān＝马上。现在就走 alān mīram。", "syl": "a·lān", "stress": "2"}
-{"fa": "بعدا", "roman": "ba'dan", "cn": "待会儿、以后", "sound": "巴丹", "note": "口语 badan。回头见 ba'dan mībīnīmet。", "syl": "ba·'dan", "stress": "2"}
-{"fa": "سریع", "roman": "sarī'", "cn": "快、快点", "sound": "萨里", "note": "ī 长音；快点 sarī' bešو（口语）。", "syl": "sa·rī'", "stress": "2"}
+{"fa": "بعدا", "roman": "ba'dan", "cn": "待会儿、以后", "sound": "巴丹", "note": "口语 badan。回头见 ba'dan mībīnīmet。", "syl": "ba·dan", "stress": "2"}
+{"fa": "سریع", "roman": "sarī'", "cn": "快、快点", "sound": "萨里", "note": "ī 长音；快点 sarī' beshو（口语）。", "syl": "sa·rī", "stress": "2"}
 {"fa": "آروم", "roman": "ārūm", "cn": "慢慢地、轻声（口语）", "sound": "阿鲁姆", "note": "标准 ārām；ā 长音。慢慢说 ārūm harf bezan。", "syl": "ā·rūm", "stress": "2"}
-{"fa": "به آرامی", "roman": "be ārāmī", "cn": "缓缓地", "sound": "贝-阿拉米", "note": "正式书面；较文。", "syl": "be·ā·rā·mī", "stress": "3"}
+{"fa": "به آرامی", "roman": "be ārāmī", "cn": "缓缓地", "sound": "贝-阿拉米", "note": "正式书面；较文。", "syl": "be·ā·rā·mī", "stress": "4"}
 {"fa": "مثلا", "roman": "masalan", "cn": "比如", "sound": "马萨兰", "note": "举例常用开头；masalan…", "syl": "ma·sa·lan", "stress": "3"}
-{"fa": "واقعا", "roman": "vāqean", "cn": "真的、确实", "sound": "瓦盖安", "note": "q 喉音；真的吗 vāqean？", "syl": "vā·qe·an", "stress": "3"}
+{"fa": "واقعا", "roman": "vākean", "cn": "真的、确实", "sound": "瓦盖安", "note": "k 喉音；真的吗 vākean？", "syl": "vā·ke·an", "stress": "3"}
 {"fa": "حتما", "roman": "hatman", "cn": "一定、务必", "sound": "哈特曼", "note": "一定来 hatman bīyā。", "syl": "ha·tman", "stress": "2"}
 {"fa": "الزاما", "roman": "elzāman", "cn": "非得、强制性", "sound": "埃尔扎曼", "note": "书面词；日常少用。", "syl": "e·lzā·man", "stress": "3"}
-{"fa": "شاید", "roman": "šāyad", "cn": "也许", "sound": "沙亚德", "note": "ā 长音；也许下雨 šāyad bārūn bīyād。", "syl": "šā·yad", "stress": "2"}
-{"fa": "مطمئنا", "roman": "motma'ennan", "cn": "当然、无疑", "sound": "莫特马安南", "note": "当然可以 motma'ennan！", "syl": "mo·tma·'e·nnan", "stress": "4"}
+{"fa": "شاید", "roman": "shāyad", "cn": "也许", "sound": "沙亚德", "note": "ā 长音；也许下雨 shāyad bārūn bīyād。", "syl": "shā·yad", "stress": "2"}
+{"fa": "مطمئنا", "roman": "motma'ennan", "cn": "当然、无疑", "sound": "莫特马安南", "note": "当然可以 motma'ennan！", "syl": "mo·tma·e·nnan", "stress": "4"}
 {"fa": "بهتر", "roman": "behtar", "cn": "更好", "sound": "贝赫塔尔", "note": "khūb 的比较级；这样更好 īn behtar-e。", "syl": "be·htar", "stress": "2"}
-{"fa": "بدتر", "roman": "bad-tar", "cn": "更坏", "sound": "巴德塔尔", "note": "更糟了 bad-tar šod。", "syl": "ba·d-tar", "stress": "2"}
-{"fa": "قدیمی", "roman": "qadīmī", "cn": "古老的、旧的", "sound": "加迪米", "note": "q 喉音；ī 长音。古城区 bāzār-e qadīmī。", "syl": "qa·dī·mī", "stress": "3"}
+{"fa": "بدتر", "roman": "bad-tar", "cn": "更坏", "sound": "巴德塔尔", "note": "更糟了 bad-tar shod。", "syl": "bad·tar", "stress": "2"}
+{"fa": "قدیمی", "roman": "kadīmī", "cn": "古老的、旧的", "sound": "加迪米", "note": "k 喉音；ī 长音。古城区 bāzār-e kadīmī。", "syl": "ka·dī·mī", "stress": "3"}
 {"fa": "جدید", "roman": "jadīd", "cn": "新的", "sound": "贾迪德", "note": "j 浊音；ī 长音。新款 jadīd-tarīn。", "syl": "ja·dīd", "stress": "2"}
 {"fa": "نو", "roman": "now", "cn": "新（口语）", "sound": "诺乌", "note": "ow 读“欧”；新年 sāl-e now。", "syl": "now", "stress": "1"}
 {"fa": "کهنه", "roman": "kohne", "cn": "旧、陈旧", "sound": "科赫内", "note": "旧衣服 lebās-e kohne。", "syl": "ko·hne", "stress": "2"}
 {"fa": "درست", "roman": "dorost", "cn": "正确", "sound": "多罗斯特", "note": "对！dorost-e！你说得对。", "syl": "do·rost", "stress": "2"}
-{"fa": "غلط", "roman": "ḡalat", "cn": "错误", "sound": "哈拉特", "note": "ḡ 喉音；拼写错了 ḡalat neveštan。", "syl": "ḡa·lat", "stress": "2"}
-{"fa": "درست است", "roman": "dorost ast", "cn": "没错", "sound": "多罗斯特-阿斯特", "note": "完全正确 kāmelan dorost ast。", "syl": "do·rost·ast", "stress": "1"}
-{"fa": "اشتباه", "roman": "eštebāh", "cn": "错误、弄错", "sound": "埃什泰巴赫", "note": "我错了 eštebāh kardam。", "syl": "e·šte·bāh", "stress": "3"}
+{"fa": "غلط", "roman": "galat", "cn": "错误", "sound": "哈拉特", "note": "g 喉音；拼写错了 galat neveshtan。", "syl": "ga·lat", "stress": "2"}
+{"fa": "درست است", "roman": "dorost ast", "cn": "没错", "sound": "多罗斯特-阿斯特", "note": "完全正确 kāmelan dorost ast。", "syl": "do·rost·ast", "stress": "3"}
+{"fa": "اشتباه", "roman": "eshtebāh", "cn": "错误、弄错", "sound": "埃什泰巴赫", "note": "我错了 eshtebāh kardam。", "syl": "e·shte·bāh", "stress": "3"}
 {"fa": "صاف", "roman": "sāf", "cn": "直、平坦、清楚", "sound": "萨夫", "note": "ā 长音；直走 sāf berav。", "syl": "sāf", "stress": "1"}
 {"fa": "راست", "roman": "rāst", "cn": "对、直、右", "sound": "拉斯特", "note": "右转 be rāst；实话 rāst rā begū。", "syl": "rāst", "stress": "1"}
 {"fa": "چپ", "roman": "chap", "cn": "左", "sound": "恰普", "note": "左转 be chap；left side taraf-e chap。", "syl": "chap", "stress": "1"}
-{"fa": "داخل", "roman": "dāḵel", "cn": "里面", "sound": "达赫尔", "note": "ā 长音；ḵ 哈气。进屋 dāḵel-e ḵāne。", "syl": "dā·ḵel", "stress": "2"}
+{"fa": "داخل", "roman": "dāhel", "cn": "里面", "sound": "达赫尔", "note": "ā 长音；h 哈气。进屋 dāhel-e hāne。", "syl": "dā·hel", "stress": "2"}
 {"fa": "بیرون", "roman": "bīrūn", "cn": "外面", "sound": "比鲁恩", "note": "ī、ū 长音；出去 bīrūn raftan。", "syl": "bī·rūn", "stress": "2"}
 {"fa": "بالا", "roman": "bālā", "cn": "上面", "sound": "巴拉", "note": "ā 长音×2；上楼 be bālā。", "syl": "bā·lā", "stress": "2"}
 {"fa": "پایین", "roman": "pāyīn", "cn": "下面", "sound": "帕因", "note": "ā、ī 长音；下楼 be pāyīn。", "syl": "pā·yīn", "stress": "2"}
 {"fa": "وسط", "roman": "vasat", "cn": "中间", "sound": "瓦萨特", "note": "在中间 vasat-e；中间人。", "syl": "va·sat", "stress": "2"}
 {"fa": "کنار", "roman": "kenār", "cn": "旁边", "sound": "凯纳尔", "note": "在…旁边 kenār-e；靠着河边。", "syl": "ke·nār", "stress": "2"}
 {"fa": "بین", "roman": "beyn", "cn": "在…之间", "sound": "贝因", "note": "ey 读“诶衣”；在两者之间 beyn-e…", "syl": "beyn", "stress": "1"}
-{"fa": "روی", "roman": "rū-ye", "cn": "在…上面", "sound": "鲁耶", "note": "ū 长音；在桌上 rū-ye mīz。", "syl": "rū·-ye", "stress": "2"}
-{"fa": "زیر", "roman": "zīr", "cn": "在…下面", "sound": "齐尔", "note": "ī 长音；床底下 zīr-e taḵt。", "syl": "zīr", "stress": "1"}
+{"fa": "روی", "roman": "rū-ye", "cn": "在…上面", "sound": "鲁耶", "note": "ū 长音；在桌上 rū-ye mīz。", "syl": "rū·ye", "stress": "2"}
+{"fa": "زیر", "roman": "zīr", "cn": "在…下面", "sound": "齐尔", "note": "ī 长音；床底下 zīr-e taht。", "syl": "zīr", "stress": "1"}
 {"fa": "جلو", "roman": "jolo", "cn": "前面", "sound": "久洛", "note": "在门前 jolo-ye dar；向前 jolo tar。", "syl": "jo·lo", "stress": "2"}
-{"fa": "عقب", "roman": "aqab", "cn": "后面", "sound": "阿加卜", "note": "q 喉音；在后面 aqab-e；车尾。", "syl": "a·qab", "stress": "2"}
-{"fa": "با هم", "roman": "bā ham", "cn": "一起", "sound": "巴-哈姆", "note": "bā 与；一起去 bā ham mīram。", "syl": "bā·ham", "stress": "1"}
+{"fa": "عقب", "roman": "akab", "cn": "后面", "sound": "阿加卜", "note": "k 喉音；在后面 akab-e；车尾。", "syl": "a·kab", "stress": "2"}
+{"fa": "با هم", "roman": "bā ham", "cn": "一起", "sound": "巴-哈姆", "note": "bā 与；一起去 bā ham mīram。", "syl": "bā·ham", "stress": "2"}
 {"fa": "تنها", "roman": "tanhā", "cn": "独自", "sound": "坦哈", "note": "ā 长音；一个人 tanhā；我独自 tanhāyam。", "syl": "ta·nhā", "stress": "2"}
-{"fa": "برای", "roman": "barā-ye", "cn": "为了、给", "sound": "巴拉耶", "note": "口语 barā。给你的 barā-ye to。", "syl": "ba·rā·-ye", "stress": "3"}
-{"fa": "بدون", "roman": "bedūn-e", "cn": "没有、无", "sound": "贝杜内", "note": "ū 长音；无糖 bedūn-e šekar。", "syl": "be·dū·n-e", "stress": "3"}
-{"fa": "با", "roman": "bā", "cn": "和、用、带", "sound": "巴", "note": "ā 长音；和你 bā to；用刀 bā čāqū。", "syl": "bā", "stress": "1"}
+{"fa": "برای", "roman": "barā-ye", "cn": "为了、给", "sound": "巴拉耶", "note": "口语 barā。给你的 barā-ye to。", "syl": "ba·rā·ye", "stress": "3"}
+{"fa": "بدون", "roman": "bedūn-e", "cn": "没有、无", "sound": "贝杜内", "note": "ū 长音；无糖 bedūn-e shekar。", "syl": "be·dūn·e", "stress": "3"}
+{"fa": "با", "roman": "bā", "cn": "和、用、带", "sound": "巴", "note": "ā 长音；和你 bā to；用刀 bā chākū。", "syl": "bā", "stress": "1"}
 {"fa": "به", "roman": "be", "cn": "向、到、对于", "sound": "贝", "note": "去德黑兰 be Tehrān；给我 be man。", "syl": "be", "stress": "1"}
 {"fa": "از", "roman": "az", "cn": "从、自、比", "sound": "阿兹", "note": "从中国 az Čīn；比他大 az ū bozorg-tar。", "syl": "az", "stress": "1"}
-{"fa": "تا", "roman": "tā", "cn": "到、直到", "sound": "塔", "note": "ā 长音；从早到晚 az sobh tā šab。", "syl": "tā", "stress": "1"}
-{"fa": "مثل", "roman": "mesl-e", "cn": "像、如同", "sound": "梅斯莱", "note": "像你一样 mesl-e to。", "syl": "me·sl-e", "stress": "2"}
-{"fa": "برحسب", "roman": "bar hasb-e", "cn": "根据、按照", "sound": "巴尔-哈斯贝", "note": "正式用语；按法律 bar hasb-e qānūn。", "syl": "bar·ha·sb-e", "stress": "2"}
-{"fa": "طبق", "roman": "tabaq-e", "cn": "按照、基于", "sound": "塔巴盖", "note": "按计划 ṭabaq-e barnāme。", "syl": "ta·ba·q-e", "stress": "3"}
+{"fa": "تا", "roman": "tā", "cn": "到、直到", "sound": "塔", "note": "ā 长音；从早到晚 az sobh tā shab。", "syl": "tā", "stress": "1"}
+{"fa": "مثل", "roman": "mesl-e", "cn": "像、如同", "sound": "梅斯莱", "note": "像你一样 mesl-e to。", "syl": "mesl·e", "stress": "2"}
+{"fa": "برحسب", "roman": "bar hasb-e", "cn": "根据、按照", "sound": "巴尔-哈斯贝", "note": "正式用语；按法律 bar hasb-e kānūn。", "syl": "bar·hasb·e", "stress": "3"}
+{"fa": "طبق", "roman": "tabak-e", "cn": "按照、基于", "sound": "塔巴盖", "note": "按计划 ṭabak-e barnāme。", "syl": "ta·bak·e", "stress": "3"}
 {"fa": "احتمالا", "roman": "ehtemālan", "cn": "可能、大概", "sound": "埃赫特马朗", "note": "ā 长音；大概会下雨。", "syl": "e·hte·mā·lan", "stress": "4"}
 {"fa": "البته", "roman": "albatte", "cn": "当然、可是", "sound": "阿尔巴特", "note": "双 t；当然可以 albatte。", "syl": "a·lba·tte", "stress": "3"}
 {"fa": "بله", "roman": "bale", "cn": "是的（礼貌）", "sound": "巴莱", "note": "对长辈/正式；口语 āre。", "syl": "ba·le", "stress": "2"}
 {"fa": "آره", "roman": "āre", "cn": "是啊（口语）", "sound": "阿雷", "note": "常用应答；āre āre 对对对。", "syl": "ā·re", "stress": "2"}
 {"fa": "نه", "roman": "na", "cn": "不", "sound": "纳", "note": "不是 na；不了，谢谢 na mamnūn。", "syl": "na", "stress": "1"}
 {"fa": "بازم", "roman": "bāzam", "cn": "又、再次（口语）", "sound": "巴扎姆", "note": "又来了 bāzam āmadī；bāz＋am。", "syl": "bā·zam", "stress": "2"}
-{"fa": "اینقدر", "roman": "īnqadr", "cn": "这么、如此", "sound": "因加德尔", "note": "q 喉音；这么多 īnqadr zīād。", "syl": "ī·nqadr", "stress": "2"}
-{"fa": "آنقدر", "roman": "ānqadr", "cn": "那么", "sound": "安加德尔", "note": "与 īnqadr 相对；没那么难 ānqadr saḵt nīst。", "syl": "ā·nqadr", "stress": "2"}
-{"fa": "تقریبا", "roman": "taqrīban", "cn": "大约、将近", "sound": "塔格里班", "note": "q 喉音；ī 长音。大约十点 taqrīban saat-e dah。", "syl": "ta·qrī·ban", "stress": "3"}
-{"fa": "حدود", "roman": "hodūd-e", "cn": "大概、左右", "sound": "霍杜德", "note": "ū 长音；五点左右 hodūd-e saat-e panj。", "syl": "ho·dū·d-e", "stress": "3"}
-{"fa": "دقیقا", "roman": "daqīqan", "cn": "精确地、正是", "sound": "达吉甘", "note": "q×2；正是！daqīqan！", "syl": "da·qī·qan", "stress": "3"}
+{"fa": "اینقدر", "roman": "īnkadr", "cn": "这么、如此", "sound": "因加德尔", "note": "k 喉音；这么多 īnkadr zīād。", "syl": "ī·nkadr", "stress": "2"}
+{"fa": "آنقدر", "roman": "ānkadr", "cn": "那么", "sound": "安加德尔", "note": "与 īnkadr 相对；没那么难 ānkadr saht nīst。", "syl": "ā·nkadr", "stress": "2"}
+{"fa": "تقریبا", "roman": "takrīban", "cn": "大约、将近", "sound": "塔格里班", "note": "k 喉音；ī 长音。大约十点 takrīban saat-e dah。", "syl": "ta·krī·ban", "stress": "3"}
+{"fa": "حدود", "roman": "hodūd-e", "cn": "大概、左右", "sound": "霍杜德", "note": "ū 长音；五点左右 hodūd-e saat-e panj。", "syl": "ho·dūd·e", "stress": "3"}
+{"fa": "دقیقا", "roman": "dakīkan", "cn": "精确地、正是", "sound": "达吉甘", "note": "k×2；正是！dakīkan！", "syl": "da·kī·kan", "stress": "3"}
 {"fa": "همین", "roman": "hamīn", "cn": "就是这个", "sound": "哈明", "note": "就是这个 īn；现在 hamin alān。", "syl": "ha·mīn", "stress": "2"}
-{"fa": "همان", "roman": "hamān", "cn": "那个（同前）", "sound": "哈曼", "note": "ā 长音；那家店 hamān maḡāze。", "syl": "ha·mān", "stress": "2"}
-{"fa": "هیچ", "roman": "hīč", "cn": "毫无、什么也不", "sound": "希奇", "note": "ī 长音；č 轻。什么也没有 hīč nīst。", "syl": "hīč", "stress": "1"}
-{"fa": "هیچ‌کس", "roman": "hīčkas", "cn": "没有人", "sound": "希奇卡斯", "note": "没人来 hīčkas nayāmad。", "syl": "hī·čkas", "stress": "2"}
-{"fa": "هیچ‌جا", "roman": "hīčjā", "cn": "哪里也不", "sound": "希奇加", "note": "哪儿也没去 hīčjā naraftam。", "syl": "hī·čjā", "stress": "2"}
-{"fa": "همیشه", "roman": "hamīše", "cn": "永远、总是", "sound": "哈米谢", "note": "ī 长音；永远爱你 hamīše dūstet dāram。", "syl": "ha·mī·še", "stress": "3"}
+{"fa": "همان", "roman": "hamān", "cn": "那个（同前）", "sound": "哈曼", "note": "ā 长音；那家店 hamān magāze。", "syl": "ha·mān", "stress": "2"}
+{"fa": "هیچ", "roman": "hīch", "cn": "毫无、什么也不", "sound": "希奇", "note": "ī 长音；ch 轻。什么也没有 hīch nīst。", "syl": "hīch", "stress": "1"}
+{"fa": "هیچ‌کس", "roman": "hīchkas", "cn": "没有人", "sound": "希奇卡斯", "note": "没人来 hīchkas nayāmad。", "syl": "hī·chkas", "stress": "2"}
+{"fa": "هیچ‌جا", "roman": "hīchjā", "cn": "哪里也不", "sound": "希奇加", "note": "哪儿也没去 hīchjā naraftam。", "syl": "hī·chjā", "stress": "2"}
+{"fa": "همیشه", "roman": "hamīshe", "cn": "永远、总是", "sound": "哈米谢", "note": "ī 长音；永远爱你 hamīshe dūstet dāram。", "syl": "ha·mī·she", "stress": "3"}
 {"fa": "هرگز", "roman": "hargez", "cn": "从不（加强否定）", "sound": "哈勒格兹", "note": "从不迟到 hargez dīr nemīyād。", "syl": "ha·rgez", "stress": "2"}

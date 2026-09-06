@@ -1,60 +1,60 @@
-{"fa": "خانه", "roman": "ḵāne", "cn": "家；房子", "sound": "哈内", "note": "ḵ 哈气开头。在家 dar ḵāne；回家 be ḵāne（口语 ḵūne）。", "syl": "ḵā·ne", "stress": "2"}
-{"fa": "خونه", "roman": "ḵūne", "cn": "家（口语）", "sound": "胡内", "note": "ḵāne 的口语发音 ū；聊天常用。", "syl": "ḵū·ne", "stress": "2"}
+{"fa": "خانه", "roman": "hāne", "cn": "家；房子", "sound": "哈内", "note": "h 哈气开头。在家 dar hāne；回家 be hāne（口语 hūne）。", "syl": "hā·ne", "stress": "2"}
+{"fa": "خونه", "roman": "hūne", "cn": "家（口语）", "sound": "胡内", "note": "hāne 的口语发音 ū；聊天常用。", "syl": "hū·ne", "stress": "2"}
 {"fa": "آپارتمان", "roman": "āpārtemān", "cn": "公寓", "sound": "阿帕尔泰曼", "note": "ā 长音×2；德黑兰人多住公寓。", "syl": "ā·pā·rte·mān", "stress": "4"}
 {"fa": "ویلا", "roman": "vīlā", "cn": "别墅", "sound": "维拉", "note": "ī 长音；郊区度假屋。", "syl": "vī·lā", "stress": "2"}
-{"fa": "اتاق", "roman": "otāq", "cn": "房间", "sound": "奥塔格", "note": "q 喉音收尾；房间号 otāq-e šomāre。", "syl": "o·tāq", "stress": "2"}
-{"fa": "اتاق خواب", "roman": "otāq-e ḵāb", "cn": "卧室", "sound": "奥塔格-哈卜", "note": "ḵāb 睡。字面“睡觉房间”。", "syl": "o·tā·q-e·ḵāb", "stress": "1"}
-{"fa": "اتاق نشیمن", "roman": "otāq-e nešīman", "cn": "客厅（起居室）", "sound": "奥塔格-内希曼", "note": "nešastan 坐的词族；家庭聚坐处。", "syl": "o·tā·q-e·ne·šī·man", "stress": "3"}
+{"fa": "اتاق", "roman": "otāk", "cn": "房间", "sound": "奥塔格", "note": "k 喉音收尾；房间号 otāk-e shomāre。", "syl": "o·tāk", "stress": "2"}
+{"fa": "اتاق خواب", "roman": "otāk-e hāb", "cn": "卧室", "sound": "奥塔格-哈卜", "note": "hāb 睡。字面“睡觉房间”。", "syl": "o·tāk·e·hāb", "stress": "4"}
+{"fa": "اتاق نشیمن", "roman": "otāk-e neshīman", "cn": "客厅（起居室）", "sound": "奥塔格-内希曼", "note": "neshastan 坐的词族；家庭聚坐处。", "syl": "o·tāk·e·ne·shī·man", "stress": "6"}
 {"fa": "پذیرایی", "roman": "pazīrāyī", "cn": "客厅（会客）；招待", "sound": "帕齐拉伊", "note": "会客专用厅；也指“款待”。", "syl": "pa·zī·rā·yī", "stress": "4"}
-{"fa": "آشپزخانه", "roman": "āšpaz-ḵāne", "cn": "厨房", "sound": "阿什帕兹-哈内", "note": "āšpaz 厨师＋ḵāne 房。", "syl": "ā·špa·z-ḵā·ne", "stress": "4"}
+{"fa": "آشپزخانه", "roman": "āshpaz-hāne", "cn": "厨房", "sound": "阿什帕兹-哈内", "note": "āshpaz 厨师＋hāne 房。", "syl": "ā·shpaz·hā·ne", "stress": "4"}
 {"fa": "حمام", "roman": "hammām", "cn": "浴室；澡堂", "sound": "哈马姆", "note": "双 m 停顿；洗澡 hamām kardan（口语）", "syl": "ha·mmām", "stress": "2"}
-{"fa": "دستشویی", "roman": "dastošūyī", "cn": "洗手间（小）", "sound": "达斯托舒伊", "note": "字面“洗手处”；委婉说法。", "syl": "da·sto·šū·yī", "stress": "4"}
-{"fa": "سرویس بهداشتی", "roman": "servīs-e behdāštī", "cn": "卫生间", "sound": "塞尔维斯-贝赫达什提", "note": "公共场所标牌用语；behdāšt 卫生。", "syl": "se·rvī·s-e·be·hdā·štī", "stress": "3"}
+{"fa": "دستشویی", "roman": "dastoshūyī", "cn": "洗手间（小）", "sound": "达斯托舒伊", "note": "字面“洗手处”；委婉说法。", "syl": "da·sto·shū·yī", "stress": "4"}
+{"fa": "سرویس بهداشتی", "roman": "servīs-e behdāshtī", "cn": "卫生间", "sound": "塞尔维斯-贝赫达什提", "note": "公共场所标牌用语；behdāsht 卫生。", "syl": "se·rvīs·e·be·hdā·shtī", "stress": "6"}
 {"fa": "توالت", "roman": "toālāt", "cn": "厕所", "sound": "托阿拉特", "note": "問路：توالت کجاست؟ 厕所在哪。", "syl": "to·ā·lāt", "stress": "3"}
 {"fa": "بالکن", "roman": "bālkon", "cn": "阳台", "sound": "巴尔孔", "note": "ā 长音；外来词 balcony。", "syl": "bā·lkon", "stress": "2"}
 {"fa": "حیاط", "roman": "hayāt", "cn": "院子", "sound": "哈亚特", "note": "传统房有中庭 hayāt。", "syl": "ha·yāt", "stress": "2"}
-{"fa": "پشت بام", "roman": "pošt-e bām", "cn": "屋顶平台", "sound": "波什特-巴姆", "note": "pošt 背＋bām 屋顶；乘凉处。", "syl": "po·št-e·bām", "stress": "1"}
+{"fa": "پشت بام", "roman": "posht-e bām", "cn": "屋顶平台", "sound": "波什特-巴姆", "note": "posht 背＋bām 屋顶；乘凉处。", "syl": "posht·e·bām", "stress": "3"}
 {"fa": "در", "roman": "dar", "cn": "门", "sound": "达尔", "note": "开门 dar rā bāz kon。", "syl": "dar", "stress": "1"}
 {"fa": "پنجره", "roman": "panjare", "cn": "窗户", "sound": "潘贾雷", "note": "e 结尾轻读；关窗 panjare rā bastan。", "syl": "pa·nja·re", "stress": "3"}
 {"fa": "دیوار", "roman": "dīvār", "cn": "墙", "sound": "迪瓦尔", "note": "ī 长音；粉墙 dīvār rang kardan。", "syl": "dī·vār", "stress": "2"}
-{"fa": "سقف", "roman": "saqf", "cn": "天花板", "sound": "萨格夫", "note": "q 喉音；也指“顶”。", "syl": "saqf", "stress": "1"}
-{"fa": "کف", "roman": "kaf", "cn": "地板、地面", "sound": "卡夫", "note": "拖地 kaf rā šostan。", "syl": "kaf", "stress": "1"}
-{"fa": "فرش", "roman": "farš", "cn": "地毯", "sound": "法尔什", "note": "伊朗家家铺地毯；farš-e īrānī 波斯地毯。", "syl": "farš", "stress": "1"}
-{"fa": "قالی", "roman": "qālī", "cn": "地毯（手工织）", "sound": "加里", "note": "q 喉音；比 farš 更指手工精品。", "syl": "qā·lī", "stress": "2"}
+{"fa": "سقف", "roman": "sakf", "cn": "天花板", "sound": "萨格夫", "note": "k 喉音；也指“顶”。", "syl": "sakf", "stress": "1"}
+{"fa": "کف", "roman": "kaf", "cn": "地板、地面", "sound": "卡夫", "note": "拖地 kaf rā shostan。", "syl": "kaf", "stress": "1"}
+{"fa": "فرش", "roman": "farsh", "cn": "地毯", "sound": "法尔什", "note": "伊朗家家铺地毯；farsh-e īrānī 波斯地毯。", "syl": "farsh", "stress": "1"}
+{"fa": "قالی", "roman": "kālī", "cn": "地毯（手工织）", "sound": "加里", "note": "k 喉音；比 farsh 更指手工精品。", "syl": "kā·lī", "stress": "2"}
 {"fa": "مبل", "roman": "mobl", "cn": "沙发", "sound": "莫布勒", "note": "外来词 meuble；客厅一套 mobl-e rāh。", "syl": "mobl", "stress": "1"}
 {"fa": "میز", "roman": "mīz", "cn": "桌子", "sound": "米兹", "note": "ī 长音；餐桌 mīz-e nāhār。", "syl": "mīz", "stress": "1"}
 {"fa": "صندلی", "roman": "sandali", "cn": "椅子", "sound": "桑达利", "note": "坐 sandali 请坐（对客人）。", "syl": "sa·nda·li", "stress": "3"}
-{"fa": "تخت", "roman": "taḵt", "cn": "床", "sound": "塔赫特", "note": "ḵ 哈气；上床睡觉 taḵt ḵāb。", "syl": "taḵt", "stress": "1"}
+{"fa": "تخت", "roman": "taht", "cn": "床", "sound": "塔赫特", "note": "h 哈气；上床睡觉 taht hāb。", "syl": "taht", "stress": "1"}
 {"fa": "کمد", "roman": "komod", "cn": "衣柜、柜子", "sound": "科莫德", "note": "外来词 commode；衣橱 komod-e lebās。", "syl": "ko·mod", "stress": "2"}
-{"fa": "قفسه", "roman": "qafase", "cn": "架子、搁板", "sound": "加法塞", "note": "q 喉音；书架 qafase-ye ketāb。", "syl": "qa·fa·se", "stress": "3"}
-{"fa": "آینه", "roman": "āyīne", "cn": "镜子", "sound": "阿伊内", "note": "ā 和 ī 都长；穿衣镜 āyīne-ye qad。", "syl": "ā·yī·ne", "stress": "3"}
-{"fa": "چراغ", "roman": "čerāḡ", "cn": "灯", "sound": "切拉赫", "note": "ā 长音；ḡ 喉音收。开灯 čerāḡ rūšan kardan。", "syl": "če·rāḡ", "stress": "2"}
-{"fa": "چراغ خواب", "roman": "čerāḡ-e ḵāb", "cn": "床头灯", "sound": "切拉赫-哈卜", "note": "字面“睡灯”。", "syl": "če·rā·ḡ-e·ḵāb", "stress": "1"}
-{"fa": "یخچال", "roman": "yaḵčāl", "cn": "冰箱", "sound": "亚赫恰勒", "note": "yaḵ 冰＋čāl 坑；重音在čāl。", "syl": "ya·ḵčāl", "stress": "2"}
-{"fa": "اجاق گاز", "roman": "ojāq-e gāz", "cn": "燃气灶", "sound": "奥贾格-加兹", "note": "q 喉音；ojāq 炉灶。", "syl": "o·jā·q-e·gāz", "stress": "1"}
+{"fa": "قفسه", "roman": "kafase", "cn": "架子、搁板", "sound": "加法塞", "note": "k 喉音；书架 kafase-ye ketāb。", "syl": "ka·fa·se", "stress": "3"}
+{"fa": "آینه", "roman": "āyīne", "cn": "镜子", "sound": "阿伊内", "note": "ā 和 ī 都长；穿衣镜 āyīne-ye kad。", "syl": "ā·yī·ne", "stress": "3"}
+{"fa": "چراغ", "roman": "cherāg", "cn": "灯", "sound": "切拉赫", "note": "ā 长音；g 喉音收。开灯 cherāg rūshan kardan。", "syl": "che·rāg", "stress": "2"}
+{"fa": "چراغ خواب", "roman": "cherāg-e hāb", "cn": "床头灯", "sound": "切拉赫-哈卜", "note": "字面“睡灯”。", "syl": "che·rāg·e·hāb", "stress": "4"}
+{"fa": "یخچال", "roman": "yahchāl", "cn": "冰箱", "sound": "亚赫恰勒", "note": "yah 冰＋chāl 坑；重音在chāl。", "syl": "ya·hchāl", "stress": "2"}
+{"fa": "اجاق گاز", "roman": "ojāk-e gāz", "cn": "燃气灶", "sound": "奥贾格-加兹", "note": "k 喉音；ojāk 炉灶。", "syl": "o·jāk·e·gāz", "stress": "4"}
 {"fa": "فر", "roman": "for", "cn": "烤箱", "sound": "福尔", "note": "外来词 four；烘烤 tūn 也指烤炉。", "syl": "for", "stress": "1"}
-{"fa": "ماشین لباسشویی", "roman": "māšīn-e lebās-šūyī", "cn": "洗衣机", "sound": "马欣-莱巴斯舒伊", "note": "lebās 衣＋šūyī 洗。", "syl": "mā·šī·n-e·le·bā·s-šū·yī", "stress": "4"}
-{"fa": "ماشین ظرفشویی", "roman": "māšīn-e zarf-šūyī", "cn": "洗碗机", "sound": "马欣-扎尔夫舒伊", "note": "zarf 碗碟。", "syl": "mā·šī·n-e·za·rf-šū·yī", "stress": "3"}
+{"fa": "ماشین لباسشویی", "roman": "māshīn-e lebās-shūyī", "cn": "洗衣机", "sound": "马欣-莱巴斯舒伊", "note": "lebās 衣＋shūyī 洗。", "syl": "mā·shīn·e·le·bās·shū·yī", "stress": "7"}
+{"fa": "ماشین ظرفشویی", "roman": "māshīn-e zarf-shūyī", "cn": "洗碗机", "sound": "马欣-扎尔夫舒伊", "note": "zarf 碗碟。", "syl": "mā·shīn·e·zarf·shū·yī", "stress": "6"}
 {"fa": "جارو", "roman": "jārū", "cn": "扫帚", "sound": "贾鲁", "note": "ū 长音；扫地 jārū kardan。", "syl": "jā·rū", "stress": "2"}
-{"fa": "جاروبرقی", "roman": "jārū-barqī", "cn": "吸尘器", "sound": "贾鲁-巴尔吉", "note": "字面“电扫帚”；barq 电。", "syl": "jā·rū·-ba·rqī", "stress": "4"}
+{"fa": "جاروبرقی", "roman": "jārū-barkī", "cn": "吸尘器", "sound": "贾鲁-巴尔吉", "note": "字面“电扫帚”；bark 电。", "syl": "jā·rū·ba·rkī", "stress": "4"}
 {"fa": "تلویزیون", "roman": "televīzīon", "cn": "电视", "sound": "泰莱维兹永", "note": "外来词；看电视 televīzīon negāh kardan。", "syl": "te·le·vī·zī·on", "stress": "5"}
-{"fa": "یخ", "roman": "yaḵ", "cn": "冰；冰块", "sound": "亚赫", "note": "饮料加冰 bā yaḵ；冰箱也称 yaḵčāl。", "syl": "yaḵ", "stress": "1"}
-{"fa": "کیف پول", "roman": "kīf-e pūl", "cn": "钱包", "sound": "基福-普尔", "note": "kīf 包＋pūl 钱。", "syl": "kī·f-e·pūl", "stress": "1"}
-{"fa": "ساعت", "roman": "sā'at", "cn": "钟表；小时", "sound": "萨阿特", "note": "我的表几点 sā'at čand-e？也指手表。", "syl": "sā·'at", "stress": "2"}
-{"fa": "رادیو", "roman": "rādīo", "cn": "收音机", "sound": "拉迪奥", "note": "ā 长音开头；听广播 gūš kardan be rādīo。", "syl": "rā·dī·o", "stress": "3"}
+{"fa": "یخ", "roman": "yah", "cn": "冰；冰块", "sound": "亚赫", "note": "饮料加冰 bā yah；冰箱也称 yahchāl。", "syl": "yah", "stress": "1"}
+{"fa": "کیف پول", "roman": "kīf-e pūl", "cn": "钱包", "sound": "基福-普尔", "note": "kīf 包＋pūl 钱。", "syl": "kīf·e·pūl", "stress": "3"}
+{"fa": "ساعت", "roman": "sā'at", "cn": "钟表；小时", "sound": "萨阿特", "note": "我的表几点 sā'at chand-e？也指手表。", "syl": "sā·at", "stress": "2"}
+{"fa": "رادیو", "roman": "rādīo", "cn": "收音机", "sound": "拉迪奥", "note": "ā 长音开头；听广播 gūsh kardan be rādīo。", "syl": "rā·dī·o", "stress": "3"}
 {"fa": "کولر", "roman": "kūler", "cn": "空调、冷风机", "sound": "库莱尔", "note": "ū 长音；夏天开 kūler。", "syl": "kū·ler", "stress": "2"}
-{"fa": "بخاری", "roman": "baḵārī", "cn": "暖气、取暖器", "sound": "巴哈里", "note": "ḵ 哈气；冬天开 baḵārī。", "syl": "ba·ḵā·rī", "stress": "3"}
-{"fa": "لوله", "roman": "lūle", "cn": "管子", "sound": "卢莱", "note": "ū 长音；水管漏水 lūle čakīde。", "syl": "lū·le", "stress": "2"}
-{"fa": "شیر آب", "roman": "šīr-e āb", "cn": "水龙头", "sound": "希尔-阿卜", "note": "šīr 此处指“龙头”（与奶/狮同形）。", "syl": "šī·r-e·āb", "stress": "1"}
-{"fa": "آب گرم", "roman": "āb-e garm", "cn": "热水", "sound": "阿贝-加勒姆", "note": "garm 热。热水器 āb-garmkon。", "syl": "ā·b-e·garm", "stress": "1"}
-{"fa": "سطل", "roman": "satl", "cn": "桶", "sound": "萨特勒", "note": "垃圾桶 satl-e āšḵāl。", "syl": "satl", "stress": "1"}
-{"fa": "زباله", "roman": "zobāle", "cn": "垃圾", "sound": "佐巴莱", "note": "丢垃圾 zobāle rā dūr andāḵtan。", "syl": "zo·bā·le", "stress": "3"}
+{"fa": "بخاری", "roman": "bahārī", "cn": "暖气、取暖器", "sound": "巴哈里", "note": "h 哈气；冬天开 bahārī。", "syl": "ba·hā·rī", "stress": "3"}
+{"fa": "لوله", "roman": "lūle", "cn": "管子", "sound": "卢莱", "note": "ū 长音；水管漏水 lūle chakīde。", "syl": "lū·le", "stress": "2"}
+{"fa": "شیر آب", "roman": "shīr-e āb", "cn": "水龙头", "sound": "希尔-阿卜", "note": "shīr 此处指“龙头”（与奶/狮同形）。", "syl": "shīr·e·āb", "stress": "3"}
+{"fa": "آب گرم", "roman": "āb-e garm", "cn": "热水", "sound": "阿贝-加勒姆", "note": "garm 热。热水器 āb-garmkon。", "syl": "āb·e·garm", "stress": "3"}
+{"fa": "سطل", "roman": "satl", "cn": "桶", "sound": "萨特勒", "note": "垃圾桶 satl-e āshhāl。", "syl": "satl", "stress": "1"}
+{"fa": "زباله", "roman": "zobāle", "cn": "垃圾", "sound": "佐巴莱", "note": "丢垃圾 zobāle rā dūr andāhtan。", "syl": "zo·bā·le", "stress": "3"}
 {"fa": "صابون", "roman": "sābūn", "cn": "肥皂", "sound": "萨本", "note": "ā 和 ū 都长；香皂 sābūn-e ṭoālāt。", "syl": "sā·būn", "stress": "2"}
-{"fa": "شامپو", "roman": "šāmpū", "cn": "洗发水", "sound": "沙姆普", "note": "外来词；ā、ū 长音。", "syl": "šā·mpū", "stress": "2"}
+{"fa": "شامپو", "roman": "shāmpū", "cn": "洗发水", "sound": "沙姆普", "note": "外来词；ā、ū 长音。", "syl": "shā·mpū", "stress": "2"}
 {"fa": "مسواک", "roman": "mesvāk", "cn": "牙刷", "sound": "梅斯瓦克", "note": "刷牙 mesvāk zadan。", "syl": "me·svāk", "stress": "2"}
 {"fa": "حوله", "roman": "hūle", "cn": "毛巾", "sound": "胡莱", "note": "ū 读法口语；标准语 hovle。", "syl": "hū·le", "stress": "2"}
 {"fa": "دستمال", "roman": "dastmāl", "cn": "手帕、纸巾", "sound": "达斯特马尔", "note": "dast 手＋māl 擦。", "syl": "da·stmāl", "stress": "2"}
 {"fa": "کلید", "roman": "kelīd", "cn": "钥匙", "sound": "凯利德", "note": "ī 长音；门钥匙 kelīd-e dar。", "syl": "ke·līd", "stress": "2"}
-{"fa": "قفل", "roman": "qofl", "cn": "锁", "sound": "戈夫勒", "note": "q 喉音；上锁 qofl kardan。", "syl": "qofl", "stress": "1"}
+{"fa": "قفل", "roman": "kofl", "cn": "锁", "sound": "戈夫勒", "note": "k 喉音；上锁 kofl kardan。", "syl": "kofl", "stress": "1"}
 {"fa": "تلفن", "roman": "telefon", "cn": "电话", "sound": "泰莱丰", "note": "打电话 telefon zadan；手机 mūbāyil。", "syl": "te·le·fon", "stress": "3"}
 {"fa": "دکمه", "roman": "dokme", "cn": "按钮；纽扣", "sound": "多克梅", "note": "按按钮 dokme rā zadan。", "syl": "do·kme", "stress": "2"}

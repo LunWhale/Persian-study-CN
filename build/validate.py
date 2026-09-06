@@ -45,8 +45,8 @@ FA_FORBID = {
     0xFEFF, 0x00A0,
 }
 
-ROMAN_EXTRA = set("āīūḵḡšžč")
-ROMAN_RE = re.compile(r"^[a-zāīūḵḡšžč' \-]+$")
+ROMAN_EXTRA = set("āīū")
+ROMAN_RE = re.compile(r"^[a-zāīū' \-]+$")
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 ASCII_WORD_RE = re.compile(r"[A-Za-z]{3,}")
 

@@ -109,8 +109,13 @@
   .row2 .snd .hb{font-weight:700;color:var(--sound)}
   .row-pron{display:flex;flex-wrap:wrap;gap:4px 14px;background:#f7f9f6;border-radius:9px;padding:5px 10px;font-size:13px;align-items:center}
   .pronsyl .syl{font-family:Georgia,serif;font-weight:700;color:#3c6b46}
-  .pronsyl .sdot,.pronsyl .shyph{color:#9aa68f;font-weight:400}
-  .prstress b{color:var(--accent);background:#fdeee8;border-radius:6px;padding:0 6px;font-weight:800}
+  .pronsyl .syl.st1{color:#d32f2f;background:#ffecec;border-radius:5px;padding:0 4px;font-size:1.06em}
+  .pronsyl .syl.st2{color:#1565c0;background:#e8f1fc;border-radius:5px;padding:0 3px}
+  .pronsyl .sdot{color:#9aa68f;font-weight:400}
+  .prstress{background:#fff7e6;border:1px dashed #e3b84c;border-radius:8px;padding:1px 8px}
+  .prstress .st{color:#b34700;font-weight:800}
+  .stresslegend{font-size:12px;color:var(--sub);margin:2px 0 10px;background:#fffdf5;border:1px solid #eee2c0;border-radius:9px;padding:6px 12px}
+  .stresslegend b.r{color:#d32f2f} .stresslegend b.b{color:#1565c0}
   .note{margin-top:auto;font-size:12.6px;color:var(--note);background:#f7f3ec;border-left:3px solid #d9c8a8;
         border-radius:0 8px 8px 0;padding:5px 9px}
   .note b.dt{color:var(--accent)}
@@ -173,11 +178,29 @@
       <h2><span class="k">第1课</span>六个元音：长短分明是命根子</h2>
       <div class="vowelnote">
         <b>短元音</b>：a（啊·短）、e（诶·短）、o（哦·短）；<b>长元音</b>：ā（啊——）、ī（衣——）、ū（乌——）。
-        长音要拖长一倍！读错长短会变词义：⟨šīr⟩（衣——拉长）＝奶/狮子，⟨šar⟩（短促）＝坏。
+        长音要拖长一倍！读错长短会变词义：⟨shīr⟩（衣——拉长）＝奶/狮子，⟨shar⟩（短促）＝坏。
       </div>
       <table class="demos">
         <thead><tr><th>记号</th><th>名称与读法</th><th>示范词 · 转写 · 谐音</th><th>发音</th></tr></thead>
         <tbody id="vowelrows">
+        </tbody>
+      </table>
+    </section>
+
+    <section class="panel">
+      <h2><span class="k">入门</span>拼音式转写对照表（看一遍就会读）</h2>
+      <p class="sub">本页所有「转写」都用汉语拼音能读的字母，下面是特殊对应关系。把鼠标移到单词的字母上也有提示。</p>
+      <table class="demos">
+        <thead><tr><th>本页写法</th><th>波斯字母</th><th>怎么读（像汉语拼音）</th></tr></thead>
+        <tbody>
+          <tr><td class="sym">sh</td><td><span class="fa-eg">ش</span></td><td>读「什/沙」——就是拼音 sh，如 <b>shīr</b>（希尔）</td></tr>
+          <tr><td class="sym">ch</td><td><span class="fa-eg">چ</span></td><td>读「奇/吃」——就是拼音 ch，如 <b>chāy</b>（恰伊，茶）</td></tr>
+          <tr><td class="sym">zh</td><td><span class="fa-eg">ژ</span></td><td>读「日」——就是拼音 zh，如 <b>zhāle</b>（扎雷，露珠）</td></tr>
+          <tr><td class="sym">h</td><td><span class="fa-eg">خ / ه</span></td><td>两个 h：<b>خ</b>＝喉咙哈气的「赫」（用力送气），<b>ه</b>＝轻「哈」。谐音里会区分</td></tr>
+          <tr><td class="sym">g</td><td><span class="fa-eg">غ</span></td><td>含漱口水般的浊「额/戈」，喉咙深部震动，如 <b>gaz</b>（戈兹）</td></tr>
+          <tr><td class="sym">k</td><td><span class="fa-eg">ق / ک</span></td><td>两个 k：<b>ق</b>＝小舌音，喉咙深处「戈」，如 <b>kalak</b>；<b>ک</b>＝普通「克」，如 <b>ketāb</b>（凯塔卜）</td></tr>
+          <tr><td class="sym">j</td><td><span class="fa-eg">ج</span></td><td>浊「基/知」，声带振动，如 <b>jān</b>（贾恩，亲爱的）</td></tr>
+          <tr><td class="sym">ā ī ū</td><td><span class="fa-eg">ا ى و</span></td><td>长元音：拖长一倍！ā＝啊——、ī＝衣——、ū＝乌——（就像拼音 ā ī ū 的一声）</td></tr>
         </tbody>
       </table>
     </section>
@@ -191,7 +214,7 @@
 
     <section class="panel">
       <h2><span class="k">诊所</span>难音诊所：中文里没有的音</h2>
-      <p class="sub">ḵ / ḡ / q / r 弹舌 / 轻重 h / ž / č / j / v 是最容易读错的 10 个，逐个多听多练。</p>
+      <p class="sub">h（喉音）/ g（含漱音）/ k（小舌音）/ r 弹舌 / 轻重 h / zh / ch / j / v 是最容易读错的，逐个多听多练。</p>
       <table class="demos">
         <thead><tr><th>符号</th><th>怎么发</th><th>示范词</th><th>发音</th></tr></thead>
         <tbody id="trickyrows">
@@ -207,6 +230,12 @@
       <button class="actbtn" onclick="toggleAll(true)">全部展开</button>
       <button class="actbtn" onclick="toggleAll(false)">全部收起</button>
       <div class="result" id="result"></div>
+    </div>
+    <div class="stresslegend">
+      🎯 <b>重音怎么看</b>：波斯语没有声调，只有「重音」＝某个音节读得<b class="r">更响更长</b>。
+      大多数词重音在<b>最后一个音节</b>（红色标出，如 <b class="r">shīr</b> 重音就在 shī）。
+      长的短语每词各有一个次重音（蓝色标出），句尾词的重音最响。
+      卡片「重音」栏会告诉你：<b>最后一个音节「…」</b>＝照红色读就对了。
     </div>
     <div id="accs">
       <!--__ACCORDIONS__-->
@@ -237,9 +266,9 @@ const STATS = {};
 const RCHAR = {
   "ā":"长元音 ā：拖长一倍，读“啊——”","ī":"长元音 ī：拖长一倍，读“衣——”","ū":"长元音 ū：拖长一倍，读“乌——”",
   "e":"短元音 e：短促“诶”","o":"短元音 o：短促“哦”","a":"短元音 a：短促“啊”",
-  "ḵ":"字母 خ：喉咙哈气的“赫”，不是 k！","ḡ":"字母 غ：含漱口水般的浊“额”","q":"字母 ق：小舌“戈”，喉咙深处",
-  "š":"字母 ش：读“什”","ž":"字母 ژ：读“日”","č":"字母 چ：读“奇”",
-  "j":"字母 ج：浊“基/知”","h":"字母 ه：轻“哈”"
+  "sh":"两个字母 sh：读“什”（像拼音 sh）","ch":"两个字母 ch：读“奇”（像拼音 ch）","zh":"两个字母 zh：读“日”（像拼音 zh）",
+  "h":"可能是两个音：普通 h=轻“哈”；哈气更重的 h=字母 خ，喉咙送气“赫”","g":"字母 غ：含漱口水般的浊“额”（拼音 g 的深喉版）",
+  "k":"可能是两个音：普通 k=“克”；更深喉的 k=字母 ق，喉咙深处“戈”","j":"字母 ج：浊“基/知”"
 };
 let curAudio=null, curBtn=null;
 function playData(elem, base64mp3){
@@ -272,11 +301,19 @@ function decorate(){
     const nodes=[]; while(walk.nextNode()) nodes.push(walk.currentNode);
     nodes.forEach(n=>{
       const frag=document.createDocumentFragment();
-      for(const ch of n.nodeValue){
-        if(RCHAR[ch]){
-          const s=document.createElement('span'); s.className='rchar'; s.textContent=ch; s.title=RCHAR[ch];
-          frag.appendChild(s);
-        } else frag.appendChild(document.createTextNode(ch));
+      const txt=n.nodeValue;
+      let i=0;
+      while(i<txt.length){
+        const two=txt.substr(i,2);
+        if(RCHAR[two]){
+          const s=document.createElement('span'); s.className='rchar'; s.textContent=two; s.title=RCHAR[two];
+          frag.appendChild(s); i+=2;
+        }else if(RCHAR[txt[i]]){
+          const s=document.createElement('span'); s.className='rchar'; s.textContent=txt[i]; s.title=RCHAR[txt[i]];
+          frag.appendChild(s); i+=1;
+        }else{
+          frag.appendChild(document.createTextNode(txt[i])); i+=1;
+        }
       }
       n.parentNode.replaceChild(frag,n);
     });

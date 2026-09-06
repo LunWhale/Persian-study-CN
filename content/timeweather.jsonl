@@ -1,49 +1,49 @@
 {"fa": "هوا", "roman": "havā", "cn": "天气；空气", "sound": "哈瓦", "note": "ā 拖长。问天气：هوا چطوره؟（天气怎么样）", "syl": "ha·vā", "stress": "2"}
-{"fa": "آب و هوا", "roman": "āb o havā", "cn": "气候", "sound": "阿博-哈瓦", "note": "字面“水与空气”，o＝和。", "syl": "āb·o·ha·vā", "stress": "2"}
+{"fa": "آب و هوا", "roman": "āb o havā", "cn": "气候", "sound": "阿博-哈瓦", "note": "字面“水与空气”，o＝和。", "syl": "āb·o·ha·vā", "stress": "4"}
 {"fa": "آفتابی", "roman": "āftābī", "cn": "晴天的", "sound": "阿夫塔比", "note": "ā 长音；āftāb 阳光。هوا آفتابیه 晴天。", "syl": "ā·ftā·bī", "stress": "3"}
 {"fa": "ابر", "roman": "abr", "cn": "云", "sound": "阿布尔", "note": "多云的 abrī。", "syl": "abr", "stress": "1"}
 {"fa": "ابری", "roman": "abrī", "cn": "阴天的、多云的", "sound": "阿布里", "note": "ī 长音；هوا ابریه 阴天。", "syl": "a·brī", "stress": "2"}
 {"fa": "باران", "roman": "bārān", "cn": "雨", "sound": "巴朗", "note": "ā 长音。下雨 bārūn mīyād（口语）。", "syl": "bā·rān", "stress": "2"}
 {"fa": "باریدن", "roman": "bārīdan", "cn": "下雨、下（雨雪）", "sound": "巴里丹", "note": "现在时说 bārūn mībārad（雨正下）。", "syl": "bā·rī·dan", "stress": "3"}
 {"fa": "برف", "roman": "barf", "cn": "雪", "sound": "巴夫", "note": "下雪 barf mīyād。", "syl": "barf", "stress": "1"}
-{"fa": "یخ", "roman": "yaḵ", "cn": "冰；冰凉的", "sound": "亚赫", "note": "ḵ 哈气收尾。ice 叫 yaḵ；路滑說 yaḵ bast。", "syl": "yaḵ", "stress": "1"}
+{"fa": "یخ", "roman": "yah", "cn": "冰；冰凉的", "sound": "亚赫", "note": "h 哈气收尾。ice 叫 yah；路滑說 yah bast。", "syl": "yah", "stress": "1"}
 {"fa": "تگرگ", "roman": "tagarg", "cn": "冰雹", "sound": "塔加勒格", "note": "尾 g 浊音，两个 g 都要读。", "syl": "ta·garg", "stress": "2"}
-{"fa": "طوفان", "roman": "tūfān", "cn": "暴风雨、风暴", "sound": "图凡", "note": "ū 长音。沙尘暴也说 tūfān-e šen。", "syl": "tū·fān", "stress": "2"}
+{"fa": "طوفان", "roman": "tūfān", "cn": "暴风雨、风暴", "sound": "图凡", "note": "ū 长音。沙尘暴也说 tūfān-e shen。", "syl": "tū·fān", "stress": "2"}
 {"fa": "باد", "roman": "bād", "cn": "风", "sound": "巴德", "note": "ā 长音。刮风 bād mīyād。", "syl": "bād", "stress": "1"}
 {"fa": "مه", "roman": "meh", "cn": "雾", "sound": "梅赫", "note": "有雾 meh dārad。", "syl": "meh", "stress": "1"}
 {"fa": "گرما", "roman": "garmā", "cn": "热、炎热", "sound": "加尔马", "note": "garm 热＋ā 名词尾。گرما زده 中暑。", "syl": "ga·rmā", "stress": "2"}
 {"fa": "سرما", "roman": "sarmā", "cn": "冷、寒冷", "sound": "萨尔马", "note": "سرما خوردن 着凉。", "syl": "sa·rmā", "stress": "2"}
-{"fa": "دما", "roman": "damā", "cn": "温度", "sound": "达马", "note": "今天几度？damā čand ast؟", "syl": "da·mā", "stress": "2"}
+{"fa": "دما", "roman": "damā", "cn": "温度", "sound": "达马", "note": "今天几度？damā chand ast؟", "syl": "da·mā", "stress": "2"}
 {"fa": "درجه", "roman": "daraje", "cn": "度（温度/度数）", "sound": "达拉杰", "note": "e 短。چند درجه؟ 多少度。", "syl": "da·ra·je", "stress": "3"}
 {"fa": "رطوبت", "roman": "rotūbat", "cn": "湿度", "sound": "罗图巴特", "note": "ū 长音。潮湿 rotubat dārad。", "syl": "ro·tū·bat", "stress": "3"}
-{"fa": "خشک", "roman": "ḵošk", "cn": "干燥的", "sound": "霍什克", "note": "ḵ 开头哈气。伊朗多数地区干燥。", "syl": "ḵošk", "stress": "1"}
+{"fa": "خشک", "roman": "hoshk", "cn": "干燥的", "sound": "霍什克", "note": "h 开头哈气。伊朗多数地区干燥。", "syl": "hoshk", "stress": "1"}
 {"fa": "مرطوب", "roman": "martūb", "cn": "潮湿的", "sound": "马尔图布", "note": "ū 长音；沿海城市潮湿。", "syl": "ma·rtūb", "stress": "2"}
 {"fa": "گرم", "roman": "garm", "cn": "热的", "sound": "加勒姆", "note": "天热 havā garm-e。", "syl": "garm", "stress": "1"}
 {"fa": "سرد", "roman": "sard", "cn": "冷的", "sound": "萨尔德", "note": "天冷 havā sard-e。", "syl": "sard", "stress": "1"}
-{"fa": "خنک", "roman": "ḵonak", "cn": "凉爽的", "sound": "霍纳克", "note": "ḵ 哈气；傍晚真凉快 ḵonak-e。", "syl": "ḵo·nak", "stress": "2"}
+{"fa": "خنک", "roman": "honak", "cn": "凉爽的", "sound": "霍纳克", "note": "h 哈气；傍晚真凉快 honak-e。", "syl": "ho·nak", "stress": "2"}
 {"fa": "آفتاب", "roman": "āftāb", "cn": "阳光、太阳", "sound": "阿夫塔卜", "note": "ā 长音开头；晒太阳 āftāb gereftan。", "syl": "ā·ftāb", "stress": "2"}
-{"fa": "ماه", "roman": "māh", "cn": "月亮；月份", "sound": "马赫", "note": "ماه 也指月；月亮很美 māh qašang-e。", "syl": "māh", "stress": "1"}
-{"fa": "ستاره", "roman": "setāre", "cn": "星星", "sound": "塞塔雷", "note": "ā 长音；setāre-ye šans 幸运星。", "syl": "se·tā·re", "stress": "3"}
-{"fa": "رنگین کمان", "roman": "rangīn-kamān", "cn": "彩虹", "sound": "朗金-卡曼", "note": "rang 颜色＋īn 形容词尾＋kamān 弓。", "syl": "ra·ngī·n-ka·mān", "stress": "4"}
-{"fa": "رعد و برق", "roman": "ra'd o barq", "cn": "雷电", "sound": "拉德-博-巴尔格", "note": "打雷闪电；q 喉音。", "syl": "ra'd·o·barq", "stress": "1"}
+{"fa": "ماه", "roman": "māh", "cn": "月亮；月份", "sound": "马赫", "note": "ماه 也指月；月亮很美 māh kashang-e。", "syl": "māh", "stress": "1"}
+{"fa": "ستاره", "roman": "setāre", "cn": "星星", "sound": "塞塔雷", "note": "ā 长音；setāre-ye shans 幸运星。", "syl": "se·tā·re", "stress": "3"}
+{"fa": "رنگین کمان", "roman": "rangīn-kamān", "cn": "彩虹", "sound": "朗金-卡曼", "note": "rang 颜色＋īn 形容词尾＋kamān 弓。", "syl": "ra·ngīn·ka·mān", "stress": "4"}
+{"fa": "رعد و برق", "roman": "ra'd o bark", "cn": "雷电", "sound": "拉德-博-巴尔格", "note": "打雷闪电；k 喉音。", "syl": "ra'd·o·bark", "stress": "3"}
 {"fa": "بهار", "roman": "bahār", "cn": "春天", "sound": "巴哈尔", "note": "ā 长音；诺鲁孜节在春天。", "syl": "ba·hār", "stress": "2"}
 {"fa": "تابستان", "roman": "tābestān", "cn": "夏天", "sound": "塔贝斯坦", "note": "ā 长音；夏天热 tābestūn-e（口语）。", "syl": "tā·be·stān", "stress": "3"}
 {"fa": "پاییز", "roman": "pāyīz", "cn": "秋天", "sound": "帕伊兹", "note": "ā 和 ī 都长；秋天多雨。", "syl": "pā·yīz", "stress": "2"}
 {"fa": "زمستان", "roman": "zemestān", "cn": "冬天", "sound": "泽梅斯坦", "note": "冬天冷 zemestūn sard-e。", "syl": "ze·me·stān", "stress": "3"}
-{"fa": "فصل", "roman": "fasl", "cn": "季节；学期", "sound": "法斯尔", "note": "四个季节 čahār fasl。", "syl": "fasl", "stress": "1"}
+{"fa": "فصل", "roman": "fasl", "cn": "季节；学期", "sound": "法斯尔", "note": "四个季节 chahār fasl。", "syl": "fasl", "stress": "1"}
 {"fa": "سال", "roman": "sāl", "cn": "年", "sound": "萨尔", "note": "ā 长音。新年 sāl-e no 新年。", "syl": "sāl", "stress": "1"}
 {"fa": "امسال", "roman": "emsāl", "cn": "今年", "sound": "埃姆萨尔", "note": "em＋sāl。今年热 emsāl garm-e。", "syl": "e·msāl", "stress": "2"}
 {"fa": "پارسال", "roman": "pārsāl", "cn": "去年", "sound": "帕尔萨尔", "note": "ā 长音；去年冬天 pārsāl zemestūn。", "syl": "pā·rsāl", "stress": "2"}
 {"fa": "بعد", "roman": "ba'd", "cn": "之后；然后", "sound": "巴德", "note": "ع 不发音但字要写；بعداً 以后（ba'dan）。", "syl": "ba'd", "stress": "1"}
-{"fa": "قبل", "roman": "qabl", "cn": "之前", "sound": "加卜勒", "note": "q 喉音；قبل از 在…之前。", "syl": "qabl", "stress": "1"}
-{"fa": "امروز", "roman": "emrūz", "cn": "今天", "sound": "埃姆鲁兹", "note": "ū 长音；今天几号？emrūz čandom-e؟", "syl": "e·mrūz", "stress": "2"}
+{"fa": "قبل", "roman": "kabl", "cn": "之前", "sound": "加卜勒", "note": "k 喉音；قبل از 在…之前。", "syl": "kabl", "stress": "1"}
+{"fa": "امروز", "roman": "emrūz", "cn": "今天", "sound": "埃姆鲁兹", "note": "ū 长音；今天几号？emrūz chandom-e؟", "syl": "e·mrūz", "stress": "2"}
 {"fa": "فردا", "roman": "fardā", "cn": "明天", "sound": "法尔达", "note": "ā 长音结尾；明天见 fardā mībīnamet。", "syl": "fa·rdā", "stress": "2"}
 {"fa": "دیروز", "roman": "dīrūz", "cn": "昨天", "sound": "迪鲁兹", "note": "ī 和 ū 都长。", "syl": "dī·rūz", "stress": "2"}
-{"fa": "پس فردا", "roman": "pas fardā", "cn": "后天", "sound": "帕斯-法尔达", "note": "字面“之后的明天”。", "syl": "pas·fa·rdā", "stress": "2"}
+{"fa": "پس فردا", "roman": "pas fardā", "cn": "后天", "sound": "帕斯-法尔达", "note": "字面“之后的明天”。", "syl": "pas·fa·rdā", "stress": "3"}
 {"fa": "پریروز", "roman": "parīrūz", "cn": "前天", "sound": "帕里鲁兹", "note": "字面“之前昨天”，ī 长音。", "syl": "pa·rī·rūz", "stress": "3"}
-{"fa": "امشب", "roman": "emšab", "cn": "今晚", "sound": "埃姆沙卜", "note": "em＋šab。今晚来吗？emšab mīyāy؟", "syl": "e·mšab", "stress": "2"}
+{"fa": "امشب", "roman": "emshab", "cn": "今晚", "sound": "埃姆沙卜", "note": "em＋shab。今晚来吗？emshab mīyāy؟", "syl": "e·mshab", "stress": "2"}
 {"fa": "الان", "roman": "alān", "cn": "现在", "sound": "阿朗", "note": "ā 长音；口语也说 alān alān 立刻。", "syl": "a·lān", "stress": "2"}
-{"fa": "همیشه", "roman": "hamīše", "cn": "总是", "sound": "哈米谢", "note": "ī 长音；他总是迟到 hamīše dīr mīyād。", "syl": "ha·mī·še", "stress": "3"}
-{"fa": "اغلب", "roman": "aqlab", "cn": "经常", "sound": "阿格拉卜", "note": "q 喉音；也可以说 ma'mūlan。", "syl": "a·qlab", "stress": "2"}
-{"fa": "گاه‌گاهی", "roman": "gāh-gāhī", "cn": "偶尔", "sound": "加赫-加希", "note": "重复 gāh 强调“有时”。", "syl": "gā·h-gā·hī", "stress": "3"}
+{"fa": "همیشه", "roman": "hamīshe", "cn": "总是", "sound": "哈米谢", "note": "ī 长音；他总是迟到 hamīshe dīr mīyād。", "syl": "ha·mī·she", "stress": "3"}
+{"fa": "اغلب", "roman": "aklab", "cn": "经常", "sound": "阿格拉卜", "note": "k 喉音；也可以说 ma'mūlan。", "syl": "a·klab", "stress": "2"}
+{"fa": "گاه‌گاهی", "roman": "gāh-gāhī", "cn": "偶尔", "sound": "加赫-加希", "note": "重复 gāh 强调“有时”。", "syl": "gāh·gā·hī", "stress": "3"}
 {"fa": "هرگز", "roman": "hargez", "cn": "从不", "sound": "哈勒格兹", "note": "多用于否定句：hargez nemīram 我从不来。", "syl": "ha·rgez", "stress": "2"}

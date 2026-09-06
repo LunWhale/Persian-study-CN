@@ -1,77 +1,77 @@
 {"fa": "فرودگاه", "roman": "forūdgāh", "cn": "机场", "sound": "福鲁德加赫", "note": "ū 拖长；forūd 降落＋gāh 场。", "syl": "fo·rū·dgāh", "stress": "3"}
-{"fa": "بلیط", "roman": "belīt", "cn": "票", "sound": "贝利特", "note": "飞机/火车/景点通用；买票 belīt mīḵām。", "syl": "be·līt", "stress": "2"}
-{"fa": "بلیط هواپیما", "roman": "belīt-e havāpeymā", "cn": "机票", "sound": "贝利特-哈瓦佩马", "note": "havā 天空＋peymā 航行。", "syl": "be·lī·t-e·ha·vā·pe·ymā", "stress": "4"}
+{"fa": "بلیط", "roman": "belīt", "cn": "票", "sound": "贝利特", "note": "飞机/火车/景点通用；买票 belīt mīhām。", "syl": "be·līt", "stress": "2"}
+{"fa": "بلیط هواپیما", "roman": "belīt-e havāpeymā", "cn": "机票", "sound": "贝利特-哈瓦佩马", "note": "havā 天空＋peymā 航行。", "syl": "be·līt·e·ha·vā·pe·ymā", "stress": "7"}
 {"fa": "پرواز", "roman": "parvāz", "cn": "航班、飞行", "sound": "帕尔瓦兹", "note": "航班号 parvāz-e ۱۲۳；ā 拖长。", "syl": "pa·rvāz", "stress": "2"}
 {"fa": "هواپیما", "roman": "havāpeymā", "cn": "飞机", "sound": "哈瓦佩马", "note": "havā 天空＋peymā；两个 ā 都长。", "syl": "ha·vā·pe·ymā", "stress": "4"}
 {"fa": "گذرنامه", "roman": "gozarnāme", "cn": "护照", "sound": "戈扎尔纳梅", "note": "机场必备；gozar 通行＋nāme 文书。", "syl": "go·za·rnā·me", "stress": "4"}
 {"fa": "ویزا", "roman": "vīzā", "cn": "签证", "sound": "维扎", "note": "vī 拖长；签证页 vīzā dar gozarnāme。", "syl": "vī·zā", "stress": "2"}
 {"fa": "گمرک", "roman": "gomrok", "cn": "海关", "sound": "戈姆罗克", "note": "入关检查；比 gomrok（古词）。", "syl": "go·mrok", "stress": "2"}
-{"fa": "چمدان", "roman": "čamedān", "cn": "行李箱", "sound": "恰梅当", "note": "托运 چمدان تحویل دادن；口语 čamedūn。", "syl": "ča·me·dān", "stress": "3"}
+{"fa": "چمدان", "roman": "chamedān", "cn": "行李箱", "sound": "恰梅当", "note": "托运 چمدان تحویل دادن；口语 chamedūn。", "syl": "cha·me·dān", "stress": "3"}
 {"fa": "کیف", "roman": "kīf", "cn": "包", "sound": "基夫", "note": "手提包 kīf-e dastī；钱包 kīf-e pūl。", "syl": "kīf", "stress": "1"}
 {"fa": "آزاد", "roman": "āzād", "cn": "免税（的）；自由", "sound": "阿扎德", "note": "免税店 فروشگاه آزاد 简写 آزاد；也指自由。", "syl": "ā·zād", "stress": "2"}
-{"fa": "سوار شدن", "roman": "savār šodan", "cn": "上车/乘上", "sound": "萨瓦尔-肖丹", "note": "savār-e 上（车）；登机 savār-e havāpeymā šodam。", "syl": "sa·vār·šo·dan", "stress": "2"}
-{"fa": "پیاده شدن", "roman": "pīyāde šodan", "cn": "下车/步行", "sound": "皮亚德-肖丹", "note": "pīyāde 徒步；到站下车 pīyāde mīšam。", "syl": "pī·yā·de·šo·dan", "stress": "2"}
-{"fa": "حرکت", "roman": "harakat", "cn": "出发、开动", "sound": "哈拉卡特", "note": "车几点开 saat-e čand harakat mīkone؟", "syl": "ha·ra·kat", "stress": "3"}
-{"fa": "مقصد", "roman": "maqsad", "cn": "目的地", "sound": "马格萨德", "note": "q 喉音；maqsad kojā-st 去哪。", "syl": "ma·qsad", "stress": "2"}
+{"fa": "سوار شدن", "roman": "savār shodan", "cn": "上车/乘上", "sound": "萨瓦尔-肖丹", "note": "savār-e 上（车）；登机 savār-e havāpeymā shodam。", "syl": "sa·vār·sho·dan", "stress": "4"}
+{"fa": "پیاده شدن", "roman": "pīyāde shodan", "cn": "下车/步行", "sound": "皮亚德-肖丹", "note": "pīyāde 徒步；到站下车 pīyāde mīsham。", "syl": "pī·yā·de·sho·dan", "stress": "5"}
+{"fa": "حرکت", "roman": "harakat", "cn": "出发、开动", "sound": "哈拉卡特", "note": "车几点开 saat-e chand harakat mīkone؟", "syl": "ha·ra·kat", "stress": "3"}
+{"fa": "مقصد", "roman": "maksad", "cn": "目的地", "sound": "马格萨德", "note": "k 喉音；maksad kojā-st 去哪。", "syl": "ma·ksad", "stress": "2"}
 {"fa": "ایستگاه", "roman": "īstgāh", "cn": "车站", "sound": "伊斯特加赫", "note": "ī 拖长；地铁站 ایستگاه مترو。", "syl": "ī·stgāh", "stress": "2"}
-{"fa": "ایستگاه قطار", "roman": "īstgāh-e qatār", "cn": "火车站", "sound": "伊斯特加赫-加塔尔", "note": "q 两次喉音；火车 qatār。", "syl": "ī·stgā·h-e·qa·tār", "stress": "2"}
-{"fa": "اتوبوس", "roman": "otobūs", "cn": "公交车", "sound": "奥托布斯", "note": "ū 拖长；市内公交 otobūs-e šahrī。", "syl": "o·to·būs", "stress": "3"}
-{"fa": "اتوبوس تندرو", "roman": "otobūs-e tondrow", "cn": "快速公交（BRT）", "sound": "奥托布塞-通德罗乌", "note": "大都市专线；tond 快。", "syl": "o·to·bū·s-e·to·ndrow", "stress": "2"}
+{"fa": "ایستگاه قطار", "roman": "īstgāh-e katār", "cn": "火车站", "sound": "伊斯特加赫-加塔尔", "note": "k 两次喉音；火车 katār。", "syl": "ī·stgāh·e·ka·tār", "stress": "5"}
+{"fa": "اتوبوس", "roman": "otobūs", "cn": "公交车", "sound": "奥托布斯", "note": "ū 拖长；市内公交 otobūs-e shahrī。", "syl": "o·to·būs", "stress": "3"}
+{"fa": "اتوبوس تندرو", "roman": "otobūs-e tondrow", "cn": "快速公交（BRT）", "sound": "奥托布塞-通德罗乌", "note": "大都市专线；tond 快。", "syl": "o·to·būs·e·to·ndrow", "stress": "6"}
 {"fa": "مترو", "roman": "metro", "cn": "地铁", "sound": "梅特罗", "note": "德黑兰/设拉子等有地铁；metro 重音在前。", "syl": "me·tro", "stress": "2"}
 {"fa": "تاکسی", "roman": "tāksī", "cn": "出租车", "sound": "塔克西", "note": "伊朗打车多用 اسنپ/تپسی App，路边也可拦。", "syl": "tā·ksī", "stress": "2"}
-{"fa": "تاکسی اینترنتی", "roman": "tāksī-ye internetī", "cn": "网约车", "sound": "塔克西耶-因泰内提", "note": "Snapp 与 Tapsi 两大 App；ī 长音。", "syl": "tā·ksī·-ye·i·nte·rne·tī", "stress": "4"}
+{"fa": "تاکسی اینترنتی", "roman": "tāksī-ye internetī", "cn": "网约车", "sound": "塔克西耶-因泰内提", "note": "Snapp 与 Tapsi 两大 App；ī 长音。", "syl": "tā·ksī·ye·i·nte·rne·tī", "stress": "7"}
 {"fa": "اسنپ", "roman": "esnap", "cn": "Snapp（伊朗打车App）", "sound": "埃斯纳普", "note": "伊朗最大网约车平台；装 App 打车最方便。", "syl": "e·snap", "stress": "2"}
-{"fa": "ماشین", "roman": "māšīn", "cn": "汽车", "sound": "马欣", "note": "ā 拖长；打车说 māšīn mīḵām。", "syl": "mā·šīn", "stress": "2"}
+{"fa": "ماشین", "roman": "māshīn", "cn": "汽车", "sound": "马欣", "note": "ā 拖长；打车说 māshīn mīhām。", "syl": "mā·shīn", "stress": "2"}
 {"fa": "بنزین", "roman": "benzin", "cn": "汽油", "sound": "本津", "note": "加油站 پمپ بنزین；z 浊音。", "syl": "be·nzin", "stress": "2"}
-{"fa": "پمپ بنزین", "roman": "pomp-e benzin", "cn": "加油站", "sound": "波姆佩-本津", "note": "租车自驾会用到；也可说 پمپ。", "syl": "po·mp-e·be·nzin", "stress": "2"}
+{"fa": "پمپ بنزین", "roman": "pomp-e benzin", "cn": "加油站", "sound": "波姆佩-本津", "note": "租车自驾会用到；也可说 پمپ。", "syl": "pomp·e·be·nzin", "stress": "4"}
 {"fa": "جاده", "roman": "jādde", "cn": "公路、路", "sound": "贾德", "note": "双 d 停顿一下；高速 جادهٔ اصلی。", "syl": "jā·dde", "stress": "2"}
 {"fa": "بزرگراه", "roman": "bozorgrāh", "cn": "高速公路", "sound": "博佐尔格拉赫", "note": "bozorg 大＋rāh 路。", "syl": "bo·zo·rgrāh", "stress": "3"}
-{"fa": "کوچه", "roman": "kūče", "cn": "小巷、胡同", "sound": "库切", "note": "ū 拖长；老城小巷。", "syl": "kū·če", "stress": "2"}
-{"fa": "خیابان", "roman": "ḵīābān", "cn": "大街、街道", "sound": "希亚邦", "note": "ḵ 哈气＋ī 长；主要街道。", "syl": "ḵī·ā·bān", "stress": "3"}
-{"fa": "چراغ راهنمایی", "roman": "čerāḡ-e rāhnamāyī", "cn": "红绿灯", "sound": "切拉赫-拉赫纳马伊", "note": "字面“指路灯”；看灯过街。", "syl": "če·rā·ḡ-e·rā·hna·mā·yī", "stress": "4"}
+{"fa": "کوچه", "roman": "kūche", "cn": "小巷、胡同", "sound": "库切", "note": "ū 拖长；老城小巷。", "syl": "kū·che", "stress": "2"}
+{"fa": "خیابان", "roman": "hīābān", "cn": "大街、街道", "sound": "希亚邦", "note": "h 哈气＋ī 长；主要街道。", "syl": "hī·ā·bān", "stress": "3"}
+{"fa": "چراغ راهنمایی", "roman": "cherāg-e rāhnamāyī", "cn": "红绿灯", "sound": "切拉赫-拉赫纳马伊", "note": "字面“指路灯”；看灯过街。", "syl": "che·rāg·e·rā·hna·mā·yī", "stress": "7"}
 {"fa": "جلو", "roman": "jolo", "cn": "前面", "sound": "久洛", "note": "在…前面 jolo-ye；方向词。", "syl": "jo·lo", "stress": "2"}
-{"fa": "عقب", "roman": "aqab", "cn": "后面", "sound": "阿加卜", "note": "q 喉音；在…后面 aqab-e。", "syl": "a·qab", "stress": "2"}
+{"fa": "عقب", "roman": "akab", "cn": "后面", "sound": "阿加卜", "note": "k 喉音；在…后面 akab-e。", "syl": "a·kab", "stress": "2"}
 {"fa": "راست", "roman": "rāst", "cn": "右边", "sound": "拉斯特", "note": "向右转 be taraf-e rāst；rā 拖长。", "syl": "rāst", "stress": "1"}
 {"fa": "چپ", "roman": "chap", "cn": "左边", "sound": "恰普", "note": "向左转 be taraf-e chap。", "syl": "chap", "stress": "1"}
-{"fa": "مستقیم", "roman": "mostaqīm", "cn": "直走", "sound": "莫斯塔基姆", "note": "问路回答高频：برو مستقیم＝直走。", "syl": "mo·sta·qīm", "stress": "3"}
+{"fa": "مستقیم", "roman": "mostakīm", "cn": "直走", "sound": "莫斯塔基姆", "note": "问路回答高频：برو مستقیم＝直走。", "syl": "mo·sta·kīm", "stress": "3"}
 {"fa": "نزدیک", "roman": "nazdīk", "cn": "近", "sound": "纳兹迪克", "note": "附近 nazdīk-e；离这近 nazdīk-e īnjā。", "syl": "na·zdīk", "stress": "2"}
 {"fa": "دور", "roman": "dūr", "cn": "远", "sound": "杜尔", "note": "ū 拖长；远吗 dūr-e؟", "syl": "dūr", "stress": "1"}
 {"fa": "اینجا", "roman": "īnjā", "cn": "这里", "sound": "因加", "note": "ī 拖长；这里停车 īnjā negāh dār。", "syl": "ī·njā", "stress": "2"}
 {"fa": "آنجا", "roman": "ānjā", "cn": "那里", "sound": "安加", "note": "ān 拖长；去那里 be ānjā。", "syl": "ā·njā", "stress": "2"}
 {"fa": "هتل", "roman": "hotel", "cn": "酒店", "sound": "霍泰尔", "note": "外来词；订房 hotel dāram 我有预订。", "syl": "ho·tel", "stress": "2"}
 {"fa": "رزرو", "roman": "rezerv", "cn": "预订", "sound": "雷泽尔夫", "note": "已预订 rezerv kardam；rezerv 来自法语。", "syl": "re·zerv", "stress": "2"}
-{"fa": "اتاق", "roman": "otāq", "cn": "房间", "sound": "奥塔格", "note": "q 喉音收尾；开房 otāq mīḵām。", "syl": "o·tāq", "stress": "2"}
-{"fa": "اتاق یک‌نفره", "roman": "otāq-e yek-nafre", "cn": "单人间", "sound": "奥塔格-耶克-纳弗雷", "note": "字面“一人房”；nafar 人。", "syl": "o·tā·q-e·ye·k-na·fre", "stress": "3"}
-{"fa": "اتاق دو نفره", "roman": "otāq-e do-nafre", "cn": "双人间", "sound": "奥塔格-多-纳弗雷", "note": "大床/双床都可问。", "syl": "o·tā·q-e·do·-na·fre", "stress": "3"}
+{"fa": "اتاق", "roman": "otāk", "cn": "房间", "sound": "奥塔格", "note": "k 喉音收尾；开房 otāk mīhām。", "syl": "o·tāk", "stress": "2"}
+{"fa": "اتاق یک‌نفره", "roman": "otāk-e yek-nafre", "cn": "单人间", "sound": "奥塔格-耶克-纳弗雷", "note": "字面“一人房”；nafar 人。", "syl": "o·tāk·e·yek·na·fre", "stress": "6"}
+{"fa": "اتاق دو نفره", "roman": "otāk-e do-nafre", "cn": "双人间", "sound": "奥塔格-多-纳弗雷", "note": "大床/双床都可问。", "syl": "o·tāk·e·do·na·fre", "stress": "6"}
 {"fa": "کلید", "roman": "kelīd", "cn": "钥匙", "sound": "凯利德", "note": "房卡/钥匙；كلید اتاق 房卡。", "syl": "ke·līd", "stress": "2"}
 {"fa": "ورودی", "roman": "vorūdī", "cn": "入口", "sound": "沃鲁迪", "note": "ū 拖长；入场口。", "syl": "vo·rū·dī", "stress": "3"}
-{"fa": "خروجی", "roman": "ḵorūjī", "cn": "出口", "sound": "霍鲁吉", "note": "ḵ 哈气＋ū 长；紧急出口 ḵorūjī-ye ezterārī。", "syl": "ḵo·rū·jī", "stress": "3"}
-{"fa": "طبقه", "roman": "tabaqe", "cn": "楼层", "sound": "塔巴盖", "note": "第几层 tabaqe-ye čandom؛ q 喉音。", "syl": "ta·ba·qe", "stress": "3"}
+{"fa": "خروجی", "roman": "horūjī", "cn": "出口", "sound": "霍鲁吉", "note": "h 哈气＋ū 长；紧急出口 horūjī-ye ezterārī。", "syl": "ho·rū·jī", "stress": "3"}
+{"fa": "طبقه", "roman": "tabake", "cn": "楼层", "sound": "塔巴盖", "note": "第几层 tabake-ye chandom؛ k 喉音。", "syl": "ta·ba·ke", "stress": "3"}
 {"fa": "آسانسور", "roman": "āsānsor", "cn": "电梯", "sound": "阿桑索尔", "note": "两个 ā 拖长；也可说 elāvātōr（老词）。", "syl": "ā·sā·nsor", "stress": "3"}
 {"fa": "پله", "roman": "pelle", "cn": "楼梯", "sound": "佩莱", "note": "双 l 稍停顿；pellehā 阶梯。", "syl": "pe·lle", "stress": "2"}
 {"fa": "صبحانه", "roman": "sobhāne", "cn": "早餐", "sound": "索布哈内", "note": "酒店含早 sobhāne dārad؟ 含早餐吗。", "syl": "so·bhā·ne", "stress": "3"}
-{"fa": "ناهار", "roman": "nāhār", "cn": "午餐", "sound": "纳哈尔", "note": "nāhār mīḵoram 吃午饭；重音在 hār。", "syl": "nā·hār", "stress": "2"}
-{"fa": "شام", "roman": "šām", "cn": "晚餐", "sound": "沙姆", "note": "ā 拖长；晚餐时间 vaqt-e šām。", "syl": "šām", "stress": "1"}
+{"fa": "ناهار", "roman": "nāhār", "cn": "午餐", "sound": "纳哈尔", "note": "nāhār mīhoram 吃午饭；重音在 hār。", "syl": "nā·hār", "stress": "2"}
+{"fa": "شام", "roman": "shām", "cn": "晚餐", "sound": "沙姆", "note": "ā 拖长；晚餐时间 vakt-e shām。", "syl": "shām", "stress": "1"}
 {"fa": "رستوران", "roman": "restorān", "cn": "餐厅", "sound": "雷斯托朗", "note": "ā 拖长结尾；酒店餐厅也叫 restorān。", "syl": "re·sto·rān", "stress": "3"}
 {"fa": "کافه", "roman": "kāfe", "cn": "咖啡馆", "sound": "卡费", "note": "外来词；现在伊朗咖啡文化浓。", "syl": "kā·fe", "stress": "2"}
-{"fa": "چایخانه", "roman": "čāy-ḵāne", "cn": "茶馆", "sound": "恰伊-哈内", "note": "传统茶馆；水烟也在此抽。", "syl": "čā·y-ḵā·ne", "stress": "3"}
+{"fa": "چایخانه", "roman": "chāy-hāne", "cn": "茶馆", "sound": "恰伊-哈内", "note": "传统茶馆；水烟也在此抽。", "syl": "chāy·hā·ne", "stress": "3"}
 {"fa": "باجه", "roman": "bāje", "cn": "窗口、柜台", "sound": "巴杰", "note": "车站/银行窗口；bāje-ye belīt 售票窗。", "syl": "bā·je", "stress": "2"}
 {"fa": "گیت", "roman": "gīt", "cn": "登机口", "sound": "吉特", "note": "机场广播：gīt-e ۱۰；gī 拖长。", "syl": "gīt", "stress": "1"}
 {"fa": "ترانسفر", "roman": "trānsfer", "cn": "接送（机场接驳）", "sound": "特兰斯费尔", "note": "外来词；酒店接送。", "syl": "trā·nsfer", "stress": "2"}
-{"fa": "تاخیر", "roman": "tā'ḵīr", "cn": "延误", "sound": "塔赫尔", "note": "航班延误 parvāz tā'ḵīr dārad；ḵ 哈气。", "syl": "tā·'ḵīr", "stress": "2"}
-{"fa": "لغو", "roman": "laḡv", "cn": "取消", "sound": "拉赫夫", "note": "航班取消 parvāz laḡv šode；ḡ 喉音。", "syl": "laḡv", "stress": "1"}
-{"fa": "گیت شماره", "roman": "gīt-e šomāre", "cn": "登机口号码", "sound": "吉特-肖马雷", "note": "看登机牌；šomāre 数字。", "syl": "gī·t-e·šo·mā·re", "stress": "3"}
-{"fa": "سوار اتوبوس شدم", "roman": "savār-e otobūs šodam", "cn": "我上了公交车", "sound": "萨瓦雷-奥托布斯-肖达姆", "note": "动词短语 savār šodan 的过去式。", "syl": "sa·vā·r-e·o·to·būs·šo·dam", "stress": "2"}
-{"fa": "از کجا پیاده بشم؟", "roman": "az kojā pīyāde bešam", "cn": "我该在哪下车", "sound": "阿兹-科加-皮亚德-贝沙姆", "note": "问司机/乘客；下车必备句。", "syl": "az·ko·jā·pī·yā·de·be·šam", "stress": "2"}
-{"fa": "یه بلیط لطفا", "roman": "ye belīt lotfan", "cn": "一张票，谢谢", "sound": "耶-贝利特-洛特凡", "note": "买票通用句；ye 是 yek 口语。", "syl": "ye·be·līt·lo·tfan", "stress": "2"}
-{"fa": "بلیط برگشت", "roman": "belīt-e bargašt", "cn": "返程票", "sound": "贝利特-巴尔加什特", "note": "bargašt 返回；bargardam 回来。", "syl": "be·lī·t-e·ba·rgašt", "stress": "2"}
-{"fa": "قایق", "roman": "qāyeq", "cn": "船", "sound": "加耶格", "note": "q 喉音两次；南部波斯湾行船。", "syl": "qā·yeq", "stress": "2"}
-{"fa": "تله‌کابین", "roman": "tele-kābīn", "cn": "缆车", "sound": "泰莱-卡宾", "note": "山区景点；kābīn 车厢。", "syl": "te·le·-kā·bīn", "stress": "4"}
-{"fa": "چمدونم رو گم کردم", "roman": "čamedūnam rū gom kardam", "cn": "我的行李丢了", "sound": "恰梅杜纳姆-鲁-戈姆-卡尔达姆", "note": "rū 是 rā 的口语（宾语标记）；去失物招领。", "syl": "ča·me·dū·nam·rū·gom·ka·rdam", "stress": "2"}
-{"fa": "دفتر گم‌شده", "roman": "daftar-e gom-šode", "cn": "失物招领处", "sound": "达夫塔雷-戈姆肖德", "note": "机场找行李；字面“丢失办公室”。", "syl": "da·fta·r-e·go·m-šo·de", "stress": "3"}
+{"fa": "تاخیر", "roman": "tā'hīr", "cn": "延误", "sound": "塔赫尔", "note": "航班延误 parvāz tā'hīr dārad；h 哈气。", "syl": "tā·hīr", "stress": "2"}
+{"fa": "لغو", "roman": "lagv", "cn": "取消", "sound": "拉赫夫", "note": "航班取消 parvāz lagv shode；g 喉音。", "syl": "lagv", "stress": "1"}
+{"fa": "گیت شماره", "roman": "gīt-e shomāre", "cn": "登机口号码", "sound": "吉特-肖马雷", "note": "看登机牌；shomāre 数字。", "syl": "gīt·e·sho·mā·re", "stress": "5"}
+{"fa": "سوار اتوبوس شدم", "roman": "savār-e otobūs shodam", "cn": "我上了公交车", "sound": "萨瓦雷-奥托布斯-肖达姆", "note": "动词短语 savār shodan 的过去式。", "syl": "sa·vār·e·o·to·būs·sho·dam", "stress": "8"}
+{"fa": "از کجا پیاده بشم؟", "roman": "az kojā pīyāde besham", "cn": "我该在哪下车", "sound": "阿兹-科加-皮亚德-贝沙姆", "note": "问司机/乘客；下车必备句。", "syl": "az·ko·jā·pī·yā·de·be·sham", "stress": "8"}
+{"fa": "یه بلیط لطفا", "roman": "ye belīt lotfan", "cn": "一张票，谢谢", "sound": "耶-贝利特-洛特凡", "note": "买票通用句；ye 是 yek 口语。", "syl": "ye·be·līt·lo·tfan", "stress": "5"}
+{"fa": "بلیط برگشت", "roman": "belīt-e bargasht", "cn": "返程票", "sound": "贝利特-巴尔加什特", "note": "bargasht 返回；bargardam 回来。", "syl": "be·līt·e·ba·rgasht", "stress": "5"}
+{"fa": "قایق", "roman": "kāyek", "cn": "船", "sound": "加耶格", "note": "k 喉音两次；南部波斯湾行船。", "syl": "kā·yek", "stress": "2"}
+{"fa": "تله‌کابین", "roman": "tele-kābīn", "cn": "缆车", "sound": "泰莱-卡宾", "note": "山区景点；kābīn 车厢。", "syl": "te·le·kā·bīn", "stress": "4"}
+{"fa": "چمدونم رو گم کردم", "roman": "chamedūnam rū gom kardam", "cn": "我的行李丢了", "sound": "恰梅杜纳姆-鲁-戈姆-卡尔达姆", "note": "rū 是 rā 的口语（宾语标记）；去失物招领。", "syl": "cha·me·dū·nam·rū·gom·ka·rdam", "stress": "8"}
+{"fa": "دفتر گم‌شده", "roman": "daftar-e gom-shode", "cn": "失物招领处", "sound": "达夫塔雷-戈姆肖德", "note": "机场找行李；字面“丢失办公室”。", "syl": "da·ftar·e·gom·sho·de", "stress": "6"}
 {"fa": "تور", "roman": "tūr", "cn": "旅行团", "sound": "图尔", "note": "跟团游 tūr-e safarī；ū 拖长。", "syl": "tūr", "stress": "1"}
 {"fa": "راهنما", "roman": "rāhnamā", "cn": "导游；向导", "sound": "拉赫纳马", "note": "rāh 路＋namā 指示；请导游。", "syl": "rā·hna·mā", "stress": "3"}
-{"fa": "عکس گرفتن", "roman": "aks gereftan", "cn": "拍照", "sound": "阿克塞-格雷夫坦", "note": "帮我拍 aks begīr；景点常说。", "syl": "aks·ge·re·ftan", "stress": "3"}
-{"fa": "پول ملی", "roman": "pūl-e mellī", "cn": "当地货币", "sound": "普莱-梅利", "note": "换汇前问；mellī 国家的。", "syl": "pū·l-e·me·llī", "stress": "2"}
+{"fa": "عکس گرفتن", "roman": "aks gereftan", "cn": "拍照", "sound": "阿克塞-格雷夫坦", "note": "帮我拍 aks begīr；景点常说。", "syl": "aks·ge·re·ftan", "stress": "4"}
+{"fa": "پول ملی", "roman": "pūl-e mellī", "cn": "当地货币", "sound": "普莱-梅利", "note": "换汇前问；mellī 国家的。", "syl": "pūl·e·me·llī", "stress": "4"}
 {"fa": "صرافی", "roman": "sarrāfī", "cn": "兑换店", "sound": "萨拉菲", "note": "换钱去 sarrāfī；双 r 弹舌。", "syl": "sa·rrā·fī", "stress": "3"}
 {"fa": "پاسپورت", "roman": "pāsport", "cn": "护照（外来词）", "sound": "帕斯波特", "note": "gozarnāme 是波斯语；两者通用。", "syl": "pā·sport", "stress": "2"}

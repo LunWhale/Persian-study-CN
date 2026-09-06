@@ -1,0 +1,112 @@
+{"fa": "غذا", "roman": "ḡazā", "cn": "饭菜、食物", "sound": "哈扎", "note": "ḡ 是喉咙含漱音“额”开头，不是 h；点餐“吃什么”都用它。", "syl": "ḡa·zā", "stress": "2"}
+{"fa": "نان", "roman": "nān", "cn": "馕（面包）", "sound": "南", "note": "ā 拖长；伊朗餐桌主食，配几乎所有菜。", "syl": "nān", "stress": "1"}
+{"fa": "نان لواش", "roman": "nān-e lavāš", "cn": "薄馕", "sound": "纳内-拉瓦什", "note": "lavāš 薄饼馕，卷烤肉吃。", "syl": "nā·n-e·la·vāš", "stress": "2"}
+{"fa": "نان بربری", "roman": "nān-e barbarī", "cn": "厚馕", "sound": "纳内-巴尔巴里", "note": "厚实大张，蘸 kashk/奶酪吃。", "syl": "nā·n-e·ba·rba·rī", "stress": "3"}
+{"fa": "نان سنگک", "roman": "nān-e sangak", "cn": "石子馕", "sound": "纳内-桑加克", "note": "传统石子炉烤，表面有坑印。", "syl": "nā·n-e·sa·ngak", "stress": "2"}
+{"fa": "برنج", "roman": "berenj", "cn": "米饭", "sound": "贝兰吉", "note": "伊朗人主食之一；j 浊音。", "syl": "be·renj", "stress": "2"}
+{"fa": "پلو", "roman": "polo", "cn": "抓饭", "sound": "波洛", "note": "与 برنج 常混用；藏红花米饭 zafarānī。", "syl": "po·lo", "stress": "2"}
+{"fa": "چلو کباب", "roman": "čelo kabāb", "cn": "烤爸爸饭（烤肉配饭）", "sound": "切洛-卡巴卜", "note": "伊朗“国菜”之一；点菜说 čelo kabāb。", "syl": "če·lo·ka·bāb", "stress": "2"}
+{"fa": "کباب", "roman": "kabāb", "cn": "烤肉、烤串", "sound": "卡巴卜", "note": "结尾 b 轻闭唇；各类烤肉总称。", "syl": "ka·bāb", "stress": "2"}
+{"fa": "کباب کوبیده", "roman": "kabāb-e kūbīde", "cn": "烤肉碎串", "sound": "卡巴贝-库比德", "note": "ū 拖长；碎肉烤串，伊朗国民小吃。", "syl": "ka·bā·b-e·kū·bī·de", "stress": "3"}
+{"fa": "جوجه کباب", "roman": "joje kabāb", "cn": "烤鸡串", "sound": "久杰-卡巴卜", "note": "j 浊音“知”；常配藏红花腌制。", "syl": "jo·je·ka·bāb", "stress": "2"}
+{"fa": "خورشت", "roman": "ḵorešt", "cn": "炖菜（配饭的烩菜）", "sound": "霍雷什特", "note": "ḵ 哈气音；浇在饭上的伊朗家常炖菜。", "syl": "ḵo·rešt", "stress": "2"}
+{"fa": "قورمه سبزی", "roman": "qorme sabzī", "cn": "香草炖肉（波斯家常菜）", "sound": "戈尔梅-萨布齐", "note": "q 喉音“戈”；豆+香草+羊肉经典炖菜。", "syl": "qo·rme·sa·bzī", "stress": "2"}
+{"fa": "قیمه", "roman": "qeyme", "cn": "豌豆炖肉（配米饭）", "sound": "盖梅", "note": "ey 读“诶衣”；黄豌豆+番茄炖羊肉。", "syl": "qe·yme", "stress": "2"}
+{"fa": "فسنجان", "roman": "fesenjān", "cn": "石榴核桃炖鸡/鸭", "sound": "费森姜", "note": "酸甜浓稠，宴客菜；j 浊音。", "syl": "fe·se·njān", "stress": "3"}
+{"fa": "آبگوشت", "roman": "āb-gūšt", "cn": "羊肉土豆汤（传统菜）", "sound": "阿布-古什特", "note": "连词合成 āb＋gūšt；配馕掰着吃。", "syl": "ā·b-gūšt", "stress": "2"}
+{"fa": "دیزی", "roman": "dīzī", "cn": "陶罐炖肉（即 آبگوشت 的罐装叫法）", "sound": "迪齐", "note": "用小石罐盛的 āb-gūšt，餐厅名 diẓī 常见。", "syl": "dī·zī", "stress": "2"}
+{"fa": "کته", "roman": "kate", "cn": "白米饭（家常）", "sound": "卡特", "note": "无锅巴的简单米饭，配 kūkū 等。", "syl": "ka·te", "stress": "2"}
+{"fa": "عدس پلو", "roman": "adas polo", "cn": "扁豆抓饭", "sound": "阿达斯-波洛", "note": "素食友好；adas 扁豆。", "syl": "a·das·po·lo", "stress": "2"}
+{"fa": "سبزی پلو", "roman": "sabzī polo", "cn": "香草抓饭", "sound": "萨布齐-波洛", "note": "配鱼吃的年节饭；sabzī 香草蔬菜。", "syl": "sa·bzī·po·lo", "stress": "2"}
+{"fa": "زرشک پلو با مرغ", "roman": "zerešk polo bā morḡ", "cn": "小檗果鸡肉抓饭", "sound": "泽雷什克-波洛-巴-莫尔赫", "note": "酸甜开胃；zerešk 红色小酸果。", "syl": "ze·rešk·po·lo·bā·morḡ", "stress": "1"}
+{"fa": "آش", "roman": "āš", "cn": "浓汤、粥（波斯汤羹）", "sound": "阿什", "note": "āš-e reshte 面条汤、āš-e jo 大麦汤等。", "syl": "āš", "stress": "1"}
+{"fa": "سوپ", "roman": "sūp", "cn": "汤", "sound": "苏普", "note": "外来词；sūp-e jo 大麦汤暖胃。", "syl": "sūp", "stress": "1"}
+{"fa": "حلیم", "roman": "halīm", "cn": "麦肉糊", "sound": "哈利姆", "note": "小麦+肉熬至糊状，早餐常配肉桂糖。", "syl": "ha·līm", "stress": "2"}
+{"fa": "کشک", "roman": "kašk", "cn": "乳清干（调味品）", "sound": "卡什克", "note": "发酵乳制品；配 āš 和香草菜。", "syl": "kašk", "stress": "1"}
+{"fa": "کوفته", "roman": "kūfte", "cn": "肉丸", "sound": "库夫特", "note": "ū 拖长；کوفته تبریزی 大肉丸有名。", "syl": "kū·fte", "stress": "2"}
+{"fa": "دلمه", "roman": "dolme", "cn": "酿菜卷（葡萄叶酿等）", "sound": "多尔梅", "note": "dolme barg-e mo 葡萄叶卷；多为开胃菜。", "syl": "do·lme", "stress": "2"}
+{"fa": "کوتلت", "roman": "kotlet", "cn": "炸肉饼", "sound": "科特莱特", "note": "土豆肉饼，家常便当菜。", "syl": "ko·tlet", "stress": "2"}
+{"fa": "میگو", "roman": "meygū", "cn": "虾", "sound": "梅古", "note": "ey 读“诶衣”；ū 拖长。", "syl": "me·ygū", "stress": "2"}
+{"fa": "ماهی", "roman": "māhī", "cn": "鱼", "sound": "马希", "note": "南部海边菜多；星期五传统吃鱼。", "syl": "mā·hī", "stress": "2"}
+{"fa": "مرغ", "roman": "morḡ", "cn": "鸡、鸡肉", "sound": "莫尔赫", "note": "ḡ 喉咙音；جوجه 是小鸡。", "syl": "morḡ", "stress": "1"}
+{"fa": "گوشت", "roman": "gūšt", "cn": "肉", "sound": "古什特", "note": "ū 拖长；点餐问什么肉 gūšt-e čī？", "syl": "gūšt", "stress": "1"}
+{"fa": "گوشت گوسفند", "roman": "gūšt-e gūsfand", "cn": "羊肉", "sound": "古什特-古斯凡德", "note": "伊朗烤肉类多为羊肉；f 轻。", "syl": "gū·št-e·gū·sfand", "stress": "2"}
+{"fa": "گوشت گاو", "roman": "gūšt-e gāv", "cn": "牛肉", "sound": "古什特-加夫", "note": "gāv 牛；ā 拖长。", "syl": "gū·št-e·gāv", "stress": "1"}
+{"fa": "گوساله", "roman": "gūsāle", "cn": "小牛肉", "sound": "古萨莱", "note": "较嫩；菜单常见 gūsāle。", "syl": "gū·sā·le", "stress": "3"}
+{"fa": "تخم مرغ", "roman": "toḵm-e morḡ", "cn": "鸡蛋", "sound": "托赫梅-莫尔赫", "note": "字面“鸡的蛋”；toḵm 词首哈气。", "syl": "to·ḵm-e·morḡ", "stress": "1"}
+{"fa": "املت", "roman": "omlet", "cn": "煎蛋饼", "sound": "奥姆莱特", "note": "伊朗早餐 omlet 常加番茄；与西式略不同。", "syl": "o·mlet", "stress": "2"}
+{"fa": "کوکو", "roman": "kūkū", "cn": "蛋饼（波斯家常）", "sound": "库库", "note": "kūkū sabzī 香草蛋饼，冷热皆宜。", "syl": "kū·kū", "stress": "2"}
+{"fa": "پنیر", "roman": "panīr", "cn": "奶酪", "sound": "帕尼尔", "note": "早餐配馕；ī 拖长。", "syl": "pa·nīr", "stress": "2"}
+{"fa": "ماست", "roman": "māst", "cn": "酸奶", "sound": "马斯特", "note": "ā 拖长；配烤肉解腻必备。", "syl": "māst", "stress": "1"}
+{"fa": "ماست موسیر", "roman": "māst-e mūsīr", "cn": "葱酸奶（配烤肉）", "sound": "马斯特-穆西尔", "note": "mūsīr 一种野葱；伊朗烤肉店标配。", "syl": "mā·st-e·mū·sīr", "stress": "2"}
+{"fa": "کره", "roman": "kare", "cn": "黄油", "sound": "卡雷", "note": "结尾 e 轻读“卡雷”。", "syl": "ka·re", "stress": "2"}
+{"fa": "خامه", "roman": "ḵāme", "cn": "奶油", "sound": "哈梅", "note": "ḵ 哈气音开头；早餐抹馕吃。", "syl": "ḵā·me", "stress": "2"}
+{"fa": "عسل", "roman": "asal", "cn": "蜂蜜", "sound": "阿萨尔", "note": "ع 在词首轻收喉；配 panīr 吃。", "syl": "a·sal", "stress": "2"}
+{"fa": "مربا", "roman": "morabbā", "cn": "果酱", "sound": "莫拉巴", "note": "bā 拖长；morabbā-ye ālbālū 酸樱桃酱。", "syl": "mo·ra·bbā", "stress": "3"}
+{"fa": "خیار", "roman": "ḵeyār", "cn": "黄瓜", "sound": "海亚尔", "note": "ey 读“诶衣”；早餐标配。", "syl": "ḵe·yār", "stress": "2"}
+{"fa": "گوجه", "roman": "goje", "cn": "番茄（口语）", "sound": "戈杰", "note": "正式说 گوجهفرنگی；市场喊 goje 也懂。", "syl": "go·je", "stress": "2"}
+{"fa": "گوجه فرنگی", "roman": "goje farangī", "cn": "番茄（标准）", "sound": "戈杰-法兰吉", "note": "字面“外国李子”；西红柿炒蛋用。", "syl": "go·je·fa·ra·ngī", "stress": "3"}
+{"fa": "سیب زمینی", "roman": "sīb zamīnī", "cn": "土豆", "sound": "西卜-扎米尼", "note": "字面“地苹果”；sīb 苹果。", "syl": "sīb·za·mī·nī", "stress": "3"}
+{"fa": "پیاز", "roman": "pīāz", "cn": "洋葱", "sound": "皮亚兹", "note": "ī 拖长；炖菜打底。", "syl": "pī·āz", "stress": "2"}
+{"fa": "سیر", "roman": "sīr", "cn": "大蒜", "sound": "西尔", "note": "sīr 与 شیر（奶/狮）只差一个字母，注意别混淆。", "syl": "sīr", "stress": "1"}
+{"fa": "هویج", "roman": "havīj", "cn": "胡萝卜", "sound": "哈维吉", "note": "ī 拖长；j 浊音。", "syl": "ha·vīj", "stress": "2"}
+{"fa": "کاهو", "roman": "kāhū", "cn": "生菜", "sound": "卡胡", "note": "ū 拖长收尾。", "syl": "kā·hū", "stress": "2"}
+{"fa": "سبزی", "roman": "sabzī", "cn": "蔬菜、香草", "sound": "萨布齐", "note": "泛指蔬菜；餐馆问 سبزی 也指那盘香草。", "syl": "sa·bzī", "stress": "2"}
+{"fa": "بادمجان", "roman": "bādemjān", "cn": "茄子", "sound": "巴德姆姜", "note": "波斯菜主力：kashk-e bādemjān 烤茄泥。", "syl": "bā·de·mjān", "stress": "3"}
+{"fa": "لوبیا", "roman": "lūbīā", "cn": "豆子", "sound": "卢比亚", "note": "ū 拖长；lūbīā sabz 四季豆。", "syl": "lū·bī·ā", "stress": "3"}
+{"fa": "نخود", "roman": "noḵod", "cn": "鹰嘴豆", "sound": "诺霍德", "note": "āš 和 ab-gūšt 常放；ḵ 哈气。", "syl": "no·ḵod", "stress": "2"}
+{"fa": "عدس", "roman": "adas", "cn": "扁豆", "sound": "阿达斯", "note": "两个 a 都短促；素菜常用。", "syl": "a·das", "stress": "2"}
+{"fa": "قارچ", "roman": "qārč", "cn": "蘑菇", "sound": "加尔奇", "note": "q 喉音；č 读“奇”。", "syl": "qārč", "stress": "1"}
+{"fa": "ذرت", "roman": "zorrāt", "cn": "玉米", "sound": "佐拉特", "note": "煮玉米街头小吃；双 r 弹舌快。", "syl": "zo·rrāt", "stress": "2"}
+{"fa": "سیب", "roman": "sīb", "cn": "苹果", "sound": "西卜", "note": "ī 拖长；结尾 b 轻闭唇。", "syl": "sīb", "stress": "1"}
+{"fa": "پرتقال", "roman": "porteḡāl", "cn": "橙子", "sound": "波尔泰加勒", "note": "ḡ 喉音；伊朗北部盛产。", "syl": "po·rte·ḡāl", "stress": "3"}
+{"fa": "موز", "roman": "moz", "cn": "香蕉", "sound": "莫兹", "note": "短 o；z 轻。", "syl": "moz", "stress": "1"}
+{"fa": "هندوانه", "roman": "hendevāne", "cn": "西瓜", "sound": "亨德瓦内", "note": "vā 拖长；夏天饭后水果。", "syl": "he·nde·vā·ne", "stress": "4"}
+{"fa": "خربزه", "roman": "ḵarbeze", "cn": "甜瓜", "sound": "哈尔贝泽", "note": "ḵ 哈气；伊朗瓜类出名。", "syl": "ḵa·rbe·ze", "stress": "3"}
+{"fa": "انگور", "roman": "angūr", "cn": "葡萄", "sound": "安古尔", "note": "ū 拖长；葡萄干 kešmeš。", "syl": "a·ngūr", "stress": "2"}
+{"fa": "خرما", "roman": "ḵormā", "cn": "椰枣", "sound": "霍尔马", "note": "ḵ 开头哈气；斋月开斋常吃。", "syl": "ḵo·rmā", "stress": "2"}
+{"fa": "انار", "roman": "anār", "cn": "石榴", "sound": "阿纳尔", "note": "伊朗石榴汁出名；ā 拖长。", "syl": "a·nār", "stress": "2"}
+{"fa": "گیلاس", "roman": "gīlās", "cn": "樱桃", "sound": "吉拉斯", "note": "gī 拖长；夏天上市。", "syl": "gī·lās", "stress": "2"}
+{"fa": "آلبالو", "roman": "ālbālū", "cn": "酸樱桃", "sound": "阿尔巴卢", "note": "熬酱和炖菜用；两个长元音。", "syl": "ā·lbā·lū", "stress": "3"}
+{"fa": "زردآلو", "roman": "zard-ālū", "cn": "杏", "sound": "扎尔德-阿卢", "note": "字面“黄李子”；ḵormālū 也指杏干。", "syl": "za·rd-ā·lū", "stress": "3"}
+{"fa": "هلو", "roman": "holū", "cn": "桃子", "sound": "霍卢", "note": "ū 拖长；h 轻送气。", "syl": "ho·lū", "stress": "2"}
+{"fa": "لیمو", "roman": "līmū", "cn": "柠檬、青柠", "sound": "利穆", "note": "两个长元音；茶里也加 līmū。", "syl": "lī·mū", "stress": "2"}
+{"fa": "آب", "roman": "āb", "cn": "水", "sound": "阿卜", "note": "最基础词；ā 拖长。要水 āb lotfan。", "syl": "āb", "stress": "1"}
+{"fa": "آب معدنی", "roman": "āb-e ma'danī", "cn": "矿泉水", "sound": "阿贝-马达尼", "note": "餐馆默认给瓶装水；可点名要。", "syl": "ā·b-e·ma·'da·nī", "stress": "3"}
+{"fa": "نوشابه", "roman": "nūšābe", "cn": "汽水", "sound": "努沙贝", "note": "本地可乐/汽水；ū 拖长。", "syl": "nū·šā·be", "stress": "3"}
+{"fa": "دوغ", "roman": "dūḡ", "cn": "咸酸奶饮", "sound": "杜赫", "note": "伊朗国民饮料，配烤肉；ḡ 喉音。", "syl": "dūḡ", "stress": "1"}
+{"fa": "آبمیوه", "roman": "āb-mīve", "cn": "果汁", "sound": "阿布-米韦", "note": "mīve 水果；āb-mīve-ye anār 石榴汁。", "syl": "ā·b-mī·ve", "stress": "3"}
+{"fa": "چای", "roman": "čāy", "cn": "茶", "sound": "恰伊", "note": "伊朗红茶文化核心；ā 拖长，y 轻。", "syl": "čāy", "stress": "1"}
+{"fa": "چای سیاه", "roman": "čāy-e sīyāh", "cn": "红茶", "sound": "恰耶-西耶赫", "note": "伊朗默认“茶”就是红茶，加糖或 نبات。", "syl": "čā·y-e·sī·yāh", "stress": "2"}
+{"fa": "قهوه", "roman": "qahve", "cn": "咖啡", "sound": "加赫韦", "note": "q 喉音；近年咖啡馆多，传统店少。", "syl": "qa·hve", "stress": "2"}
+{"fa": "شیر", "roman": "šīr", "cn": "牛奶", "sound": "希尔", "note": "ī 拖长；与“狮子”同形，靠语境。", "syl": "šīr", "stress": "1"}
+{"fa": "شیرینی", "roman": "šīrīnī", "cn": "点心、甜食", "sound": "希里尼", "note": "伴茶吃的小甜点；šīrīn 甜的。", "syl": "šī·rī·nī", "stress": "3"}
+{"fa": "باقلوایی", "roman": "bāqlavā", "cn": "果仁千层酥", "sound": "巴格拉瓦", "note": "伊朗、土耳其同源甜点；q 喉音。", "syl": "bā·qla·vā", "stress": "3"}
+{"fa": "سوهان", "roman": "sohān", "cn": "藏红花脆糖（伊斯法罕特产）", "sound": "索汉", "note": "伊斯法罕伴手礼；sohān-e qom 也有。", "syl": "so·hān", "stress": "2"}
+{"fa": "گز", "roman": "gaz", "cn": "开心果牛轧糖（伊斯法罕）", "sound": "加兹", "note": "伊斯法罕名产；gaz 也指开心果树胶。", "syl": "gaz", "stress": "1"}
+{"fa": "بستنی", "roman": "bastanī", "cn": "冰淇淋", "sound": "巴斯塔尼", "note": "بستنی سنتی 藏红花冰淇淋，值得试。", "syl": "ba·sta·nī", "stress": "3"}
+{"fa": "شکلات", "roman": "šokolāt", "cn": "巧克力", "sound": "绍科拉特", "note": "ā 拖长结尾；甜点柜常见。", "syl": "šo·ko·lāt", "stress": "3"}
+{"fa": "کیک", "roman": "keyk", "cn": "蛋糕", "sound": "凯克", "note": "外来词；ey 读“诶衣”。", "syl": "keyk", "stress": "1"}
+{"fa": "نمک", "roman": "namak", "cn": "盐", "sound": "纳马克", "note": "要盐 namak lotfan。", "syl": "na·mak", "stress": "2"}
+{"fa": "فلفل", "roman": "felfel", "cn": "胡椒、辣椒", "sound": "费尔费尔", "note": "felfel-e sīāh 黑胡椒；tond 辣。", "syl": "fe·lfel", "stress": "2"}
+{"fa": "زعفران", "roman": "za'farān", "cn": "藏红花", "sound": "扎法兰", "note": "ع 轻收喉；伊朗是世界藏红花大国。", "syl": "za·'fa·rān", "stress": "3"}
+{"fa": "دارچین", "roman": "dārčīn", "cn": "肉桂", "sound": "达尔钦", "note": "čī 拖长；撒在茶和 halīm 上。", "syl": "dā·rčīn", "stress": "2"}
+{"fa": "زردچوبه", "roman": "zardčūbe", "cn": "姜黄", "sound": "扎尔德丘贝", "note": "伊朗炖菜黄澄澄的秘诀；čū 拖长。", "syl": "za·rdčū·be", "stress": "3"}
+{"fa": "روغن", "roman": "roḡan", "cn": "油", "sound": "罗罕", "note": "ḡ 喉音；roḡan-e zeytūn 橄榄油。", "syl": "ro·ḡan", "stress": "2"}
+{"fa": "سرکه", "roman": "serke", "cn": "醋", "sound": "塞尔克", "note": "配 torsh 菜；结尾 e 轻。", "syl": "se·rke", "stress": "2"}
+{"fa": "سس", "roman": "sos", "cn": "酱汁", "sound": "索斯", "note": "外来词；番茄酱 sos-e goje。", "syl": "sos", "stress": "1"}
+{"fa": "خوشمزه", "roman": "ḵošmaze", "cn": "好吃", "sound": "霍什马泽", "note": "点完菜评价；ḵoš 好＋maze 味道。", "syl": "ḵo·šma·ze", "stress": "3"}
+{"fa": "بابردار", "roman": "bā-bardār", "cn": "打包带走", "sound": "巴-巴尔达尔", "note": "字面“能带走的”；点外卖说 bā-bardār。", "syl": "bā·-ba·rdār", "stress": "3"}
+{"fa": "منو", "roman": "menū", "cn": "菜单", "sound": "梅努", "note": "外来词；要看菜单 menū lotfan。", "syl": "me·nū", "stress": "2"}
+{"fa": "حساب", "roman": "hesāb", "cn": "账单", "sound": "赫萨卜", "note": "买单 hesāb lotfan（结账，谢谢）。", "syl": "he·sāb", "stress": "2"}
+{"fa": "نوش جان", "roman": "nūš-e jān", "cn": "请慢用/愿可口", "sound": "努谢-姜", "note": "开饭前的祝福语；别人吃东西时也可说。", "syl": "nū·š-e·jān", "stress": "1"}
+{"fa": "گرسنه", "roman": "gorosne", "cn": "饿", "sound": "戈罗斯内", "note": "我饿了 gorosne-am；重音在词尾。", "syl": "go·ro·sne", "stress": "3"}
+{"fa": "تشنه", "roman": "tešne", "cn": "渴", "sound": "泰什内", "note": "我渴了 tešne-am。", "syl": "te·šne", "stress": "2"}
+{"fa": "تند", "roman": "tond", "cn": "辣、快", "sound": "通德", "note": "问辣不辣 tond-e؟；也表“快”。", "syl": "tond", "stress": "1"}
+{"fa": "شیرین", "roman": "šīrīn", "cn": "甜", "sound": "希林", "note": "人名 Shirin 也这个词；ī 拖长。", "syl": "šī·rīn", "stress": "2"}
+{"fa": "ترش", "roman": "torsh", "cn": "酸", "sound": "托尔什", "note": "伊朗菜偏酸香；torsh 后 r 弹舌。", "syl": "torsh", "stress": "1"}
+{"fa": "تلخ", "roman": "talḵ", "cn": "苦", "sound": "塔勒赫", "note": "ḵ 结尾哈气轻送。", "syl": "talḵ", "stress": "1"}
+{"fa": "شور", "roman": "šūr", "cn": "咸", "sound": "舒尔", "note": "ū 拖长；咸了 šūr-e。", "syl": "šūr", "stress": "1"}
+{"fa": "داغ", "roman": "dāḡ", "cn": "烫、热腾腾", "sound": "达赫", "note": "上菜说 dāḡ-e 趁热；ḡ 喉音。", "syl": "dāḡ", "stress": "1"}
+{"fa": "سرد", "roman": "sard", "cn": "凉、冷", "sound": "萨尔德", "note": "要凉的 āb-e sard 凉水。", "syl": "sard", "stress": "1"}
+{"fa": "تازه", "roman": "tāze", "cn": "新鲜", "sound": "塔泽", "note": "夸食物新鲜：tāze-ye！", "syl": "tā·ze", "stress": "2"}

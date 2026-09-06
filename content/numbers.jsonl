@@ -2,83 +2,83 @@
 {"fa": "یک", "roman": "yek", "cn": "一", "sound": "耶克", "note": "口语常弱化成 ye（耶）；数字一放在名词前。", "syl": "yek", "stress": "1"}
 {"fa": "دو", "roman": "do", "cn": "二", "sound": "多", "note": "短 o 圆唇；دو 是独立数词。", "syl": "do", "stress": "1"}
 {"fa": "سه", "roman": "se", "cn": "三", "sound": "塞", "note": "e 短促；三本书 se ketāb。", "syl": "se", "stress": "1"}
-{"fa": "چهار", "roman": "čahār", "cn": "四", "sound": "恰哈尔", "note": "口语读 čār（恰尔）更常见；书面 čahār。", "syl": "ča·hār", "stress": "2"}
+{"fa": "چهار", "roman": "chahār", "cn": "四", "sound": "恰哈尔", "note": "口语读 chār（恰尔）更常见；书面 chahār。", "syl": "cha·hār", "stress": "2"}
 {"fa": "پنج", "roman": "panj", "cn": "五", "sound": "潘吉", "note": "j 浊音“知”；结尾轻声。", "syl": "panj", "stress": "1"}
-{"fa": "شش", "roman": "šeš", "cn": "六", "sound": "谢什", "note": "š 双音，读“谢什”别吞。", "syl": "šeš", "stress": "1"}
+{"fa": "شش", "roman": "shesh", "cn": "六", "sound": "谢什", "note": "sh 双音，读“谢什”别吞。", "syl": "shesh", "stress": "1"}
 {"fa": "هفت", "roman": "haft", "cn": "七", "sound": "哈福特", "note": "t 收尾轻而清。", "syl": "haft", "stress": "1"}
-{"fa": "هشت", "roman": "hašt", "cn": "八", "sound": "哈什特", "note": "š 在 t 前仍读“什”；快读“哈什特”。", "syl": "hašt", "stress": "1"}
+{"fa": "هشت", "roman": "hasht", "cn": "八", "sound": "哈什特", "note": "sh 在 t 前仍读“什”；快读“哈什特”。", "syl": "hasht", "stress": "1"}
 {"fa": "نه", "roman": "noh", "cn": "九", "sound": "诺赫", "note": "数字九读 noh（与否定词 نه“不”读音不同：否定读 na）。", "syl": "noh", "stress": "1"}
 {"fa": "ده", "roman": "dah", "cn": "十", "sound": "达赫", "note": "口语读 da（达），如 ده تومان→da tūmān。", "syl": "dah", "stress": "1"}
 {"fa": "یازده", "roman": "yāzdah", "cn": "十一", "sound": "亚兹达赫", "note": "yāz 拖长；口语 yāzda。", "syl": "yā·zdah", "stress": "2"}
 {"fa": "دوازده", "roman": "davāzdah", "cn": "十二", "sound": "达瓦兹达赫", "note": "中段 vā 拉长，别按拼写读“多阿兹达”。", "syl": "da·vā·zdah", "stress": "3"}
 {"fa": "سیزده", "roman": "sīzdah", "cn": "十三", "sound": "西兹达赫", "note": "sī 拖长；“十三”在伊朗文化里是出门踏青日（سيزدهبهدر）。", "syl": "sī·zdah", "stress": "2"}
-{"fa": "چهارده", "roman": "čahārdah", "cn": "十四", "sound": "恰哈尔达赫", "note": "口语 čārdah（恰尔达赫）。", "syl": "ča·hā·rdah", "stress": "3"}
+{"fa": "چهارده", "roman": "chahārdah", "cn": "十四", "sound": "恰哈尔达赫", "note": "口语 chārdah（恰尔达赫）。", "syl": "cha·hā·rdah", "stress": "3"}
 {"fa": "پانزده", "roman": "pānzdah", "cn": "十五", "sound": "潘兹达赫", "note": "pān 拖长；z 轻。", "syl": "pā·nzdah", "stress": "2"}
-{"fa": "شانزده", "roman": "šānzdah", "cn": "十六", "sound": "香兹达赫", "note": "šān 拖长带鼻音，像“香”。", "syl": "šā·nzdah", "stress": "2"}
+{"fa": "شانزده", "roman": "shānzdah", "cn": "十六", "sound": "香兹达赫", "note": "shān 拖长带鼻音，像“香”。", "syl": "shā·nzdah", "stress": "2"}
 {"fa": "هفده", "roman": "hefdah", "cn": "十七", "sound": "赫夫达赫", "note": "口语也读 hafdah；f 轻。", "syl": "he·fdah", "stress": "2"}
 {"fa": "هجده", "roman": "hejdah", "cn": "十八", "sound": "赫吉达赫", "note": "ج 读浊“基”；别按字形读 h-dah。", "syl": "he·jdah", "stress": "2"}
 {"fa": "نوزده", "roman": "nūzdah", "cn": "十九", "sound": "努兹达赫", "note": "ū 拖长；nūz 重音。", "syl": "nū·zdah", "stress": "2"}
 {"fa": "بیست", "roman": "bīst", "cn": "二十", "sound": "比斯特", "note": "ī 拖长；二十几岁 bīst-o-…。", "syl": "bīst", "stress": "1"}
 {"fa": "سی", "roman": "sī", "cn": "三十", "sound": "西", "note": "sī 拖长；三十 sī，别和 se（三）混淆。", "syl": "sī", "stress": "1"}
-{"fa": "چهل", "roman": "čehel", "cn": "四十", "sound": "切赫尔", "note": "口语 čel（切尔）；如 čel sāl 四十年。", "syl": "če·hel", "stress": "2"}
+{"fa": "چهل", "roman": "chehel", "cn": "四十", "sound": "切赫尔", "note": "口语 chel（切尔）；如 chel sāl 四十年。", "syl": "che·hel", "stress": "2"}
 {"fa": "پنجاه", "roman": "panjāh", "cn": "五十", "sound": "潘加赫", "note": "结尾 h 轻送气；重音在 jāh。", "syl": "pa·njāh", "stress": "2"}
-{"fa": "شصت", "roman": "šast", "cn": "六十", "sound": "沙斯特", "note": "拼写 š-s-t，实际读 šast（沙斯特），别加中间元音。", "syl": "šast", "stress": "1"}
+{"fa": "شصت", "roman": "shast", "cn": "六十", "sound": "沙斯特", "note": "拼写 sh-s-t，实际读 shast（沙斯特），别加中间元音。", "syl": "shast", "stress": "1"}
 {"fa": "هفتاد", "roman": "haftād", "cn": "七十", "sound": "哈夫塔德", "note": "ā 拖长收尾；重音在 tād。", "syl": "ha·ftād", "stress": "2"}
-{"fa": "هشتاد", "roman": "haštād", "cn": "八十", "sound": "哈什塔德", "note": "š 后跟 t，快读顺滑。", "syl": "ha·štād", "stress": "2"}
+{"fa": "هشتاد", "roman": "hashtād", "cn": "八十", "sound": "哈什塔德", "note": "sh 后跟 t，快读顺滑。", "syl": "ha·shtād", "stress": "2"}
 {"fa": "نود", "roman": "navad", "cn": "九十", "sound": "纳瓦德", "note": "拼写 n-w-d 读 navad，别读“努德”。", "syl": "na·vad", "stress": "2"}
 {"fa": "صد", "roman": "sad", "cn": "一百", "sound": "萨德", "note": "伊朗人报价常说 صد 开头；重音在词上。", "syl": "sad", "stress": "1"}
 {"fa": "دویست", "roman": "devīst", "cn": "二百", "sound": "德维斯特", "note": "devīst 中间 vī 拖长。", "syl": "de·vīst", "stress": "2"}
 {"fa": "سیصد", "roman": "sīsad", "cn": "三百", "sound": "西萨德", "note": "sī 拖长后接 sad。", "syl": "sī·sad", "stress": "2"}
-{"fa": "چهارصد", "roman": "čahārsad", "cn": "四百", "sound": "恰哈尔萨德", "note": "口语 čārsad。", "syl": "ča·hā·rsad", "stress": "3"}
+{"fa": "چهارصد", "roman": "chahārsad", "cn": "四百", "sound": "恰哈尔萨德", "note": "口语 chārsad。", "syl": "cha·hā·rsad", "stress": "3"}
 {"fa": "پانصد", "roman": "pānsad", "cn": "五百", "sound": "潘萨德", "note": "pān 拖长；五百克 pānsad geram。", "syl": "pā·nsad", "stress": "2"}
 {"fa": "هزار", "roman": "hezār", "cn": "一千", "sound": "赫扎尔", "note": "伊朗价格动辄上千上百万，هزار 必会。", "syl": "he·zār", "stress": "2"}
 {"fa": "میلیون", "roman": "mīlyūn", "cn": "一百万", "sound": "米利尤恩", "note": "伊朗货币面额大，常说 mīlyūn；ū 拖长。", "syl": "mī·lyūn", "stress": "2"}
-{"fa": "یک هزار", "roman": "yek hezār", "cn": "一千（完整说法）", "sound": "耶克-赫扎尔", "note": "报价时说 yek hezār tūmān＝一千托曼。", "syl": "yek·he·zār", "stress": "2"}
-{"fa": "چند تا", "roman": "čand tā", "cn": "几个", "sound": "钱德-塔", "note": "čand 问数量；tā 是量词“个”，后接名词。", "syl": "čand·tā", "stress": "1"}
-{"fa": "یک تا", "roman": "yek tā", "cn": "一个", "sound": "耶克-塔", "note": "波斯语量词通用 tā；如 yek tā pesar 一个男孩。", "syl": "yek·tā", "stress": "1"}
+{"fa": "یک هزار", "roman": "yek hezār", "cn": "一千（完整说法）", "sound": "耶克-赫扎尔", "note": "报价时说 yek hezār tūmān＝一千托曼。", "syl": "yek·he·zār", "stress": "3"}
+{"fa": "چند تا", "roman": "chand tā", "cn": "几个", "sound": "钱德-塔", "note": "chand 问数量；tā 是量词“个”，后接名词。", "syl": "chand·tā", "stress": "2"}
+{"fa": "یک تا", "roman": "yek tā", "cn": "一个", "sound": "耶克-塔", "note": "波斯语量词通用 tā；如 yek tā pesar 一个男孩。", "syl": "yek·tā", "stress": "2"}
 {"fa": "نیم", "roman": "nīm", "cn": "半", "sound": "尼姆", "note": "半小时 nīm sā'at；一半也可 nīm-e。", "syl": "nīm", "stress": "1"}
 {"fa": "اول", "roman": "avval", "cn": "第一", "sound": "阿瓦尔", "note": "重音在词尾；اولین 也表“首个”。", "syl": "a·vval", "stress": "2"}
 {"fa": "دوم", "roman": "dovvom", "cn": "第二", "sound": "多沃姆", "note": "拼写 d-v-m 读 dovom；快读“多沃姆”。", "syl": "do·vvom", "stress": "2"}
 {"fa": "سوم", "roman": "sevvom", "cn": "第三", "sound": "塞沃姆", "note": "同型：s-v-m→sevom。", "syl": "se·vvom", "stress": "2"}
-{"fa": "چهارم", "roman": "čahārom", "cn": "第四", "sound": "恰哈罗姆", "note": "口语 čārom（恰罗姆）。", "syl": "ča·hā·rom", "stress": "3"}
+{"fa": "چهارم", "roman": "chahārom", "cn": "第四", "sound": "恰哈罗姆", "note": "口语 chārom（恰罗姆）。", "syl": "cha·hā·rom", "stress": "3"}
 {"fa": "پنجم", "roman": "panjom", "cn": "第五", "sound": "潘乔姆", "note": "结尾 jom 轻声。", "syl": "pa·njom", "stress": "2"}
 {"fa": "دهم", "roman": "dahom", "cn": "第十", "sound": "达霍姆", "note": "日期上“十号”也说 dahom。", "syl": "da·hom", "stress": "2"}
 {"fa": "بار", "roman": "bār", "cn": "次、回", "sound": "巴尔", "note": "yek bār＝一次；do bār＝两次，可表次数。", "syl": "bār", "stress": "1"}
-{"fa": "دفعه", "roman": "daf'e", "cn": "次、遍（口语）", "sound": "达夫埃", "note": "ع 在喉咙轻收；yek daf'e 一次。", "syl": "da·f'e", "stress": "2"}
-{"fa": "ساعت", "roman": "sā'at", "cn": "小时；钟点", "sound": "萨阿特", "note": "问几点 saat čande？；a 后喉咙轻收。", "syl": "sā·'at", "stress": "2"}
-{"fa": "دقیقه", "roman": "daqīqe", "cn": "分钟", "sound": "达基盖", "note": "q 两次都要从喉咙深处发；结尾轻。", "syl": "da·qī·qe", "stress": "3"}
+{"fa": "دفعه", "roman": "daf'e", "cn": "次、遍（口语）", "sound": "达夫埃", "note": "ع 在喉咙轻收；yek daf'e 一次。", "syl": "da·fe", "stress": "2"}
+{"fa": "ساعت", "roman": "sā'at", "cn": "小时；钟点", "sound": "萨阿特", "note": "问几点 saat chande？；a 后喉咙轻收。", "syl": "sā·at", "stress": "2"}
+{"fa": "دقیقه", "roman": "dakīke", "cn": "分钟", "sound": "达基盖", "note": "k 两次都要从喉咙深处发；结尾轻。", "syl": "da·kī·ke", "stress": "3"}
 {"fa": "ثانیه", "roman": "sānīye", "cn": "秒", "sound": "萨尼耶", "note": "y 是辅音“亚”，sānīye 三音节。", "syl": "sā·nī·ye", "stress": "3"}
-{"fa": "امروز", "roman": "emrūz", "cn": "今天", "sound": "埃姆鲁兹", "note": "ū 拖长；今天几号 emrūz čandom-e؟", "syl": "e·mrūz", "stress": "2"}
+{"fa": "امروز", "roman": "emrūz", "cn": "今天", "sound": "埃姆鲁兹", "note": "ū 拖长；今天几号 emrūz chandom-e؟", "syl": "e·mrūz", "stress": "2"}
 {"fa": "فردا", "roman": "fardā", "cn": "明天", "sound": "法尔达", "note": "ā 拖长收尾；明天见 fardā mībīnamet。", "syl": "fa·rdā", "stress": "2"}
 {"fa": "دیروز", "roman": "dīrūz", "cn": "昨天", "sound": "迪鲁兹", "note": "ī 和 ū 都拖长，读“迪——鲁——兹”。", "syl": "dī·rūz", "stress": "2"}
-{"fa": "امشب", "roman": "emšab", "cn": "今晚", "sound": "埃姆沙卜", "note": "今晚做什么 emšab če kār dārī؟", "syl": "e·mšab", "stress": "2"}
-{"fa": "فردا صبح", "roman": "fardā sobh", "cn": "明早", "sound": "法尔达-索卜", "note": "sobh 尾 h 轻送气，别吞。", "syl": "fa·rdā·sobh", "stress": "1"}
+{"fa": "امشب", "roman": "emshab", "cn": "今晚", "sound": "埃姆沙卜", "note": "今晚做什么 emshab che kār dārī؟", "syl": "e·mshab", "stress": "2"}
+{"fa": "فردا صبح", "roman": "fardā sobh", "cn": "明早", "sound": "法尔达-索卜", "note": "sobh 尾 h 轻送气，别吞。", "syl": "fa·rdā·sobh", "stress": "3"}
 {"fa": "الان", "roman": "alān", "cn": "现在、马上", "sound": "阿朗", "note": "口语高频；等会 alān mīyām 我马上来。", "syl": "a·lān", "stress": "2"}
-{"fa": "وقت", "roman": "vaqt", "cn": "时间、时刻", "sound": "瓦格特", "note": "q 喉音；有没有时间 vaqt dārī؟", "syl": "vaqt", "stress": "1"}
-{"fa": "وقتی", "roman": "vaqtī", "cn": "…的时候", "sound": "瓦格提", "note": "后接从句表时间点；vaqtī ke mīrām… 我走的时候…", "syl": "va·qtī", "stress": "2"}
+{"fa": "وقت", "roman": "vakt", "cn": "时间、时刻", "sound": "瓦格特", "note": "k 喉音；有没有时间 vakt dārī؟", "syl": "vakt", "stress": "1"}
+{"fa": "وقتی", "roman": "vaktī", "cn": "…的时候", "sound": "瓦格提", "note": "后接从句表时间点；vaktī ke mīrām… 我走的时候…", "syl": "va·ktī", "stress": "2"}
 {"fa": "هفته", "roman": "hafte", "cn": "星期、周", "sound": "哈夫特", "note": "这周 in hafte；hafte 结尾轻 e。", "syl": "ha·fte", "stress": "2"}
 {"fa": "ماه", "roman": "māh", "cn": "月；月亮", "sound": "马赫", "note": "这个词又指月亮；本月 in māh。", "syl": "māh", "stress": "1"}
 {"fa": "سال", "roman": "sāl", "cn": "年", "sound": "萨尔", "note": "今年 emsāl（口语）或 in sāl。", "syl": "sāl", "stress": "1"}
-{"fa": "شنبه", "roman": "šanbe", "cn": "星期六（伊朗一周首日）", "sound": "沙恩贝", "note": "nb 口语连读为 mb：读 šambe（沙姆贝）更常见。", "syl": "ša·nbe", "stress": "2"}
-{"fa": "یکشنبه", "roman": "yekšanbe", "cn": "星期日", "sound": "耶克沙姆贝", "note": "伊朗周日是工作日（周休在周四/周五）；口语 mb 读法同上。", "syl": "ye·kša·nbe", "stress": "3"}
-{"fa": "دوشنبه", "roman": "došanbe", "cn": "星期一", "sound": "多沙姆贝", "note": "do＋šanbe 组成；nb 读 mb。", "syl": "do·ša·nbe", "stress": "3"}
-{"fa": "سه‌شنبه", "roman": "sešanbe", "cn": "星期二", "sound": "塞沙姆贝", "note": "“三”＋شنبه；注意 ZWNJ 连接。", "syl": "se·ša·nbe", "stress": "3"}
-{"fa": "چهارشنبه", "roman": "čahāršanbe", "cn": "星期三", "sound": "恰哈尔沙姆贝", "note": "口语 čāršanbe（恰尔沙姆贝）。", "syl": "ča·hā·rša·nbe", "stress": "4"}
-{"fa": "پنجشنبه", "roman": "panjšanbe", "cn": "星期四", "sound": "潘吉沙姆贝", "note": "j 后接 š，读顺“潘吉沙姆贝”。", "syl": "pa·njša·nbe", "stress": "3"}
-{"fa": "جمعه", "roman": "jom'e", "cn": "星期五；主麻日", "sound": "久梅", "note": "伊朗周末=周四下午＋周五；聚礼日 jom'e。", "syl": "jo·m'e", "stress": "2"}
-{"fa": "تعطیل", "roman": "ta'tīl", "cn": "休息日、放假", "sound": "塔提尔", "note": "今天休息 emrūz ta'tīl-e；周五商店多歇业。", "syl": "ta·'tīl", "stress": "2"}
+{"fa": "شنبه", "roman": "shanbe", "cn": "星期六（伊朗一周首日）", "sound": "沙恩贝", "note": "nb 口语连读为 mb：读 shambe（沙姆贝）更常见。", "syl": "sha·nbe", "stress": "2"}
+{"fa": "یکشنبه", "roman": "yekshanbe", "cn": "星期日", "sound": "耶克沙姆贝", "note": "伊朗周日是工作日（周休在周四/周五）；口语 mb 读法同上。", "syl": "ye·ksha·nbe", "stress": "3"}
+{"fa": "دوشنبه", "roman": "doshanbe", "cn": "星期一", "sound": "多沙姆贝", "note": "do＋shanbe 组成；nb 读 mb。", "syl": "do·sha·nbe", "stress": "3"}
+{"fa": "سه‌شنبه", "roman": "seshanbe", "cn": "星期二", "sound": "塞沙姆贝", "note": "“三”＋شنبه；注意 ZWNJ 连接。", "syl": "se·sha·nbe", "stress": "3"}
+{"fa": "چهارشنبه", "roman": "chahārshanbe", "cn": "星期三", "sound": "恰哈尔沙姆贝", "note": "口语 chārshanbe（恰尔沙姆贝）。", "syl": "cha·hā·rsha·nbe", "stress": "4"}
+{"fa": "پنجشنبه", "roman": "panjshanbe", "cn": "星期四", "sound": "潘吉沙姆贝", "note": "j 后接 sh，读顺“潘吉沙姆贝”。", "syl": "pa·njsha·nbe", "stress": "3"}
+{"fa": "جمعه", "roman": "jom'e", "cn": "星期五；主麻日", "sound": "久梅", "note": "伊朗周末=周四下午＋周五；聚礼日 jom'e。", "syl": "jo·me", "stress": "2"}
+{"fa": "تعطیل", "roman": "ta'tīl", "cn": "休息日、放假", "sound": "塔提尔", "note": "今天休息 emrūz ta'tīl-e；周五商店多歇业。", "syl": "ta·tīl", "stress": "2"}
 {"fa": "فروردین", "roman": "farvardīn", "cn": "伊朗历1月（公历3月底-4月中）", "sound": "法尔瓦尔丁", "note": "诺鲁孜新年在当月1日（公历3月21日左右）。", "syl": "fa·rva·rdīn", "stress": "3"}
-{"fa": "اردیبهشت", "roman": "ordībehešt", "cn": "伊朗历2月（4月中-5月中）", "sound": "奥尔迪贝赫什特", "note": "春天花季，五月有花节。", "syl": "o·rdī·be·hešt", "stress": "4"}
-{"fa": "خرداد", "roman": "ḵordād", "cn": "伊朗历3月（5月中-6月中）", "sound": "霍尔达德", "note": "夏初；ḵ 哈气音开头。", "syl": "ḵo·rdād", "stress": "2"}
+{"fa": "اردیبهشت", "roman": "ordībehesht", "cn": "伊朗历2月（4月中-5月中）", "sound": "奥尔迪贝赫什特", "note": "春天花季，五月有花节。", "syl": "o·rdī·be·hesht", "stress": "4"}
+{"fa": "خرداد", "roman": "hordād", "cn": "伊朗历3月（5月中-6月中）", "sound": "霍尔达德", "note": "夏初；h 哈气音开头。", "syl": "ho·rdād", "stress": "2"}
 {"fa": "تیر", "roman": "tīr", "cn": "伊朗历4月（6月中-7月中）", "sound": "提尔", "note": "波斯月份沿用古名；tīr 也是箭。", "syl": "tīr", "stress": "1"}
 {"fa": "مرداد", "roman": "mordād", "cn": "伊朗历5月（7月中-8月中）", "sound": "莫尔达德", "note": "盛夏酷暑。", "syl": "mo·rdād", "stress": "2"}
-{"fa": "شهریور", "roman": "šahrīvar", "cn": "伊朗历6月（8月中-9月中）", "sound": "沙赫里瓦尔", "note": "夏末；结尾 var 轻。", "syl": "ša·hrī·var", "stress": "3"}
+{"fa": "شهریور", "roman": "shahrīvar", "cn": "伊朗历6月（8月中-9月中）", "sound": "沙赫里瓦尔", "note": "夏末；结尾 var 轻。", "syl": "sha·hrī·var", "stress": "3"}
 {"fa": "مهر", "roman": "mehr", "cn": "伊朗历7月（9月中-10月中）", "sound": "梅赫尔", "note": "秋季开学月；mehr 意为“爱、太阳”。", "syl": "mehr", "stress": "1"}
 {"fa": "آبان", "roman": "ābān", "cn": "伊朗历8月（10月中-11月中）", "sound": "阿邦", "note": "ā 拖长开头；秋季。", "syl": "ā·bān", "stress": "2"}
 {"fa": "آذر", "roman": "āzar", "cn": "伊朗历9月（11月中-12月中）", "sound": "阿扎尔", "note": "冬季始；火祠月。", "syl": "ā·zar", "stress": "2"}
 {"fa": "دی", "roman": "dey", "cn": "伊朗历10月（12月中-1月中）", "sound": "戴", "note": "寒冬；字母组合 ey 读“诶衣”。", "syl": "dey", "stress": "1"}
 {"fa": "بهمن", "roman": "bahman", "cn": "伊朗历11月（1月中-2月中）", "sound": "巴赫曼", "note": "伊斯兰革命胜利日在当月22日。", "syl": "ba·hman", "stress": "2"}
 {"fa": "اسفند", "roman": "esfand", "cn": "伊朗历12月（2月中-3月中）", "sound": "埃斯凡德", "note": "岁末；诺鲁孜前大扫除月。", "syl": "e·sfand", "stress": "2"}
-{"fa": "سال نو مبارک", "roman": "sāl-e no mobārak", "cn": "新年快乐", "sound": "萨勒-诺-莫巴拉克", "note": "诺鲁孜节（公历3月21日前后）祝福语。", "syl": "sā·l-e·no·mo·bā·rak", "stress": "3"}
-{"fa": "چندم", "roman": "čandom", "cn": "第几；几号", "sound": "钱多姆", "note": "今天是几号 emrūz čandom-e؟；回答用序数词。", "syl": "ča·ndom", "stress": "2"}
-{"fa": "سال نو", "roman": "sāl-e no", "cn": "新年", "sound": "萨勒-诺", "note": "诺鲁孜新年在春季第一天，是伊朗最盛大的节。", "syl": "sā·l-e·no", "stress": "1"}
+{"fa": "سال نو مبارک", "roman": "sāl-e no mobārak", "cn": "新年快乐", "sound": "萨勒-诺-莫巴拉克", "note": "诺鲁孜节（公历3月21日前后）祝福语。", "syl": "sāl·e·no·mo·bā·rak", "stress": "6"}
+{"fa": "چندم", "roman": "chandom", "cn": "第几；几号", "sound": "钱多姆", "note": "今天是几号 emrūz chandom-e؟；回答用序数词。", "syl": "cha·ndom", "stress": "2"}
+{"fa": "سال نو", "roman": "sāl-e no", "cn": "新年", "sound": "萨勒-诺", "note": "诺鲁孜新年在春季第一天，是伊朗最盛大的节。", "syl": "sāl·e·no", "stress": "3"}

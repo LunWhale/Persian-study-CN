@@ -1,86 +1,86 @@
 {"fa": "بدن", "roman": "badan", "cn": "身体", "sound": "巴丹", "note": "a 短音；身体健康 badan-e sālem。", "syl": "ba·dan", "stress": "2"}
 {"fa": "سر", "roman": "sar", "cn": "头", "sound": "萨尔", "note": "头疼 saram dard mīkone。", "syl": "sar", "stress": "1"}
-{"fa": "مو", "roman": "mū", "cn": "头发", "sound": "穆", "note": "ū 长音；理发 mū čīdan。", "syl": "mū", "stress": "1"}
-{"fa": "صورت", "roman": "sūrat", "cn": "脸", "sound": "苏拉特", "note": "ū 长音；洗脸 sūrat šostan。", "syl": "sū·rat", "stress": "2"}
-{"fa": "پیشانی", "roman": "pīšānī", "cn": "额头", "sound": "皮沙尼", "note": "ī 长音；额头烫 pīšānīam dāḡ-e。", "syl": "pī·šā·nī", "stress": "3"}
+{"fa": "مو", "roman": "mū", "cn": "头发", "sound": "穆", "note": "ū 长音；理发 mū chīdan。", "syl": "mū", "stress": "1"}
+{"fa": "صورت", "roman": "sūrat", "cn": "脸", "sound": "苏拉特", "note": "ū 长音；洗脸 sūrat shostan。", "syl": "sū·rat", "stress": "2"}
+{"fa": "پیشانی", "roman": "pīshānī", "cn": "额头", "sound": "皮沙尼", "note": "ī 长音；额头烫 pīshānīam dāg-e。", "syl": "pī·shā·nī", "stress": "3"}
 {"fa": "ابرو", "roman": "abrū", "cn": "眉毛", "sound": "阿布鲁", "note": "ū 长音；修眉 abrū pīrāstan。", "syl": "a·brū", "stress": "2"}
-{"fa": "چشم", "roman": "čašm", "cn": "眼睛", "sound": "切什姆", "note": "眼疼 čašmam dard mīkone。", "syl": "čašm", "stress": "1"}
-{"fa": "مژه", "roman": "može", "cn": "睫毛", "sound": "莫热", "note": "ž 读“日”；长睫毛 može-ye boland。", "syl": "mo·že", "stress": "2"}
-{"fa": "گوش", "roman": "gūš", "cn": "耳朵", "sound": "古什", "note": "ū 长音；听 gūš dādan。", "syl": "gūš", "stress": "1"}
-{"fa": "بینی", "roman": "bīnī", "cn": "鼻子", "sound": "比尼", "note": "ī 长音；流鼻涕 ābrīzeš-e bīnī。", "syl": "bī·nī", "stress": "2"}
-{"fa": "دهان", "roman": "dahān", "cn": "嘴", "sound": "达汉", "note": "ā 长音；漱口 dahān šostan。", "syl": "da·hān", "stress": "2"}
-{"fa": "لب", "roman": "lab", "cn": "嘴唇", "sound": "拉卜", "note": "嘴唇干 labam ḵošk šode。", "syl": "lab", "stress": "1"}
-{"fa": "دندان", "roman": "dandān", "cn": "牙齿", "sound": "丹当", "note": "ā 长音；牙医 dandān-pezešk。", "syl": "da·ndān", "stress": "2"}
+{"fa": "چشم", "roman": "chashm", "cn": "眼睛", "sound": "切什姆", "note": "眼疼 chashmam dard mīkone。", "syl": "chashm", "stress": "1"}
+{"fa": "مژه", "roman": "mozhe", "cn": "睫毛", "sound": "莫热", "note": "zh 读“日”；长睫毛 mozhe-ye boland。", "syl": "mo·zhe", "stress": "2"}
+{"fa": "گوش", "roman": "gūsh", "cn": "耳朵", "sound": "古什", "note": "ū 长音；听 gūsh dādan。", "syl": "gūsh", "stress": "1"}
+{"fa": "بینی", "roman": "bīnī", "cn": "鼻子", "sound": "比尼", "note": "ī 长音；流鼻涕 ābrīzesh-e bīnī。", "syl": "bī·nī", "stress": "2"}
+{"fa": "دهان", "roman": "dahān", "cn": "嘴", "sound": "达汉", "note": "ā 长音；漱口 dahān shostan。", "syl": "da·hān", "stress": "2"}
+{"fa": "لب", "roman": "lab", "cn": "嘴唇", "sound": "拉卜", "note": "嘴唇干 labam hoshk shode。", "syl": "lab", "stress": "1"}
+{"fa": "دندان", "roman": "dandān", "cn": "牙齿", "sound": "丹当", "note": "ā 长音；牙医 dandān-pezeshk。", "syl": "da·ndān", "stress": "2"}
 {"fa": "زبان", "roman": "zabān", "cn": "舌头；语言", "sound": "扎班", "note": "ā 长音；语言也用此词。", "syl": "za·bān", "stress": "2"}
-{"fa": "لثه", "roman": "lase", "cn": "牙龈", "sound": "拉塞", "note": "牙龈出血 lase ḵūn mīyād。", "syl": "la·se", "stress": "2"}
-{"fa": "گونه", "roman": "gūne", "cn": "脸颊", "sound": "古内", "note": "ū 长音；脸颊红 gūnehā sorḵ。", "syl": "gū·ne", "stress": "2"}
-{"fa": "چانه", "roman": "čāne", "cn": "下巴", "sound": "恰内", "note": "ā 长音；双下巴 čāne-ye do-tā。", "syl": "čā·ne", "stress": "2"}
+{"fa": "لثه", "roman": "lase", "cn": "牙龈", "sound": "拉塞", "note": "牙龈出血 lase hūn mīyād。", "syl": "la·se", "stress": "2"}
+{"fa": "گونه", "roman": "gūne", "cn": "脸颊", "sound": "古内", "note": "ū 长音；脸颊红 gūnehā sorh。", "syl": "gū·ne", "stress": "2"}
+{"fa": "چانه", "roman": "chāne", "cn": "下巴", "sound": "恰内", "note": "ā 长音；双下巴 chāne-ye do-tā。", "syl": "chā·ne", "stress": "2"}
 {"fa": "گردن", "roman": "gardan", "cn": "脖子", "sound": "加尔丹", "note": "落枕 gardanam dard mīkone。", "syl": "ga·rdan", "stress": "2"}
-{"fa": "شانه", "roman": "šāne", "cn": "肩膀", "sound": "沙内", "note": "ā 长音；耸肩 šāne andāḵtan。", "syl": "šā·ne", "stress": "2"}
+{"fa": "شانه", "roman": "shāne", "cn": "肩膀", "sound": "沙内", "note": "ā 长音；耸肩 shāne andāhtan。", "syl": "shā·ne", "stress": "2"}
 {"fa": "بازو", "roman": "bāzū", "cn": "上臂、胳膊", "sound": "巴祖", "note": "ā、ū 长音；抱 bāzū gereftan。", "syl": "bā·zū", "stress": "2"}
 {"fa": "آرنج", "roman": "āranj", "cn": "肘", "sound": "阿兰吉", "note": "j 浊音；肘部 āranj。", "syl": "ā·ranj", "stress": "2"}
-{"fa": "مچ", "roman": "moč", "cn": "手腕", "sound": "莫奇", "note": "手腕 mūč-e dast（口语 moč）。", "syl": "moč", "stress": "1"}
-{"fa": "دست", "roman": "dast", "cn": "手", "sound": "达斯特", "note": "洗手 dast šostan；举手 dast boland kardan。", "syl": "dast", "stress": "1"}
-{"fa": "کف دست", "roman": "kaf-e dast", "cn": "手掌", "sound": "卡费-达斯特", "note": "kaf 掌；看手相 kaf-e dast negāh kardan。", "syl": "ka·f-e·dast", "stress": "1"}
-{"fa": "انگشت", "roman": "angošt", "cn": "手指", "sound": "安戈什特", "note": "拇指 angošt-e šast；也指脚趾（加 پا）。", "syl": "a·ngošt", "stress": "2"}
-{"fa": "ناخن", "roman": "nāḵon", "cn": "指甲", "sound": "纳洪", "note": "ā 长音；剪指甲 nāḵon gereftan。", "syl": "nā·ḵon", "stress": "2"}
+{"fa": "مچ", "roman": "moch", "cn": "手腕", "sound": "莫奇", "note": "手腕 mūch-e dast（口语 moch）。", "syl": "moch", "stress": "1"}
+{"fa": "دست", "roman": "dast", "cn": "手", "sound": "达斯特", "note": "洗手 dast shostan；举手 dast boland kardan。", "syl": "dast", "stress": "1"}
+{"fa": "کف دست", "roman": "kaf-e dast", "cn": "手掌", "sound": "卡费-达斯特", "note": "kaf 掌；看手相 kaf-e dast negāh kardan。", "syl": "kaf·e·dast", "stress": "3"}
+{"fa": "انگشت", "roman": "angosht", "cn": "手指", "sound": "安戈什特", "note": "拇指 angosht-e shast；也指脚趾（加 پا）。", "syl": "a·ngosht", "stress": "2"}
+{"fa": "ناخن", "roman": "nāhon", "cn": "指甲", "sound": "纳洪", "note": "ā 长音；剪指甲 nāhon gereftan。", "syl": "nā·hon", "stress": "2"}
 {"fa": "سینه", "roman": "sīne", "cn": "胸", "sound": "西内", "note": "ī 长音；胸闷 sīnam tang-e。", "syl": "sī·ne", "stress": "2"}
 {"fa": "دل", "roman": "del", "cn": "心；肚子（口语）", "sound": "德尔", "note": "心痛 delam mīsūze（心疼/同情）。", "syl": "del", "stress": "1"}
-{"fa": "قلب", "roman": "qalb", "cn": "心脏", "sound": "加尔卜", "note": "q 喉音；心脏病 bīmārī-ye qalb。", "syl": "qalb", "stress": "1"}
-{"fa": "شکم", "roman": "šekam", "cn": "肚子、腹部", "sound": "谢卡姆", "note": "肚子疼 šekamam dard mīkone。", "syl": "še·kam", "stress": "2"}
+{"fa": "قلب", "roman": "kalb", "cn": "心脏", "sound": "加尔卜", "note": "k 喉音；心脏病 bīmārī-ye kalb。", "syl": "kalb", "stress": "1"}
+{"fa": "شکم", "roman": "shekam", "cn": "肚子、腹部", "sound": "谢卡姆", "note": "肚子疼 shekamam dard mīkone。", "syl": "she·kam", "stress": "2"}
 {"fa": "ناف", "roman": "nāf", "cn": "肚脐", "sound": "纳夫", "note": "ā 长音。", "syl": "nāf", "stress": "1"}
-{"fa": "پشت", "roman": "pošt", "cn": "背", "sound": "波什特", "note": "背疼 poštam dard mīkone。", "syl": "pošt", "stress": "1"}
+{"fa": "پشت", "roman": "posht", "cn": "背", "sound": "波什特", "note": "背疼 poshtam dard mīkone。", "syl": "posht", "stress": "1"}
 {"fa": "کمر", "roman": "kamar", "cn": "腰", "sound": "卡马尔", "note": "腰痛 kamaram dard mīkone。", "syl": "ka·mar", "stress": "2"}
 {"fa": "باسن", "roman": "bāsan", "cn": "臀部（礼貌说法）", "sound": "巴桑", "note": "ā 长音；较礼貌，kafal 偏口语。", "syl": "bā·san", "stress": "2"}
 {"fa": "ران", "roman": "rān", "cn": "大腿", "sound": "朗", "note": "ā 长音；大腿 rān。", "syl": "rān", "stress": "1"}
 {"fa": "زانو", "roman": "zānū", "cn": "膝盖", "sound": "扎努", "note": "ā、ū 长音；膝盖疼 zānūm dard mīkone。", "syl": "zā·nū", "stress": "2"}
-{"fa": "ساق", "roman": "sāq", "cn": "小腿", "sound": "萨克", "note": "ā 长音；q 喉音。", "syl": "sāq", "stress": "1"}
-{"fa": "مچ پا", "roman": "moč-e pā", "cn": "脚踝", "sound": "莫切-帕", "note": "崴脚 moč-e pāam raft。", "syl": "mo·č-e·pā", "stress": "1"}
+{"fa": "ساق", "roman": "sāk", "cn": "小腿", "sound": "萨克", "note": "ā 长音；k 喉音。", "syl": "sāk", "stress": "1"}
+{"fa": "مچ پا", "roman": "moch-e pā", "cn": "脚踝", "sound": "莫切-帕", "note": "崴脚 moch-e pāam raft。", "syl": "moch·e·pā", "stress": "3"}
 {"fa": "پا", "roman": "pā", "cn": "脚；腿", "sound": "帕", "note": "ā 长音；脚疼 pāam dard mīkone。", "syl": "pā", "stress": "1"}
-{"fa": "کف پا", "roman": "kaf-e pā", "cn": "脚掌", "sound": "卡费-帕", "note": "脚底按摩 kaf-e pā mālīdan。", "syl": "ka·f-e·pā", "stress": "1"}
-{"fa": "پاشنه", "roman": "pāšne", "cn": "脚跟", "sound": "帕什内", "note": "ā 长音。", "syl": "pā·šne", "stress": "2"}
+{"fa": "کف پا", "roman": "kaf-e pā", "cn": "脚掌", "sound": "卡费-帕", "note": "脚底按摩 kaf-e pā mālīdan。", "syl": "kaf·e·pā", "stress": "3"}
+{"fa": "پاشنه", "roman": "pāshne", "cn": "脚跟", "sound": "帕什内", "note": "ā 长音。", "syl": "pā·shne", "stress": "2"}
 {"fa": "پنجه", "roman": "panje", "cn": "脚趾；爪子", "sound": "潘杰", "note": "脚趾常说 angosht-e pā。", "syl": "pa·nje", "stress": "2"}
-{"fa": "پوست", "roman": "pūst", "cn": "皮肤", "sound": "普斯特", "note": "ū 长音；皮肤干 pūstam ḵošk-e。", "syl": "pūst", "stress": "1"}
-{"fa": "استخوان", "roman": "ostokhān", "cn": "骨头", "sound": "奥斯特汗", "note": "ā 长音；骨折 šekastagī-ye ostokhān。", "syl": "o·sto·khān", "stress": "3"}
-{"fa": "ماهیچه", "roman": "māhīče", "cn": "肌肉", "sound": "马希切", "note": "ā、ī 长音；肌肉酸痛 māhīče dard kardan。", "syl": "mā·hī·če", "stress": "3"}
+{"fa": "پوست", "roman": "pūst", "cn": "皮肤", "sound": "普斯特", "note": "ū 长音；皮肤干 pūstam hoshk-e。", "syl": "pūst", "stress": "1"}
+{"fa": "استخوان", "roman": "ostokhān", "cn": "骨头", "sound": "奥斯特汗", "note": "ā 长音；骨折 shekastagī-ye ostokhān。", "syl": "o·sto·khān", "stress": "3"}
+{"fa": "ماهیچه", "roman": "māhīche", "cn": "肌肉", "sound": "马希切", "note": "ā、ī 长音；肌肉酸痛 māhīche dard kardan。", "syl": "mā·hī·che", "stress": "3"}
 {"fa": "رگ", "roman": "rag", "cn": "血管；静脉", "sound": "拉格", "note": "血管 rag；静脉注射 dar rag zadan。", "syl": "rag", "stress": "1"}
-{"fa": "خون", "roman": "ḵūn", "cn": "血", "sound": "洪", "note": "ū 长音；验血 āzmāyeš-e ḵūn。", "syl": "ḵūn", "stress": "1"}
+{"fa": "خون", "roman": "hūn", "cn": "血", "sound": "洪", "note": "ū 长音；验血 āzmāyesh-e hūn。", "syl": "hūn", "stress": "1"}
 {"fa": "عصب", "roman": "asab", "cn": "神经", "sound": "阿萨卜", "note": "神经痛 dard-e asab；asabī 神经质的。", "syl": "a·sab", "stress": "2"}
-{"fa": "مغز", "roman": "maḡz", "cn": "大脑", "sound": "马赫兹", "note": "ḡ 喉音；动脑 maḡz kār kardan。", "syl": "maḡz", "stress": "1"}
-{"fa": "حلق", "roman": "halq", "cn": "咽喉（正式）", "sound": "哈勒格", "note": "q 喉音；日常用 galu。", "syl": "halq", "stress": "1"}
+{"fa": "مغز", "roman": "magz", "cn": "大脑", "sound": "马赫兹", "note": "g 喉音；动脑 magz kār kardan。", "syl": "magz", "stress": "1"}
+{"fa": "حلق", "roman": "halk", "cn": "咽喉（正式）", "sound": "哈勒格", "note": "k 喉音；日常用 galu。", "syl": "halk", "stress": "1"}
 {"fa": "گلو", "roman": "galu", "cn": "嗓子（口语）", "sound": "加卢", "note": "喉咙疼 galuyam dard mīkone。", "syl": "ga·lu", "stress": "2"}
 {"fa": "دکتر", "roman": "doktor", "cn": "医生", "sound": "多克托尔", "note": "看医生 doktor raftan；牙医 doktor-e dandān。", "syl": "do·ktor", "stress": "2"}
-{"fa": "پزشک", "roman": "pezešk", "cn": "医生（正式）", "sound": "佩泽什克", "note": "去看医生 be pezešk morāje'e kardan。", "syl": "pe·zešk", "stress": "2"}
+{"fa": "پزشک", "roman": "pezeshk", "cn": "医生（正式）", "sound": "佩泽什克", "note": "去看医生 be pezeshk morāje'e kardan。", "syl": "pe·zeshk", "stress": "2"}
 {"fa": "پرستار", "roman": "parastār", "cn": "护士", "sound": "帕拉斯塔尔", "note": "ā 长音；护士站 īstgāh-e parastār。", "syl": "pa·ra·stār", "stress": "3"}
 {"fa": "بیمار", "roman": "bīmār", "cn": "病人；生病的", "sound": "比马尔", "note": "ī 长音；我病了 bīmār hastam。", "syl": "bī·mār", "stress": "2"}
 {"fa": "سالم", "roman": "sālem", "cn": "健康的", "sound": "萨莱姆", "note": "ā 长音；身体健康 badan sālem。", "syl": "sā·lem", "stress": "2"}
-{"fa": "تندرست", "roman": "tondorost", "cn": "健壮的", "sound": "通多罗斯特", "note": "祝你健康 salāmat o tondorost bāšī。", "syl": "to·ndo·rost", "stress": "3"}
-{"fa": "معاینه", "roman": "mo'āyene", "cn": "检查（身体）", "sound": "莫阿耶内", "note": "医生检查 mo'āyene kardan。", "syl": "mo·'ā·ye·ne", "stress": "4"}
-{"fa": "نسخه", "roman": "nosḵe", "cn": "处方", "sound": "诺什赫", "note": "ḵ 哈气；开处方 nosḵe neveštan。", "syl": "no·sḵe", "stress": "2"}
-{"fa": "آزمایش", "roman": "āzmāyeš", "cn": "化验、试验", "sound": "阿兹马耶什", "note": "验血 āzmāyeš-e ḵūn。", "syl": "ā·zmā·yeš", "stress": "3"}
+{"fa": "تندرست", "roman": "tondorost", "cn": "健壮的", "sound": "通多罗斯特", "note": "祝你健康 salāmat o tondorost bāshī。", "syl": "to·ndo·rost", "stress": "3"}
+{"fa": "معاینه", "roman": "mo'āyene", "cn": "检查（身体）", "sound": "莫阿耶内", "note": "医生检查 mo'āyene kardan。", "syl": "mo·ā·ye·ne", "stress": "4"}
+{"fa": "نسخه", "roman": "noshe", "cn": "处方", "sound": "诺什赫", "note": "h 哈气；开处方 noshe neveshtan。", "syl": "no·she", "stress": "2"}
+{"fa": "آزمایش", "roman": "āzmāyesh", "cn": "化验、试验", "sound": "阿兹马耶什", "note": "验血 āzmāyesh-e hūn。", "syl": "ā·zmā·yesh", "stress": "3"}
 {"fa": "دما", "roman": "damā", "cn": "（体温）热度", "sound": "达马", "note": "量体温 damā gereftan。", "syl": "da·mā", "stress": "2"}
 {"fa": "تب", "roman": "tab", "cn": "发烧", "sound": "塔卜", "note": "发烧 tab dāram。", "syl": "tab", "stress": "1"}
 {"fa": "آنفولانزا", "roman": "ānfolānzā", "cn": "流感", "sound": "安福兰扎", "note": "ā 长音×3；得流感 ānfolānzā gereftam。", "syl": "ā·nfo·lā·nzā", "stress": "4"}
-{"fa": "سرماخوردگی", "roman": "sarmā-ḵordegī", "cn": "感冒（名词）", "sound": "萨尔马-霍尔代吉", "note": "sarmā 冷＋ḵordan 吃；着凉。", "syl": "sa·rmā·-ḵo·rde·gī", "stress": "5"}
+{"fa": "سرماخوردگی", "roman": "sarmā-hordegī", "cn": "感冒（名词）", "sound": "萨尔马-霍尔代吉", "note": "sarmā 冷＋hordan 吃；着凉。", "syl": "sa·rmā·ho·rde·gī", "stress": "5"}
 {"fa": "سرفه", "roman": "sorfe", "cn": "咳嗽", "sound": "索尔费", "note": "咳嗽 sorfe kardan。", "syl": "so·rfe", "stress": "2"}
 {"fa": "عطسه", "roman": "atse", "cn": "喷嚏", "sound": "阿特塞", "note": "打喷嚏 atse kardan。", "syl": "a·tse", "stress": "2"}
 {"fa": "حساسیت", "roman": "hassāsīyat", "cn": "过敏", "sound": "哈萨西亚特", "note": "对…过敏 be X hassāsīyat dāram。", "syl": "ha·ssā·sī·yat", "stress": "4"}
-{"fa": "چاق", "roman": "čāq", "cn": "胖的", "sound": "恰格", "note": "ā 长音；q 喉音；变胖 čāq šodan。", "syl": "čāq", "stress": "1"}
-{"fa": "لاغر", "roman": "lāḡar", "cn": "瘦的", "sound": "拉赫尔", "note": "ā 长音；ḡ 喉音。", "syl": "lā·ḡar", "stress": "2"}
-{"fa": "قوی", "roman": "qavī", "cn": "有力、强壮", "sound": "加维", "note": "q 喉音；ī 长音。", "syl": "qa·vī", "stress": "2"}
-{"fa": "ضعیف", "roman": "za'īf", "cn": "虚弱的", "sound": "扎伊夫", "note": "ī 长音；感觉虚弱 za'īf hastam。", "syl": "za·'īf", "stress": "2"}
-{"fa": "بهبود", "roman": "behbūd", "cn": "好转、康复", "sound": "贝赫布德", "note": "ū 长音；祝你早日康复 zūd behtar bešī！", "syl": "be·hbūd", "stress": "2"}
-{"fa": "دوا", "roman": "davā", "cn": "药（口语）", "sound": "达瓦", "note": "dārū 更常用；吃药 davā ḵordan。", "syl": "da·vā", "stress": "2"}
-{"fa": "قرص", "roman": "qors", "cn": "药片", "sound": "戈尔丝", "note": "q 喉音；止痛片 qors-e mosakkan。", "syl": "qors", "stress": "1"}
-{"fa": "شربت", "roman": "šarbat", "cn": "糖浆（口服液）", "sound": "沙尔巴特", "note": "止咳糖浆 šarbat-e sorfe。", "syl": "ša·rbat", "stress": "2"}
+{"fa": "چاق", "roman": "chāk", "cn": "胖的", "sound": "恰格", "note": "ā 长音；k 喉音；变胖 chāk shodan。", "syl": "chāk", "stress": "1"}
+{"fa": "لاغر", "roman": "lāgar", "cn": "瘦的", "sound": "拉赫尔", "note": "ā 长音；g 喉音。", "syl": "lā·gar", "stress": "2"}
+{"fa": "قوی", "roman": "kavī", "cn": "有力、强壮", "sound": "加维", "note": "k 喉音；ī 长音。", "syl": "ka·vī", "stress": "2"}
+{"fa": "ضعیف", "roman": "za'īf", "cn": "虚弱的", "sound": "扎伊夫", "note": "ī 长音；感觉虚弱 za'īf hastam。", "syl": "za·īf", "stress": "2"}
+{"fa": "بهبود", "roman": "behbūd", "cn": "好转、康复", "sound": "贝赫布德", "note": "ū 长音；祝你早日康复 zūd behtar beshī！", "syl": "be·hbūd", "stress": "2"}
+{"fa": "دوا", "roman": "davā", "cn": "药（口语）", "sound": "达瓦", "note": "dārū 更常用；吃药 davā hordan。", "syl": "da·vā", "stress": "2"}
+{"fa": "قرص", "roman": "kors", "cn": "药片", "sound": "戈尔丝", "note": "k 喉音；止痛片 kors-e mosakkan。", "syl": "kors", "stress": "1"}
+{"fa": "شربت", "roman": "sharbat", "cn": "糖浆（口服液）", "sound": "沙尔巴特", "note": "止咳糖浆 sharbat-e sorfe。", "syl": "sha·rbat", "stress": "2"}
 {"fa": "آمپول", "roman": "āmpol", "cn": "针剂", "sound": "安波尔", "note": "ā 长音；打针 āmpol zadan。", "syl": "ā·mpol", "stress": "2"}
 {"fa": "ویتامین", "roman": "vītāmīn", "cn": "维生素", "sound": "维塔明", "note": "外来词；ī 长音。", "syl": "vī·tā·mīn", "stress": "3"}
 {"fa": "سرم", "roman": "serom", "cn": "点滴、输液", "sound": "塞罗姆", "note": "医院输液 serom zadan。", "syl": "se·rom", "stress": "2"}
-{"fa": "عمل جراحی", "roman": "amal-e jarrāhī", "cn": "手术", "sound": "阿马莱-贾拉希", "note": "做手术 amal kardan。", "syl": "a·ma·l-e·ja·rrā·hī", "stress": "3"}
-{"fa": "بستری", "roman": "bostarī", "cn": "住院", "sound": "博斯塔里", "note": "住院 bostarī šodan。", "syl": "bo·sta·rī", "stress": "3"}
-{"fa": "ترخیص", "roman": "tarkhīs", "cn": "出院", "sound": "塔尔赫斯", "note": "ḵ 哈气；今天出院 emrūz tarkhīs šodam。", "syl": "ta·rkhīs", "stress": "2"}
-{"fa": "صندلی چرخ‌دار", "roman": "sandali-ye čarxdār", "cn": "轮椅", "sound": "桑达利-恰尔赫达尔", "note": "čarx 轮子；坐轮椅的人。", "syl": "sa·nda·li·-ye·ča·rxdār", "stress": "2"}
+{"fa": "عمل جراحی", "roman": "amal-e jarrāhī", "cn": "手术", "sound": "阿马莱-贾拉希", "note": "做手术 amal kardan。", "syl": "a·mal·e·ja·rrā·hī", "stress": "6"}
+{"fa": "بستری", "roman": "bostarī", "cn": "住院", "sound": "博斯塔里", "note": "住院 bostarī shodan。", "syl": "bo·sta·rī", "stress": "3"}
+{"fa": "ترخیص", "roman": "tarkhīs", "cn": "出院", "sound": "塔尔赫斯", "note": "h 哈气；今天出院 emrūz tarkhīs shodam。", "syl": "ta·rkhīs", "stress": "2"}
+{"fa": "صندلی چرخ‌دار", "roman": "sandali-ye charxdār", "cn": "轮椅", "sound": "桑达利-恰尔赫达尔", "note": "charx 轮子；坐轮椅的人。", "syl": "sa·nda·li·ye·cha·rxdār", "stress": "6"}
 {"fa": "عصا", "roman": "asā", "cn": "拐杖", "sound": "阿萨", "note": "ā 长音结尾。", "syl": "a·sā", "stress": "2"}
 {"fa": "باند", "roman": "bānd", "cn": "绷带", "sound": "班德", "note": "ā 长音；外来词 band。", "syl": "bānd", "stress": "1"}
-{"fa": "گچ", "roman": "gač", "cn": "石膏", "sound": "加奇", "note": "打石膏 gač gereftan。", "syl": "gač", "stress": "1"}
+{"fa": "گچ", "roman": "gach", "cn": "石膏", "sound": "加奇", "note": "打石膏 gach gereftan。", "syl": "gach", "stress": "1"}
 {"fa": "لنگ", "roman": "lang", "cn": "瘸的", "sound": "朗格", "note": "跛行 lang lang rāh raftan。", "syl": "lang", "stress": "1"}

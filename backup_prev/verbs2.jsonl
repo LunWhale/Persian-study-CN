@@ -1,0 +1,62 @@
+{"fa": "رفتم", "roman": "raftam", "cn": "我去了", "sound": "拉夫塔姆", "note": "简单过去第一人称：词干 raft＋am。", "syl": "ra·ftam", "stress": "2"}
+{"fa": "آمد", "roman": "āmad", "cn": "他/她来了", "sound": "阿马德", "note": "āmad 无尾缀即第三人称。", "syl": "ā·mad", "stress": "2"}
+{"fa": "گفتم", "roman": "goftam", "cn": "我说了", "sound": "戈夫塔姆", "note": "我告诉他 beheš goftam。", "syl": "go·ftam", "stress": "2"}
+{"fa": "دیدم", "roman": "dīdam", "cn": "我看见了", "sound": "迪达姆", "note": "ī 长音；昨天见了他 dīrūz dīdam-aš。", "syl": "dī·dam", "stress": "2"}
+{"fa": "شنیدم", "roman": "šenīdam", "cn": "我听到了", "sound": "谢尼达姆", "note": "ī 长音；我听说 šenīdam ke…", "syl": "še·nī·dam", "stress": "3"}
+{"fa": "خوردم", "roman": "ḵordam", "cn": "我吃了", "sound": "霍尔达姆", "note": "ḵ 哈气；早饭吃了 sobhāne ḵordam。", "syl": "ḵo·rdam", "stress": "2"}
+{"fa": "خریدم", "roman": "ḵarīdam", "cn": "我买了", "sound": "哈里达姆", "note": "ī 长音；在市场买了 dar bāzār ḵarīdam。", "syl": "ḵa·rī·dam", "stress": "3"}
+{"fa": "دادم", "roman": "dādam", "cn": "我给了", "sound": "达达姆", "note": "ā 长音；把钱给他 pūl rā beheš dādam。", "syl": "dā·dam", "stress": "2"}
+{"fa": "گرفتم", "roman": "gereftam", "cn": "我拿了、我坐了", "sound": "格雷夫塔姆", "note": "打车来 tāksī gereftam āmadam。", "syl": "ge·re·ftam", "stress": "3"}
+{"fa": "کردم", "roman": "kardam", "cn": "我做了", "sound": "卡尔达姆", "note": "万能过去式；做了什么 čī kardī؟", "syl": "ka·rdam", "stress": "2"}
+{"fa": "نوشتم", "roman": "neveštam", "cn": "我写了", "sound": "内韦什塔姆", "note": "写了信 nāme neveštam。", "syl": "ne·ve·štam", "stress": "3"}
+{"fa": "خواندم", "roman": "ḵāndam", "cn": "我读了", "sound": "汉达姆", "note": "ā 长音；读完了 tamām ḵāndam。", "syl": "ḵā·ndam", "stress": "2"}
+{"fa": "فهمیدم", "roman": "fahmīdam", "cn": "我明白了", "sound": "法赫米达姆", "note": "明白了！fahmīdam！重音在 ī。", "syl": "fa·hmī·dam", "stress": "3"}
+{"fa": "دانستم", "roman": "dānestam", "cn": "我（曾经）知道", "sound": "达内斯塔姆", "note": "过去知悉；日常否定用 nemīdānestam 我不知道。", "syl": "dā·ne·stam", "stress": "3"}
+{"fa": "خواستم", "roman": "ḵāstam", "cn": "我想要了/试图", "sound": "哈斯塔姆", "note": "想说但… ḵāstam begam valī…", "syl": "ḵā·stam", "stress": "2"}
+{"fa": "توانستم", "roman": "tavānestam", "cn": "我做到了/能", "sound": "塔瓦内斯塔姆", "note": "我终于做到了 āḵer tavānestam。", "syl": "ta·vā·ne·stam", "stress": "4"}
+{"fa": "شستم", "roman": "šostam", "cn": "我洗了", "sound": "肖斯塔姆", "note": "洗了手 dastam rā šostam。", "syl": "šo·stam", "stress": "2"}
+{"fa": "پوشیدم", "roman": "pūšīdam", "cn": "我穿了", "sound": "普希达姆", "note": "ū 长音；穿了外套 kot pūšīdam。", "syl": "pū·šī·dam", "stress": "3"}
+{"fa": "خوابیدم", "roman": "ḵābīdam", "cn": "我睡了", "sound": "哈比达姆", "note": "昨晚睡得好 dīšab ḵūb ḵābīdam。", "syl": "ḵā·bī·dam", "stress": "3"}
+{"fa": "دویدم", "roman": "davīdam", "cn": "我跑了", "sound": "达维达姆", "note": "赶公交 otobūs davīdam。", "syl": "da·vī·dam", "stress": "3"}
+{"fa": "نشستم", "roman": "nešastam", "cn": "我坐了", "sound": "内沙斯塔姆", "note": "坐了俩小时 do sā'at nešastam。", "syl": "ne·ša·stam", "stress": "3"}
+{"fa": "ایستادم", "roman": "īstādam", "cn": "我站了", "sound": "伊斯塔达姆", "note": "ī 长音；站了一路 sarāsar īstādam。", "syl": "ī·stā·dam", "stress": "3"}
+{"fa": "بود", "roman": "būd", "cn": "曾是（他/她）", "sound": "布德", "note": "ū 长音；在家 بود dar ḵāne būd。", "syl": "būd", "stress": "1"}
+{"fa": "بودم", "roman": "būdam", "cn": "我（那时）在", "sound": "布达姆", "note": "我在家 būdam 用于讲故事背景。", "syl": "bū·dam", "stress": "2"}
+{"fa": "شد", "roman": "šod", "cn": "成为了、发生了", "sound": "肖德", "note": "怎么了？če šod؟ 出什么事了。", "syl": "šod", "stress": "1"}
+{"fa": "شدم", "roman": "šodam", "cn": "我成了", "sound": "肖达姆", "note": "我好了/痊愈 ḵūb šodam。", "syl": "šo·dam", "stress": "2"}
+{"fa": "پخت", "roman": "poḵt", "cn": "煮了", "sound": "波赫特", "note": "ḵ 哈气；饭好了 ghazā poḵt。", "syl": "poḵt", "stress": "1"}
+{"fa": "بست", "roman": "bast", "cn": "关了（他/她）", "sound": "巴斯特", "note": "关门了 dar bast。", "syl": "bast", "stress": "1"}
+{"fa": "باز کردم", "roman": "bāz kardam", "cn": "我打开了", "sound": "巴兹-卡尔达姆", "note": "开了灯 čerāḡ rā bāz kardam。", "syl": "bāz·ka·rdam", "stress": "2"}
+{"fa": "گذاشتم", "roman": "gozāštam", "cn": "我放了", "sound": "戈扎什塔姆", "note": "放在了桌上 rū mīz gozāštam。", "syl": "go·zā·štam", "stress": "3"}
+{"fa": "بردم", "roman": "bordam", "cn": "我带走了", "sound": "博尔达姆", "note": "带他去… be … bordam-aš。", "syl": "bo·rdam", "stress": "2"}
+{"fa": "آوردم", "roman": "āvordam", "cn": "我带来了", "sound": "阿沃尔达姆", "note": "ā 长音；带了礼物 kādo āvordam。", "syl": "ā·vo·rdam", "stress": "3"}
+{"fa": "پیدا کردم", "roman": "peydā kardam", "cn": "我找到了", "sound": "佩达-卡尔达姆", "note": "找到了钥匙 kelīd rā peydā kardam。", "syl": "pe·ydā·ka·rdam", "stress": "2"}
+{"fa": "گم کردم", "roman": "gom kardam", "cn": "我弄丢了", "sound": "戈姆-卡尔达姆", "note": "丢了手机 mūbāyilam gom kardam。", "syl": "gom·ka·rdam", "stress": "2"}
+{"fa": "فراموش کردم", "roman": "farāmūš kardam", "cn": "我忘了", "sound": "法拉穆什-卡尔达姆", "note": "抱歉我忘了 bebaxšīd farāmūš kardam。", "syl": "fa·rā·mūš·ka·rdam", "stress": "2"}
+{"fa": "یادم رفت", "roman": "yādam raft", "cn": "我忘了（口语）", "sound": "亚达姆-拉夫特", "note": "字面“我的记忆走了”，更口语。", "syl": "yā·dam·raft", "stress": "1"}
+{"fa": "یادم آمد", "roman": "yādam āmad", "cn": "我想起来了", "sound": "亚达姆-阿马德", "note": "啊，想起来了 ā yādam āmad！", "syl": "yā·dam·ā·mad", "stress": "2"}
+{"fa": "دوست داشتم", "roman": "dūst dāštam", "cn": "我喜欢过", "sound": "杜斯特-达什塔姆", "note": "ū 长音；曾喜欢 dūst dāštam。", "syl": "dūst·dā·štam", "stress": "2"}
+{"fa": "رسیدم", "roman": "resīdam", "cn": "我到达了", "sound": "雷西达姆", "note": "到机场了 be forūdgāh resīdam。", "syl": "re·sī·dam", "stress": "3"}
+{"fa": "برگشتم", "roman": "bargaštam", "cn": "我回来了", "sound": "巴尔加什塔姆", "note": "回到家 be ḵūne bargaštam。", "syl": "ba·rga·štam", "stress": "3"}
+{"fa": "ماندم", "roman": "māndam", "cn": "我留下了", "sound": "曼达姆", "note": "ā 长音；留在家里 dar ḵūne māndam。", "syl": "mā·ndam", "stress": "2"}
+{"fa": "زنگ زدم", "roman": "zang zadam", "cn": "我打了电话", "sound": "藏-扎达姆", "note": "给你打了电话 behet zang zadam。", "syl": "zang·za·dam", "stress": "2"}
+{"fa": "تلفن کردم", "roman": "telefon kardam", "cn": "我打了电话（正式）", "sound": "泰莱丰-卡尔达姆", "note": "同 zang zadan，稍正式。", "syl": "te·le·fon·ka·rdam", "stress": "2"}
+{"fa": "دیدار کردم", "roman": "dīdār kardam", "cn": "我会见了", "sound": "迪达尔-卡尔达姆", "note": "dīdār 见面；会见了朋友。", "syl": "dī·dār·ka·rdam", "stress": "2"}
+{"fa": "سفر کردم", "roman": "safar kardam", "cn": "我旅行了", "sound": "萨法尔-卡尔达姆", "note": "去了伊朗 safar-e Īrān kardam。", "syl": "sa·far·ka·rdam", "stress": "2"}
+{"fa": "قبول کردم", "roman": "qabūl kardam", "cn": "我接受了", "sound": "加布尔-卡尔达姆", "note": "q 喉音；ū 长音。", "syl": "qa·būl·ka·rdam", "stress": "2"}
+{"fa": "اشتباه کردم", "roman": "eštebāh kardam", "cn": "我犯错了", "sound": "埃什泰巴赫-卡尔达姆", "note": "对不起，我错了。", "syl": "e·šte·bāh·ka·rdam", "stress": "2"}
+{"fa": "تمام کردم", "roman": "tamām kardam", "cn": "我做完了", "sound": "塔马姆-卡尔达姆", "note": "作业做完了 mashq tamām kardam。", "syl": "ta·mām·ka·rdam", "stress": "2"}
+{"fa": "تمیز کردم", "roman": "tamīz kardam", "cn": "我打扫了", "sound": "塔米兹-卡尔达姆", "note": "打扫了房间 otāq tamīz kardam。", "syl": "ta·mīz·ka·rdam", "stress": "2"}
+{"fa": "کمک کردم", "roman": "komak kardam", "cn": "我帮了", "sound": "科马克-卡尔达姆", "note": "帮了他 beheš komak kardam。", "syl": "ko·mak·ka·rdam", "stress": "2"}
+{"fa": "کمکم کرد", "roman": "komakam kard", "cn": "他帮了我", "sound": "科马卡姆-卡尔德", "note": "词序：宾语后缀接动词前。", "syl": "ko·ma·kam·kard", "stress": "1"}
+{"fa": "بیدار شدم", "roman": "bīdār šodam", "cn": "我醒了", "sound": "比达尔-肖达姆", "note": "ī 长音；早上七点醒了 saat-e haft bīdār šodam。", "syl": "bī·dār·šo·dam", "stress": "2"}
+{"fa": "بیدارم کرد", "roman": "bīdāram kard", "cn": "他叫醒了我", "sound": "比达拉姆-卡尔德", "note": "bīdār＋am＋kard 结构。", "syl": "bī·dā·ram·kard", "stress": "1"}
+{"fa": "به دنیا آمدم", "roman": "be donyā āmadam", "cn": "我出生了", "sound": "贝-东亚-阿马达姆", "note": "字面“来到世界”；我出生于… 1990。", "syl": "be·do·nyā·ā·ma·dam", "stress": "3"}
+{"fa": "بزرگ شدم", "roman": "bozorg šodam", "cn": "我长大了", "sound": "博佐尔格-肖达姆", "note": "在德黑兰长大 dar Tehrān bozorg šodam。", "syl": "bo·zorg·šo·dam", "stress": "2"}
+{"fa": "دیر رسیدم", "roman": "dīr resīdam", "cn": "我迟到了", "sound": "迪尔-雷西达姆", "note": "dīr 晚；抱歉迟到 bebaxšīd dīr resīdam。", "syl": "dīr·re·sī·dam", "stress": "3"}
+{"fa": "سر وقت رسیدم", "roman": "sar-e vaqt resīdam", "cn": "我准时到了", "sound": "萨雷-瓦格特-雷西达姆", "note": "sar-e vaqt 按时。", "syl": "sa·r-e·vaqt·re·sī·dam", "stress": "3"}
+{"fa": "دیر کردم", "roman": "dīr kardam", "cn": "我耽误了", "sound": "迪尔-卡尔达姆", "note": "让您久等（道歉用）。", "syl": "dīr·ka·rdam", "stress": "2"}
+{"fa": "عذر خواستم", "roman": "ozr ḵāstam", "cn": "我道歉了", "sound": "奥兹尔-哈斯塔姆", "note": "正式道歉 ozr ḵāstan。", "syl": "ozr·ḵā·stam", "stress": "2"}
+{"fa": "ازدواج کردم", "roman": "ezdevāj kardam", "cn": "我结婚了", "sound": "埃兹德瓦吉-卡尔达姆", "note": "已婚 ezdevāj kardam hastam 我结过婚。", "syl": "e·zde·vāj·ka·rdam", "stress": "2"}
+{"fa": "طلاق گرفتم", "roman": "talāq gereftam", "cn": "我离婚了", "sound": "塔拉克-格雷夫塔姆", "note": "q 喉音；talāq 离婚。", "syl": "ta·lāq·ge·re·ftam", "stress": "3"}
+{"fa": "تولد شدم", "roman": "tavallod šodam", "cn": "我出生了（口语）", "sound": "塔瓦洛德-肖达姆", "note": "常说 tavallod šodam 的动词用 شد。", "syl": "ta·va·llod·šo·dam", "stress": "2"}

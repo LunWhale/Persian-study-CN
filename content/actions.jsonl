@@ -6,88 +6,88 @@
 {"fa": "می‌گویم", "roman": "mīgūyam", "cn": "我说", "sound": "米古亚姆", "note": "ū 长音；正式变位，口语 mīgam。", "syl": "mī·gū·yam", "stress": "3"}
 {"fa": "دیدن", "roman": "dīdan", "cn": "看、见", "sound": "迪丹", "note": "ī 长音；我看见 mībīnam。", "syl": "dī·dan", "stress": "2"}
 {"fa": "می‌بینم", "roman": "mībīnam", "cn": "我看见", "sound": "米比纳姆", "note": "ī 长音；mībīnī؟ 你看到了吗。", "syl": "mī·bī·nam", "stress": "3"}
-{"fa": "شنیدن", "roman": "šenīdan", "cn": "听", "sound": "谢尼丹", "note": "ī 长音；我听 mīšenavam。", "syl": "še·nī·dan", "stress": "3"}
-{"fa": "می‌شنوم", "roman": "mīšenavam", "cn": "我听见", "sound": "米谢纳瓦姆", "note": "我听不懂 nemīšenavam（口语）。", "syl": "mī·še·na·vam", "stress": "4"}
-{"fa": "خوردن", "roman": "ḵordan", "cn": "吃", "sound": "霍尔丹", "note": "ḵ 哈气；我吃 mīḵoram。", "syl": "ḵo·rdan", "stress": "2"}
-{"fa": "می‌خورم", "roman": "mīḵoram", "cn": "我吃", "sound": "米霍拉姆", "note": "早餐吃什么？sobḥāne čī mīḵorī؟", "syl": "mī·ḵo·ram", "stress": "3"}
-{"fa": "نوشیدن", "roman": "nūšīdan", "cn": "喝", "sound": "努希丹", "note": "ū 长音；喝茶 čāy mīḵoram（喝也用خور）。", "syl": "nū·šī·dan", "stress": "3"}
-{"fa": "می‌نوشم", "roman": "mīnūšam", "cn": "我喝", "sound": "米努沙姆", "note": "较为书面；口语多 mīḵoram。", "syl": "mī·nū·šam", "stress": "3"}
-{"fa": "نوشتن", "roman": "neveštan", "cn": "写", "sound": "内韦什坦", "note": "我写 mīnevīsam；写名字 esmam mīnevīsam。", "syl": "ne·ve·štan", "stress": "3"}
+{"fa": "شنیدن", "roman": "shenīdan", "cn": "听", "sound": "谢尼丹", "note": "ī 长音；我听 mīshenavam。", "syl": "she·nī·dan", "stress": "3"}
+{"fa": "می‌شنوم", "roman": "mīshenavam", "cn": "我听见", "sound": "米谢纳瓦姆", "note": "我听不懂 nemīshenavam（口语）。", "syl": "mī·she·na·vam", "stress": "4"}
+{"fa": "خوردن", "roman": "hordan", "cn": "吃", "sound": "霍尔丹", "note": "h 哈气；我吃 mīhoram。", "syl": "ho·rdan", "stress": "2"}
+{"fa": "می‌خورم", "roman": "mīhoram", "cn": "我吃", "sound": "米霍拉姆", "note": "早餐吃什么？sobḥāne chī mīhorī؟", "syl": "mī·ho·ram", "stress": "3"}
+{"fa": "نوشیدن", "roman": "nūshīdan", "cn": "喝", "sound": "努希丹", "note": "ū 长音；喝茶 chāy mīhoram（喝也用خور）。", "syl": "nū·shī·dan", "stress": "3"}
+{"fa": "می‌نوشم", "roman": "mīnūsham", "cn": "我喝", "sound": "米努沙姆", "note": "较为书面；口语多 mīhoram。", "syl": "mī·nū·sham", "stress": "3"}
+{"fa": "نوشتن", "roman": "neveshtan", "cn": "写", "sound": "内韦什坦", "note": "我写 mīnevīsam；写名字 esmam mīnevīsam。", "syl": "ne·ve·shtan", "stress": "3"}
 {"fa": "می‌نویسم", "roman": "mīnevīsam", "cn": "我写", "sound": "米内维萨姆", "note": "请写下 lotfan benevīsīd。", "syl": "mī·ne·vī·sam", "stress": "4"}
-{"fa": "خواندن", "roman": "ḵāndan", "cn": "读、唱", "sound": "汉丹", "note": "ḵā 哈气长音；我读 mīḵānam。", "syl": "ḵā·ndan", "stress": "2"}
-{"fa": "می‌خوانم", "roman": "mīḵānam", "cn": "我读", "sound": "米哈纳姆", "note": "也表“我唱”；书 ketāb mīḵānam。", "syl": "mī·ḵā·nam", "stress": "3"}
-{"fa": "خریدن", "roman": "ḵarīdan", "cn": "买", "sound": "哈里丹", "note": "ī 长音；我买 mīḵaram。", "syl": "ḵa·rī·dan", "stress": "3"}
-{"fa": "می‌خرم", "roman": "mīḵaram", "cn": "我买", "sound": "米哈拉姆", "note": "这个我买了 īno mīḵaram。", "syl": "mī·ḵa·ram", "stress": "3"}
+{"fa": "خواندن", "roman": "hāndan", "cn": "读、唱", "sound": "汉丹", "note": "hā 哈气长音；我读 mīhānam。", "syl": "hā·ndan", "stress": "2"}
+{"fa": "می‌خوانم", "roman": "mīhānam", "cn": "我读", "sound": "米哈纳姆", "note": "也表“我唱”；书 ketāb mīhānam。", "syl": "mī·hā·nam", "stress": "3"}
+{"fa": "خریدن", "roman": "harīdan", "cn": "买", "sound": "哈里丹", "note": "ī 长音；我买 mīharam。", "syl": "ha·rī·dan", "stress": "3"}
+{"fa": "می‌خرم", "roman": "mīharam", "cn": "我买", "sound": "米哈拉姆", "note": "这个我买了 īno mīharam。", "syl": "mī·ha·ram", "stress": "3"}
 {"fa": "دادن", "roman": "dādan", "cn": "给", "sound": "达丹", "note": "ā 长音；我给他 mīdaham。", "syl": "dā·dan", "stress": "2"}
 {"fa": "می‌دهم", "roman": "mīdaham", "cn": "我给", "sound": "米达哈姆", "note": "把钱给我 pūl rā be man bedeh。", "syl": "mī·da·ham", "stress": "3"}
 {"fa": "گرفتن", "roman": "gereftan", "cn": "拿、取、买", "sound": "格雷夫坦", "note": "我拿 mīgiram；打车 tāksī gereftan。", "syl": "ge·re·ftan", "stress": "3"}
 {"fa": "می‌گیرم", "roman": "mīgiram", "cn": "我拿", "sound": "米吉拉姆", "note": "我买单（我来付）man mīgiram。", "syl": "mī·gi·ram", "stress": "3"}
 {"fa": "کردن", "roman": "kardan", "cn": "做", "sound": "卡尔丹", "note": "万能动词；کار کردن 工作。", "syl": "ka·rdan", "stress": "2"}
-{"fa": "می‌کنم", "roman": "mīkonam", "cn": "我做", "sound": "米科纳姆", "note": "做什么 čī kār mīkonī？你做什么工作。", "syl": "mī·ko·nam", "stress": "3"}
+{"fa": "می‌کنم", "roman": "mīkonam", "cn": "我做", "sound": "米科纳姆", "note": "做什么 chī kār mīkonī？你做什么工作。", "syl": "mī·ko·nam", "stress": "3"}
 {"fa": "گفت و گو", "roman": "goftegū", "cn": "交谈、对话", "sound": "戈夫特古", "note": "ū 长音；聊天 gap zadan（口语）。", "syl": "go·fte·gū", "stress": "3"}
-{"fa": "صحبت کردن", "roman": "sohbat kardan", "cn": "说话、交谈", "sound": "索赫巴特-卡尔丹", "note": "和…说话 bā … sohbat kardan。", "syl": "so·hbat·ka·rdan", "stress": "2"}
-{"fa": "حرف زدن", "roman": "harf zadan", "cn": "说话（口语）", "sound": "哈尔夫-扎丹", "note": "harf 话语；说得快 harf mīzanam。", "syl": "harf·za·dan", "stress": "2"}
-{"fa": "فکر کردن", "roman": "fekr kardan", "cn": "想、思考", "sound": "费克尔-卡尔丹", "note": "让我想想 fekr konam bīnam。", "syl": "fekr·ka·rdan", "stress": "2"}
+{"fa": "صحبت کردن", "roman": "sohbat kardan", "cn": "说话、交谈", "sound": "索赫巴特-卡尔丹", "note": "和…说话 bā … sohbat kardan。", "syl": "so·hbat·ka·rdan", "stress": "4"}
+{"fa": "حرف زدن", "roman": "harf zadan", "cn": "说话（口语）", "sound": "哈尔夫-扎丹", "note": "harf 话语；说得快 harf mīzanam。", "syl": "harf·za·dan", "stress": "3"}
+{"fa": "فکر کردن", "roman": "fekr kardan", "cn": "想、思考", "sound": "费克尔-卡尔丹", "note": "让我想想 fekr konam bīnam。", "syl": "fekr·ka·rdan", "stress": "3"}
 {"fa": "فهمیدن", "roman": "fahmīdan", "cn": "明白", "sound": "法赫米丹", "note": "我懂 fahmīdam（过去）。懂了？fahmīdī؟", "syl": "fa·hmī·dan", "stress": "3"}
 {"fa": "می‌فهمم", "roman": "mīfahmam", "cn": "我明白", "sound": "米法赫马姆", "note": "不懂 nemīfahmam 我不明白。", "syl": "mī·fa·hmam", "stress": "3"}
 {"fa": "دانستن", "roman": "dānestan", "cn": "知道", "sound": "达内斯坦", "note": "我不知道 nemīdānam。", "syl": "dā·ne·stan", "stress": "3"}
 {"fa": "می‌دانم", "roman": "mīdānam", "cn": "我知道", "sound": "米达纳姆", "note": "ā 长音；我知道 mīdānam 重音在 dā。", "syl": "mī·dā·nam", "stress": "3"}
-{"fa": "خواستن", "roman": "ḵāstan", "cn": "想要", "sound": "哈斯坦", "note": "ḵ 哈气；我想要 mīḵām（口语 mīḵām）。", "syl": "ḵā·stan", "stress": "2"}
-{"fa": "می‌خواهم", "roman": "mīḵāham", "cn": "我想要", "sound": "米哈哈姆", "note": "礼貌：mīḵām beḵaram 我想买。", "syl": "mī·ḵā·ham", "stress": "3"}
+{"fa": "خواستن", "roman": "hāstan", "cn": "想要", "sound": "哈斯坦", "note": "h 哈气；我想要 mīhām（口语 mīhām）。", "syl": "hā·stan", "stress": "2"}
+{"fa": "می‌خواهم", "roman": "mīhāham", "cn": "我想要", "sound": "米哈哈姆", "note": "礼貌：mīhām beharam 我想买。", "syl": "mī·hā·ham", "stress": "3"}
 {"fa": "توانستن", "roman": "tavānestan", "cn": "能、可以", "sound": "塔瓦内斯坦", "note": "我能 mītavānam（口语 mītūnam）。", "syl": "ta·vā·ne·stan", "stress": "4"}
 {"fa": "می‌توانم", "roman": "mītavānam", "cn": "我能", "sound": "米塔瓦纳姆", "note": "口语 mītūnam。我可以帮你 mītūnam komak konam。", "syl": "mī·ta·vā·nam", "stress": "4"}
 {"fa": "باید", "roman": "bāyad", "cn": "必须、应该", "sound": "巴亚德", "note": "不变位的情态词：باید برم 我得走了。", "syl": "bā·yad", "stress": "2"}
-{"fa": "شاید", "roman": "šāyad", "cn": "也许", "sound": "沙亚德", "note": "ā 长音；也许明天 šāyad fardā。", "syl": "šā·yad", "stress": "2"}
-{"fa": "بازی کردن", "roman": "bāzī kardan", "cn": "玩", "sound": "巴齐-卡尔丹", "note": "ī 长音；和孩子们玩 bāzī mīkonam。", "syl": "bā·zī·ka·rdan", "stress": "2"}
-{"fa": "کار کردن", "roman": "kār kardan", "cn": "工作", "sound": "卡尔-卡尔丹", "note": "我在…工作 man dar … kār mīkonam。", "syl": "kār·ka·rdan", "stress": "2"}
-{"fa": "درس خواندن", "roman": "dars ḵāndan", "cn": "学习", "sound": "达尔斯-汉丹", "note": "dars 课业；我学波斯语 fārsī mīḵānam。", "syl": "dars·ḵā·ndan", "stress": "2"}
-{"fa": "یاد گرفتن", "roman": "yād gereftan", "cn": "学会", "sound": "亚德-格雷夫坦", "note": "yād 记忆；学车 yād mīgiram。", "syl": "yād·ge·re·ftan", "stress": "3"}
-{"fa": "نگاه کردن", "roman": "negāh kardan", "cn": "看、瞧", "sound": "内加赫-卡尔丹", "note": "看这个 be īn negāh kon。", "syl": "ne·gāh·ka·rdan", "stress": "2"}
-{"fa": "گوش دادن", "roman": "gūš dādan", "cn": "听", "sound": "古什-达丹", "note": "ū 长音；听音乐 be mūsīqī gūš dādan。", "syl": "gūš·dā·dan", "stress": "2"}
+{"fa": "شاید", "roman": "shāyad", "cn": "也许", "sound": "沙亚德", "note": "ā 长音；也许明天 shāyad fardā。", "syl": "shā·yad", "stress": "2"}
+{"fa": "بازی کردن", "roman": "bāzī kardan", "cn": "玩", "sound": "巴齐-卡尔丹", "note": "ī 长音；和孩子们玩 bāzī mīkonam。", "syl": "bā·zī·ka·rdan", "stress": "4"}
+{"fa": "کار کردن", "roman": "kār kardan", "cn": "工作", "sound": "卡尔-卡尔丹", "note": "我在…工作 man dar … kār mīkonam。", "syl": "kār·ka·rdan", "stress": "3"}
+{"fa": "درس خواندن", "roman": "dars hāndan", "cn": "学习", "sound": "达尔斯-汉丹", "note": "dars 课业；我学波斯语 fārsī mīhānam。", "syl": "dars·hā·ndan", "stress": "3"}
+{"fa": "یاد گرفتن", "roman": "yād gereftan", "cn": "学会", "sound": "亚德-格雷夫坦", "note": "yād 记忆；学车 yād mīgiram。", "syl": "yād·ge·re·ftan", "stress": "4"}
+{"fa": "نگاه کردن", "roman": "negāh kardan", "cn": "看、瞧", "sound": "内加赫-卡尔丹", "note": "看这个 be īn negāh kon。", "syl": "ne·gāh·ka·rdan", "stress": "4"}
+{"fa": "گوش دادن", "roman": "gūsh dādan", "cn": "听", "sound": "古什-达丹", "note": "ū 长音；听音乐 be mūsīkī gūsh dādan。", "syl": "gūsh·dā·dan", "stress": "3"}
 {"fa": "پرسیدن", "roman": "porsīdan", "cn": "问", "sound": "波尔西丹", "note": "我可以问吗？mītūnam beporsam؟", "syl": "po·rsī·dan", "stress": "3"}
-{"fa": "جواب دادن", "roman": "javāb dādan", "cn": "回答", "sound": "贾瓦卜-达丹", "note": "回答我 javābam rā bedeh。", "syl": "ja·vāb·dā·dan", "stress": "2"}
-{"fa": "کمک کردن", "roman": "komak kardan", "cn": "帮忙", "sound": "科马克-卡尔丹", "note": "帮我 komakam kon 口语常说。", "syl": "ko·mak·ka·rdan", "stress": "2"}
-{"fa": "انتظار کشیدن", "roman": "entezār kešīdan", "cn": "等待", "sound": "恩泰扎尔-凯希丹", "note": "等我一下 yek daf'e entezār bekeš。", "syl": "e·nte·zār·ke·šī·dan", "stress": "3"}
-{"fa": "منتظر بودن", "roman": "montazer būdan", "cn": "等着、期待", "sound": "蒙塔泽尔-布丹", "note": "在等你 montazerat hastam 我在等你。", "syl": "mo·nta·zer·bū·dan", "stress": "2"}
-{"fa": "پیدا کردن", "roman": "peydā kardan", "cn": "找到", "sound": "佩达-卡尔丹", "note": "找到钥匙 kelīd rā peydā kardam。", "syl": "pe·ydā·ka·rdan", "stress": "2"}
-{"fa": "گم کردن", "roman": "gom kardan", "cn": "弄丢", "sound": "戈姆-卡尔丹", "note": "我丢了钥匙 kelīdam gom šode。", "syl": "gom·ka·rdan", "stress": "2"}
-{"fa": "باز کردن", "roman": "bāz kardan", "cn": "打开", "sound": "巴兹-卡尔丹", "note": "开门 dar rā bāz kon。", "syl": "bāz·ka·rdan", "stress": "2"}
+{"fa": "جواب دادن", "roman": "javāb dādan", "cn": "回答", "sound": "贾瓦卜-达丹", "note": "回答我 javābam rā bedeh。", "syl": "ja·vāb·dā·dan", "stress": "4"}
+{"fa": "کمک کردن", "roman": "komak kardan", "cn": "帮忙", "sound": "科马克-卡尔丹", "note": "帮我 komakam kon 口语常说。", "syl": "ko·mak·ka·rdan", "stress": "4"}
+{"fa": "انتظار کشیدن", "roman": "entezār keshīdan", "cn": "等待", "sound": "恩泰扎尔-凯希丹", "note": "等我一下 yek daf'e entezār bekesh。", "syl": "e·nte·zār·ke·shī·dan", "stress": "6"}
+{"fa": "منتظر بودن", "roman": "montazer būdan", "cn": "等着、期待", "sound": "蒙塔泽尔-布丹", "note": "在等你 montazerat hastam 我在等你。", "syl": "mo·nta·zer·bū·dan", "stress": "5"}
+{"fa": "پیدا کردن", "roman": "peydā kardan", "cn": "找到", "sound": "佩达-卡尔丹", "note": "找到钥匙 kelīd rā peydā kardam。", "syl": "pe·ydā·ka·rdan", "stress": "4"}
+{"fa": "گم کردن", "roman": "gom kardan", "cn": "弄丢", "sound": "戈姆-卡尔丹", "note": "我丢了钥匙 kelīdam gom shode。", "syl": "gom·ka·rdan", "stress": "3"}
+{"fa": "باز کردن", "roman": "bāz kardan", "cn": "打开", "sound": "巴兹-卡尔丹", "note": "开门 dar rā bāz kon。", "syl": "bāz·ka·rdan", "stress": "3"}
 {"fa": "بستن", "roman": "bastan", "cn": "关、系", "sound": "巴斯坦", "note": "关门 dar rā bebastān 标准；口语 bastan。", "syl": "ba·stan", "stress": "2"}
-{"fa": "شروع کردن", "roman": "šorū' kardan", "cn": "开始", "sound": "绍鲁-卡尔丹", "note": "ū 长音；开始吧 šorū' konīm。", "syl": "šo·rū'·ka·rdan", "stress": "2"}
-{"fa": "تمام کردن", "roman": "tamām kardan", "cn": "结束、完成", "sound": "塔马姆-卡尔丹", "note": "做完了 tamām kardam。", "syl": "ta·mām·ka·rdan", "stress": "2"}
-{"fa": "تمام شدن", "roman": "tamām šodan", "cn": "（用）完了、结束", "sound": "塔马姆-肖丹", "note": "水没了 āb tamām šode。", "syl": "ta·mām·šo·dan", "stress": "2"}
+{"fa": "شروع کردن", "roman": "shorū' kardan", "cn": "开始", "sound": "绍鲁-卡尔丹", "note": "ū 长音；开始吧 shorū' konīm。", "syl": "sho·rū·ka·rdan", "stress": "4"}
+{"fa": "تمام کردن", "roman": "tamām kardan", "cn": "结束、完成", "sound": "塔马姆-卡尔丹", "note": "做完了 tamām kardam。", "syl": "ta·mām·ka·rdan", "stress": "4"}
+{"fa": "تمام شدن", "roman": "tamām shodan", "cn": "（用）完了、结束", "sound": "塔马姆-肖丹", "note": "水没了 āb tamām shode。", "syl": "ta·mām·sho·dan", "stress": "4"}
 {"fa": "بردن", "roman": "bordan", "cn": "带走、赢", "sound": "博尔丹", "note": "把…带走；我们队赢了 mā bordīm。", "syl": "bo·rdan", "stress": "2"}
 {"fa": "آوردن", "roman": "āvordan", "cn": "拿来", "sound": "阿沃尔丹", "note": "ā 长音；给我拿水 āb barāyam bīyār。", "syl": "ā·vo·rdan", "stress": "3"}
-{"fa": "گذاشتن", "roman": "gozāštan", "cn": "放置", "sound": "戈扎什坦", "note": "放在桌上 rū-ye mīz gozāštam。", "syl": "go·zā·štan", "stress": "3"}
-{"fa": "برداشتن", "roman": "bardāštan", "cn": "拿起、接（电话）", "sound": "巴尔达什坦", "note": "接电话 telefon rā bardāštan。", "syl": "ba·rdā·štan", "stress": "3"}
-{"fa": "انداختن", "roman": "andāḵtan", "cn": "扔、投", "sound": "安达赫坦", "note": "扔垃圾 zobāle andāḵtan。", "syl": "a·ndā·ḵtan", "stress": "3"}
+{"fa": "گذاشتن", "roman": "gozāshtan", "cn": "放置", "sound": "戈扎什坦", "note": "放在桌上 rū-ye mīz gozāshtam。", "syl": "go·zā·shtan", "stress": "3"}
+{"fa": "برداشتن", "roman": "bardāshtan", "cn": "拿起、接（电话）", "sound": "巴尔达什坦", "note": "接电话 telefon rā bardāshtan。", "syl": "ba·rdā·shtan", "stress": "3"}
+{"fa": "انداختن", "roman": "andāhtan", "cn": "扔、投", "sound": "安达赫坦", "note": "扔垃圾 zobāle andāhtan。", "syl": "a·ndā·htan", "stress": "3"}
 {"fa": "زدن", "roman": "zadan", "cn": "打、敲、拍", "sound": "扎丹", "note": "万能动词；打电话/敲门都用它。", "syl": "za·dan", "stress": "2"}
-{"fa": "راه رفتن", "roman": "rāh raftan", "cn": "走路", "sound": "拉赫-拉夫坦", "note": "步行去 be pīyāde raftan。", "syl": "rāh·ra·ftan", "stress": "2"}
+{"fa": "راه رفتن", "roman": "rāh raftan", "cn": "走路", "sound": "拉赫-拉夫坦", "note": "步行去 be pīyāde raftan。", "syl": "rāh·ra·ftan", "stress": "3"}
 {"fa": "دویدن", "roman": "davīdan", "cn": "跑", "sound": "达维丹", "note": "我跑 mīdavam；跑步 sport-e davīdan。", "syl": "da·vī·dan", "stress": "3"}
 {"fa": "پریدن", "roman": "parīdan", "cn": "跳、飞", "sound": "帕里丹", "note": "鸟飞 parande parīd。", "syl": "pa·rī·dan", "stress": "3"}
-{"fa": "نشستن", "roman": "nešastan", "cn": "坐", "sound": "内沙斯坦", "note": "请坐 boro benešīn（口语）。", "syl": "ne·ša·stan", "stress": "3"}
+{"fa": "نشستن", "roman": "neshastan", "cn": "坐", "sound": "内沙斯坦", "note": "请坐 boro beneshīn（口语）。", "syl": "ne·sha·stan", "stress": "3"}
 {"fa": "ایستادن", "roman": "īstādan", "cn": "站、停", "sound": "伊斯塔丹", "note": "ī 长音；公共汽车站 īstgāh。", "syl": "ī·stā·dan", "stress": "3"}
-{"fa": "خوابیدن", "roman": "ḵābīdan", "cn": "睡", "sound": "哈比丹", "note": "ā 长音；我睡了 ḵābīdam。", "syl": "ḵā·bī·dan", "stress": "3"}
-{"fa": "بیدار شدن", "roman": "bīdār šodan", "cn": "醒来", "sound": "比达尔-肖丹", "note": "ī 长音；几点醒？saat-e čand bīdār šodī؟", "syl": "bī·dār·šo·dan", "stress": "2"}
-{"fa": "بیدار کردن", "roman": "bīdār kardan", "cn": "叫醒", "sound": "比达尔-卡尔丹", "note": "明早叫我 fardā sobh bīdāram kon。", "syl": "bī·dār·ka·rdan", "stress": "2"}
-{"fa": "شستن", "roman": "šostan", "cn": "洗", "sound": "肖斯坦", "note": "洗手 dast šostan；洗衣服 lebās šostan。", "syl": "šo·stan", "stress": "2"}
-{"fa": "پوشیدن", "roman": "pūšīdan", "cn": "穿", "sound": "普希丹", "note": "ū 长音；我穿衣服 lebās mīpūšam。", "syl": "pū·šī·dan", "stress": "3"}
-{"fa": "در آوردن", "roman": "dar āvordan", "cn": "脱（衣）", "sound": "达拉沃尔丹", "note": "脱鞋 kafšhā rā dar āvordan。", "syl": "dar·ā·vo·rdan", "stress": "3"}
-{"fa": "پختن", "roman": "poḵtan", "cn": "煮、烧（菜）", "sound": "波赫坦", "note": "ḵ 哈气；做饭 ghazā poḵtan。", "syl": "po·ḵtan", "stress": "2"}
-{"fa": "سرخ کردن", "roman": "sorḵ kardan", "cn": "煎、炸", "sound": "索尔赫-卡尔丹", "note": "sorḵ 红；油炸 sorḵ kardan。", "syl": "sorḵ·ka·rdan", "stress": "2"}
-{"fa": "جارو کردن", "roman": "jārū kardan", "cn": "扫地", "sound": "贾鲁-卡尔丹", "note": "ū 长音；打扫房间 otāq rā jārū kardam。", "syl": "jā·rū·ka·rdan", "stress": "2"}
-{"fa": "مرتب کردن", "roman": "morattab kardan", "cn": "整理、收拾", "sound": "莫拉塔卜-卡尔丹", "note": "双 t；收拾房间 otāq morattab kardan。", "syl": "mo·ra·ttab·ka·rdan", "stress": "2"}
-{"fa": "رفتن به سفر", "roman": "raftan be safar", "cn": "去旅行", "sound": "拉夫坦-贝-萨法尔", "note": "safar 旅行；我去旅行 mīram safar。", "syl": "ra·ftan·be·sa·far", "stress": "2"}
-{"fa": "خرید کردن", "roman": "ḵarīd kardan", "cn": "购物", "sound": "哈里德-卡尔丹", "note": "ī 长音；去购物 raftan ḵarīd。", "syl": "ḵa·rīd·ka·rdan", "stress": "2"}
-{"fa": "قبول کردن", "roman": "qabūl kardan", "cn": "接受、同意", "sound": "加布尔-卡尔丹", "note": "q 喉音；ū 长音。", "syl": "qa·būl·ka·rdan", "stress": "2"}
-{"fa": "رد کردن", "roman": "rad kardan", "cn": "拒绝、驳回", "sound": "拉德-卡尔丹", "note": "反义 qabūl；口语也指“取消”。", "syl": "rad·ka·rdan", "stress": "2"}
-{"fa": "اشتباه کردن", "roman": "eštebāh kardan", "cn": "犯错", "sound": "埃什泰巴赫-卡尔丹", "note": "抱歉我错了 bebaxšīd eštebāh kardam。", "syl": "e·šte·bāh·ka·rdan", "stress": "2"}
-{"fa": "فراموش کردن", "roman": "farāmūš kardan", "cn": "忘记", "sound": "法拉穆什-卡尔丹", "note": "ā、ū 长音；我忘了 farāmūš kardam。", "syl": "fa·rā·mūš·ka·rdan", "stress": "2"}
-{"fa": "یاد آوردن", "roman": "yād āvordan", "cn": "想起", "sound": "亚德-阿沃尔丹", "note": "我想起来了 yādam āmad。", "syl": "yād·ā·vo·rdan", "stress": "3"}
+{"fa": "خوابیدن", "roman": "hābīdan", "cn": "睡", "sound": "哈比丹", "note": "ā 长音；我睡了 hābīdam。", "syl": "hā·bī·dan", "stress": "3"}
+{"fa": "بیدار شدن", "roman": "bīdār shodan", "cn": "醒来", "sound": "比达尔-肖丹", "note": "ī 长音；几点醒？saat-e chand bīdār shodī؟", "syl": "bī·dār·sho·dan", "stress": "4"}
+{"fa": "بیدار کردن", "roman": "bīdār kardan", "cn": "叫醒", "sound": "比达尔-卡尔丹", "note": "明早叫我 fardā sobh bīdāram kon。", "syl": "bī·dār·ka·rdan", "stress": "4"}
+{"fa": "شستن", "roman": "shostan", "cn": "洗", "sound": "肖斯坦", "note": "洗手 dast shostan；洗衣服 lebās shostan。", "syl": "sho·stan", "stress": "2"}
+{"fa": "پوشیدن", "roman": "pūshīdan", "cn": "穿", "sound": "普希丹", "note": "ū 长音；我穿衣服 lebās mīpūsham。", "syl": "pū·shī·dan", "stress": "3"}
+{"fa": "در آوردن", "roman": "dar āvordan", "cn": "脱（衣）", "sound": "达拉沃尔丹", "note": "脱鞋 kafshhā rā dar āvordan。", "syl": "dar·ā·vo·rdan", "stress": "4"}
+{"fa": "پختن", "roman": "pohtan", "cn": "煮、烧（菜）", "sound": "波赫坦", "note": "h 哈气；做饭 ghazā pohtan。", "syl": "po·htan", "stress": "2"}
+{"fa": "سرخ کردن", "roman": "sorh kardan", "cn": "煎、炸", "sound": "索尔赫-卡尔丹", "note": "sorh 红；油炸 sorh kardan。", "syl": "sorh·ka·rdan", "stress": "3"}
+{"fa": "جارو کردن", "roman": "jārū kardan", "cn": "扫地", "sound": "贾鲁-卡尔丹", "note": "ū 长音；打扫房间 otāk rā jārū kardam。", "syl": "jā·rū·ka·rdan", "stress": "4"}
+{"fa": "مرتب کردن", "roman": "morattab kardan", "cn": "整理、收拾", "sound": "莫拉塔卜-卡尔丹", "note": "双 t；收拾房间 otāk morattab kardan。", "syl": "mo·ra·ttab·ka·rdan", "stress": "5"}
+{"fa": "رفتن به سفر", "roman": "raftan be safar", "cn": "去旅行", "sound": "拉夫坦-贝-萨法尔", "note": "safar 旅行；我去旅行 mīram safar。", "syl": "ra·ftan·be·sa·far", "stress": "5"}
+{"fa": "خرید کردن", "roman": "harīd kardan", "cn": "购物", "sound": "哈里德-卡尔丹", "note": "ī 长音；去购物 raftan harīd。", "syl": "ha·rīd·ka·rdan", "stress": "4"}
+{"fa": "قبول کردن", "roman": "kabūl kardan", "cn": "接受、同意", "sound": "加布尔-卡尔丹", "note": "k 喉音；ū 长音。", "syl": "ka·būl·ka·rdan", "stress": "4"}
+{"fa": "رد کردن", "roman": "rad kardan", "cn": "拒绝、驳回", "sound": "拉德-卡尔丹", "note": "反义 kabūl；口语也指“取消”。", "syl": "rad·ka·rdan", "stress": "3"}
+{"fa": "اشتباه کردن", "roman": "eshtebāh kardan", "cn": "犯错", "sound": "埃什泰巴赫-卡尔丹", "note": "抱歉我错了 bebaxshīd eshtebāh kardam。", "syl": "e·shte·bāh·ka·rdan", "stress": "5"}
+{"fa": "فراموش کردن", "roman": "farāmūsh kardan", "cn": "忘记", "sound": "法拉穆什-卡尔丹", "note": "ā、ū 长音；我忘了 farāmūsh kardam。", "syl": "fa·rā·mūsh·ka·rdan", "stress": "5"}
+{"fa": "یاد آوردن", "roman": "yād āvordan", "cn": "想起", "sound": "亚德-阿沃尔丹", "note": "我想起来了 yādam āmad。", "syl": "yād·ā·vo·rdan", "stress": "4"}
 {"fa": "تولد", "roman": "tavallod", "cn": "出生；生日", "sound": "塔瓦洛德", "note": "我出生在… man tavallod-e … hastam。", "syl": "ta·va·llod", "stress": "3"}
-{"fa": "زندگی کردن", "roman": "zendegī kardan", "cn": "生活、居住", "sound": "曾德吉-卡尔丹", "note": "我住在德黑兰 dar Tehrān zendegī mīkonam。", "syl": "ze·nde·gī·ka·rdan", "stress": "2"}
-{"fa": "کشتن", "roman": "koštan", "cn": "杀（罕见用）", "sound": "科什坦", "note": "日常仅见于比喻/新闻，慎用。", "syl": "ko·štan", "stress": "2"}
+{"fa": "زندگی کردن", "roman": "zendegī kardan", "cn": "生活、居住", "sound": "曾德吉-卡尔丹", "note": "我住在德黑兰 dar Tehrān zendegī mīkonam。", "syl": "ze·nde·gī·ka·rdan", "stress": "5"}
+{"fa": "کشتن", "roman": "koshtan", "cn": "杀（罕见用）", "sound": "科什坦", "note": "日常仅见于比喻/新闻，慎用。", "syl": "ko·shtan", "stress": "2"}
 {"fa": "مردن", "roman": "mordan", "cn": "死", "sound": "莫尔丹", "note": "委婉：fot kardan（口语）過世。", "syl": "mo·rdan", "stress": "2"}
-{"fa": "زدن به", "roman": "zadan be", "cn": "撞击、碰上", "sound": "扎丹-贝", "note": "撞车 be ham zadan。", "syl": "za·dan·be", "stress": "1"}
-{"fa": "دعوت کردن", "roman": "da'vat kardan", "cn": "邀请", "sound": "达瓦特-卡尔丹", "note": "邀请你 to rā da'vat kardan。", "syl": "da·'vat·ka·rdan", "stress": "2"}
-{"fa": "ملاقات کردن", "roman": "molāqāt kardan", "cn": "会见、拜访", "sound": "莫拉卡特-卡尔丹", "note": "q 喉音；见朋友 dūst rā molāqāt kardam。", "syl": "mo·lā·qāt·ka·rdan", "stress": "2"}
+{"fa": "زدن به", "roman": "zadan be", "cn": "撞击、碰上", "sound": "扎丹-贝", "note": "撞车 be ham zadan。", "syl": "za·dan·be", "stress": "3"}
+{"fa": "دعوت کردن", "roman": "da'vat kardan", "cn": "邀请", "sound": "达瓦特-卡尔丹", "note": "邀请你 to rā da'vat kardan。", "syl": "da·vat·ka·rdan", "stress": "4"}
+{"fa": "ملاقات کردن", "roman": "molākāt kardan", "cn": "会见、拜访", "sound": "莫拉卡特-卡尔丹", "note": "k 喉音；见朋友 dūst rā molākāt kardam。", "syl": "mo·lā·kāt·ka·rdan", "stress": "5"}

@@ -1,0 +1,57 @@
+{"fa": "کی", "roman": "kī", "cn": "谁", "sound": "基", "note": "kī 拖长；“谁来了？” kī ūmad？", "syl": "kī", "stress": "1"}
+{"fa": "چه", "roman": "če", "cn": "什么", "sound": "切", "note": "疑问词放句首或词前：če kār？做什么？", "syl": "če", "stress": "1"}
+{"fa": "چی", "roman": "čī", "cn": "什么（口语）", "sound": "奇", "note": "چه 的口语形；این چیه＝这是什么。", "syl": "čī", "stress": "1"}
+{"fa": "کجا", "roman": "kojā", "cn": "哪里", "sound": "科加", "note": "koجā 重音在 jā（拖长）；你去哪 kojā mīrī؟", "syl": "ko·jā", "stress": "2"}
+{"fa": "چرا", "roman": "čerā", "cn": "为什么", "sound": "切拉", "note": "čerā 重音在 rā；“为什么？”čerā？", "syl": "če·rā", "stress": "2"}
+{"fa": "چطور", "roman": "četor", "cn": "怎么、如何", "sound": "切托尔", "note": "问方式/状态；چطوری＝你好吗（口语）。", "syl": "če·tor", "stress": "2"}
+{"fa": "چگونه", "roman": "čegūne", "cn": "怎样（正式）", "sound": "切古内", "note": "较书面；口语多用 چطور/چطوری。", "syl": "če·gū·ne", "stress": "3"}
+{"fa": "چند", "roman": "čand", "cn": "多少（可数）", "sound": "钱德", "note": "问数量；多少钱 čand-e？几点 čand？", "syl": "čand", "stress": "1"}
+{"fa": "چقدر", "roman": "čeqadr", "cn": "多少（程度/量）", "sound": "切加德尔", "note": "q 喉音；问价格也说 čand，问程度用 čeqadr。", "syl": "če·qadr", "stress": "2"}
+{"fa": "کدام", "roman": "kodām", "cn": "哪一个", "sound": "科达姆", "note": "选择疑问：kodām yek？哪一个？", "syl": "ko·dām", "stress": "2"}
+{"fa": "آیا", "roman": "āyā", "cn": "…吗（疑问助词）", "sound": "阿亚", "note": "书面问句开头加 āyā 表“是否”，口语常省略。", "syl": "ā·yā", "stress": "2"}
+{"fa": "مگه", "roman": "mage", "cn": "难道、不是吗（口语）", "sound": "马盖", "note": "表惊讶反问：mage nemīdānī？难道你不知道？", "syl": "ma·ge", "stress": "2"}
+{"fa": "یا نه؟", "roman": "yā na", "cn": "还是不是？", "sound": "亚-那", "note": "句尾加 یا نه 表选择疑问；na 短促。", "syl": "yā·na", "stress": "1"}
+{"fa": "چند سالته؟", "roman": "čand sāl-et-e", "cn": "你多大了", "sound": "钱德-萨莱特", "note": "问年龄直接问“几岁你的”；对老人改问 سال تولد（生年）更礼貌。", "syl": "čand·sā·l-e·t-e", "stress": "3"}
+{"fa": "کجا زندگی می‌کنی؟", "roman": "kojā zendegī mīkonī", "cn": "你住在哪儿", "sound": "科加-曾德吉-米科尼", "note": "zendegī mīkonam＝我生活/居住。", "syl": "ko·jā·ze·nde·gī·mī·ko·nī", "stress": "3"}
+{"fa": "اهل کجایی هستی؟", "roman": "ahl-e kojā-yī hastī", "cn": "你是哪儿人（完整问法）", "sound": "阿赫勒-科加伊-哈斯蒂", "note": "口语可省 هستی；答 من اهل چین هستم。", "syl": "a·hl-e·ko·jā·-yī·ha·stī", "stress": "2"}
+{"fa": "کجا به دنیا اومدی؟", "roman": "kojā be donyā ūmadī", "cn": "你在哪儿出生", "sound": "科加-贝-东尼亚-乌马迪", "note": "اومدی 是 آمدی 的口语形；ū 拖长。", "syl": "ko·jā·be·do·nyā·ū·ma·dī", "stress": "3"}
+{"fa": "چند تا بچه داری؟", "roman": "čand tā bačče dārī", "cn": "你有几个孩子", "sound": "钱德-塔-巴切-达里", "note": "伊朗人聊天爱问家庭；回答 do tā＝两个。", "syl": "čand·tā·ba·čče·dā·rī", "stress": "2"}
+{"fa": "ازدواج کردی؟", "roman": "ezdevāj kardī", "cn": "你结婚了吗", "sound": "埃兹德瓦吉-卡尔迪", "note": "过去时疑问；已结婚 jā、没有 na。", "syl": "e·zde·vāj·ka·rdī", "stress": "2"}
+{"fa": "کارت چیه؟", "roman": "kāret čī-ye", "cn": "你做什么工作", "sound": "卡雷特-奇耶", "note": "kāret＝你的工作；答职业名。", "syl": "kā·ret·čī·-ye", "stress": "2"}
+{"fa": "این چیه؟", "roman": "īn čī-ye", "cn": "这是什么", "sound": "因-奇耶", "note": "īn 指近处“这”；čī-ye 连读轻。", "syl": "īn·čī·-ye", "stress": "2"}
+{"fa": "اون چیه؟", "roman": "ūn čī-ye", "cn": "那是什么", "sound": "乌恩-奇耶", "note": "ūn＝那（口语 آن）；ū 拖长。", "syl": "ūn·čī·-ye", "stress": "2"}
+{"fa": "این کجاست؟", "roman": "īn kojā-st", "cn": "这是哪里", "sound": "因-科加斯特", "note": "口头常连读 kojāst；重音在 jāst。", "syl": "īn·ko·jā-st", "stress": "2"}
+{"fa": "بازار کجاست؟", "roman": "bāzār kojā-st", "cn": "巴扎/市场在哪儿", "sound": "巴扎尔-科加斯特", "note": "问具体地点：X kojāst 万能句式。", "syl": "bā·zār·ko·jā-st", "stress": "2"}
+{"fa": "به توالت کجاست؟", "roman": "toālāt kojā-st", "cn": "厕所在哪儿", "sound": "托阿拉特-科加斯特", "note": "toālāt 是法语借词；问厕所必备。", "syl": "to·ā·lāt·ko·jā-st", "stress": "2"}
+{"fa": "ایستگاه کجاست؟", "roman": "īstgāh kojā-st", "cn": "车站在哪儿", "sound": "伊斯特加赫-科加斯特", "note": "地铁站 ایستگاه مترو；gāh 拖长。", "syl": "ī·stgāh·ko·jā-st", "stress": "2"}
+{"fa": "چطور برم؟", "roman": "četor beram", "cn": "我怎么去", "sound": "切托尔-贝拉姆", "note": "beram 是命令语气“我去”；问路万能。", "syl": "če·tor·be·ram", "stress": "2"}
+{"fa": "از کجا؟", "roman": "az kojā", "cn": "从哪儿", "sound": "阿兹-科加", "note": "az＝从；از کجا اومدی 你从哪来。", "syl": "az·ko·jā", "stress": "2"}
+{"fa": "تا کجا؟", "roman": "tā kojā", "cn": "到哪儿", "sound": "塔-科加", "note": "tā＝直到；这段路到哪儿？", "syl": "tā·ko·jā", "stress": "2"}
+{"fa": "کدوم طرف؟", "roman": "kodūm taraf", "cn": "哪边", "sound": "科杜姆-塔拉夫", "note": "kodūm 是 کدام 口语；问方向时用。", "syl": "ko·dūm·ta·raf", "stress": "2"}
+{"fa": "چند وقته اینجایی؟", "roman": "čand vaqt-e īnjā-yī", "cn": "你来这儿多久了", "sound": "钱德-瓦格特-因加伊", "note": "īn-jā＝这里＋连接 e。", "syl": "čand·va·qt-e·ī·njā·-yī", "stress": "3"}
+{"fa": "کی اومدی؟", "roman": "kay ūmadī", "cn": "你什么时候来的", "sound": "凯-乌马迪", "note": "kay 读“凯”；ūmadī 是过去时。", "syl": "kay·ū·ma·dī", "stress": "3"}
+{"fa": "چند وقت می‌مونی؟", "roman": "čand vaqt mīmūnī", "cn": "你要待多久", "sound": "钱德-瓦格特-米穆尼", "note": "mīmūnī 来自 ماندن 留下；ū 拖长。", "syl": "čand·vaqt·mī·mū·nī", "stress": "3"}
+{"fa": "چند روزه؟", "roman": "čand rūz-e", "cn": "几天了", "sound": "钱德-鲁泽", "note": "rūz 天；问停留/生病天数。", "syl": "čand·rū·z-e", "stress": "2"}
+{"fa": "قیمتش چنده؟", "roman": "qeymat-aš čand-e", "cn": "这个多少钱", "sound": "盖马特-阿什-钱德", "note": "qeymat 读“盖马特”非“给马特”；اَش＝它的。", "syl": "qe·yma·t-aš·ča·nd-e", "stress": "2"}
+{"fa": "قیمت چند تومنه؟", "roman": "qeymat-e čand tūman-e", "cn": "多少钱托曼", "sound": "盖马特-埃-钱德-图曼", "note": "伊朗价格按托曼（تومان）报，千托曼=千。", "syl": "qe·yma·t-e·čand·tū·ma·n-e", "stress": "3"}
+{"fa": "چند تومنه؟", "roman": "čand tūman-e", "cn": "多少托曼（口语）", "sound": "钱德-图曼", "note": "市场问价最常用；yek hezār tūman 一千托曼。", "syl": "čand·tū·ma·n-e", "stress": "3"}
+{"fa": "این چند است؟", "roman": "īn čand ast", "cn": "这个多少钱（正式）", "sound": "因-钱德-阿斯特", "note": "书面正式问价；市场多用口语句式。", "syl": "īn·čand·ast", "stress": "1"}
+{"fa": "می‌شه ارزون‌تر بدی؟", "roman": "mīše arzūn-tar bedī", "cn": "能便宜点吗", "sound": "米谢-阿尔尊塔尔-贝迪", "note": "arzūn 便宜；-tar 更。砍价金句。", "syl": "mī·še·a·rzū·n-tar·be·dī", "stress": "2"}
+{"fa": "تخفیف دارید؟", "roman": "taḵfīf dārīd", "cn": "有折扣吗", "sound": "塔赫菲夫-达里德", "note": "商店问折扣；taḵ 哈气音。", "syl": "ta·ḵfīf·dā·rīd", "stress": "2"}
+{"fa": "ساعت چنده؟", "roman": "sā'at čand-e", "cn": "几点了", "sound": "萨阿特-钱德", "note": "问时间；答 saat-e se＝三点。", "syl": "sā·'at·ča·nd-e", "stress": "2"}
+{"fa": "ساعت چند؟", "roman": "sā'at čand", "cn": "几点（简略）", "sound": "萨阿特-钱德", "note": "连读像 sā'at-čand；口头问时刻。", "syl": "sā·'at·čand", "stress": "1"}
+{"fa": "امروز چندمه؟", "roman": "emrūz čandom-e", "cn": "今天几号", "sound": "埃姆鲁兹-钱多姆", "note": "回答如 emrūz dahom-e 今天十号。", "syl": "e·mrūz·ča·ndo·m-e", "stress": "3"}
+{"fa": "امروز چه روزیه؟", "roman": "emrūz če rūzī-ye", "cn": "今天星期几", "sound": "埃姆鲁兹-切-鲁齐耶", "note": "星期几回答 شنبه/یکشنبه…；口语 rūzī 轻。", "syl": "e·mrūz·če·rū·zī·-ye", "stress": "3"}
+{"fa": "حالت چطوره؟", "roman": "hālet četor-e", "cn": "你怎么样", "sound": "哈莱特-切托雷", "note": "hāl 状态＋-et 你；朋友间问候。", "syl": "hā·let·če·to·r-e", "stress": "3"}
+{"fa": "حال شما چطوره؟", "roman": "hāl-e šomā četor-e", "cn": "您身体可好", "sound": "哈勒-肖玛-切托雷", "note": "敬称问候；回答 خوبم 我很好。", "syl": "hā·l-e·šo·mā·če·to·r-e", "stress": "3"}
+{"fa": "چرا این‌کارو کردی؟", "roman": "čerā īn-kāro kardī", "cn": "你为什么这样做", "sound": "切拉-因卡罗-卡尔迪", "note": "kāro 是 kār-e 的合音“把这件事”。", "syl": "če·rā·ī·n-kā·ro·ka·rdī", "stress": "2"}
+{"fa": "منظورت چیه؟", "roman": "manzūrat čī-ye", "cn": "你什么意思", "sound": "曼祖拉特-奇耶", "note": "问对方意图；ū 拖长。", "syl": "ma·nzū·rat·čī·-ye", "stress": "2"}
+{"fa": "می‌فهمی؟", "roman": "mīfahmī", "cn": "你懂吗", "sound": "米法赫米", "note": "问是否明白；答 ميفهمم 我懂。", "syl": "mī·fa·hmī", "stress": "3"}
+{"fa": "نظرت چیه؟", "roman": "nazarat čī-ye", "cn": "你觉得呢", "sound": "纳扎拉特-奇耶", "note": "征求看法：你的意见是啥。", "syl": "na·za·rat·čī·-ye", "stress": "2"}
+{"fa": "موافقی؟", "roman": "movāfeqī", "cn": "你同意吗", "sound": "莫瓦费基", "note": "q 喉音；同意就说 movāfeqam。", "syl": "mo·vā·fe·qī", "stress": "4"}
+{"fa": "میتونم کمکت کنم؟", "roman": "mītūnam komaket konam", "cn": "我能帮你吗", "sound": "米图纳姆-科马凯特-科纳姆", "note": "mītūnam＝我可以；ū 拖长。", "syl": "mī·tū·nam·ko·ma·ket·ko·nam", "stress": "2"}
+{"fa": "میشه یه کم کمکم کنی؟", "roman": "mīše ye kam komakam konī", "cn": "能帮我一下吗", "sound": "米谢-耶-卡姆-科马卡姆-科尼", "note": "ye kam＝一点点；礼貌求助。", "syl": "mī·še·ye·kam·ko·ma·kam·ko·nī", "stress": "2"}
+{"fa": "می‌دونی؟", "roman": "mīdūnī", "cn": "你知道吗", "sound": "米杜尼", "note": "ū 拖长；知道＝ mīdānam。", "syl": "mī·dū·nī", "stress": "3"}
+{"fa": "کجا می‌تونم پیداش کنم؟", "roman": "kojā mītūnam peydā-aš konam", "cn": "我在哪儿能找到它", "sound": "科加-米图纳姆-佩达阿什-科纳姆", "note": "peydā kardan＝找到；找物问句。", "syl": "ko·jā·mī·tū·nam·pe·ydā·-aš·ko·nam", "stress": "2"}
+{"fa": "کی برمی‌گردی؟", "roman": "kay bar-mīgardī", "cn": "你什么时候回来", "sound": "凯-巴尔米加尔迪", "note": "برمی‌گردی 回来；过去式返程也常用。", "syl": "kay·ba·r-mī·ga·rdī", "stress": "4"}
+{"fa": "باید چیکار کنم؟", "roman": "bāyad čī-kār konam", "cn": "我该怎么办", "sound": "巴亚德-奇卡尔-科纳姆", "note": "bāyad＝必须/应该；chī-kār 口语“做啥”。", "syl": "bā·yad·čī·-kār·ko·nam", "stress": "2"}
